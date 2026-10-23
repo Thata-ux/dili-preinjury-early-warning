@@ -141,6 +141,7 @@ Each step consumes the previous step's output. Runtimes are for Google Colab.
 | 3 | `Step2b_DeLong_Permutation.ipynb` | as step 2 | 3–5 h |
 | 4 | `make_figures.py` | step 2/3 output (no matrix) | minutes |
 | 3b | `Step2c_Sensitivity_Rerun.ipynb` | step 1 output + expression matrix | ~1.5 h |
+| 3c | `Step2d_Unit_And_Null_Audit.ipynb` | step 1 output + expression matrix | ~1 h |
 | 5 | `cluster_inference.py` | step 3 output (no matrix) | ~2 min |
 | — | `verify_provenance.py` | expression matrix + your own normalisation | minutes |
 
@@ -194,6 +195,17 @@ per rule. It also computes balanced accuracy and MCC at an a-priori prevalence t
 rather than the median of held-out predictions, adds compound-clustered intervals, and
 checkpoints after each rule. Re-running `union` is deliberate: it must reproduce AUC 0.8324,
 and the notebook checks that it does.
+
+### Step 3c — unit-of-analysis and null-structure audit
+
+Two checks a reviewer can reasonably demand. **A:** the model is fitted on arrays (three per
+arm) but scored on arms, so the differential-expression test sees ~3x more observations than
+there are independent outcomes; this repeats the analysis with arrays averaged to arms before
+feature selection. **B:** the published permutation shuffles arm labels freely across
+compounds, so the null lacks the within-compound label coherence the real data have; this
+builds a compound-respecting null by swapping whole label vectors between compounds with the
+same arm count. Neither affects leakage — held-out compounds are never seen in training — but
+both affect how the result should be described.
 
 ### Step 5 — compound-clustered inference and fold composition
 

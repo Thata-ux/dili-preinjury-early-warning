@@ -1,0 +1,547 @@
+TY  - JOUR
+AU  - Aguirre-Plans, J.
+PY  - 2021
+TI  - An ensemble learning approach for modeling the systems biology of drug-induced injury
+JO  - Biology direct
+VL  - 16
+IS  - 1
+SP  - 5
+DO  - 10.1186/s13062-020-00288-x
+UR  - https://doi.org/10.1186/s13062-020-00288-x
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Al-Tashi, Q.
+PY  - 2023
+TI  - Machine Learning Models for the Identification of Prognostic and Predictive Cancer Biomarkers: A Systematic Review
+JO  - International Journal of Molecular Sciences
+SP  - 7781
+DO  - 10.3390/ijms24097781
+UR  - https://doi.org/10.3390/ijms24097781
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Barutcu
+AU  - A. R.
+AU  - Black
+AU  - M. B.
+AU  - Nong
+AU  - A.
+PY  - 2023
+TI  - Mining toxicogenomic data for dose-responsive pathways: implications in advancing next-generation risk assessment
+JO  - Frontiers in Toxicology
+DO  - 10.3389/ftox.2023.1272364
+UR  - https://doi.org/10.3389/ftox.2023.1272364
+ER  - 
+
+TY  - JOUR
+AU  - Benjamini, Y.
+AU  - Hochberg, Y.
+PY  - 1995
+TI  - Controlling the false discovery rate: a practical and powerful approach to multiple testing
+JO  - Journal of the Royal Statistical Society: Series B (Methodological)
+VL  - 57
+IS  - 1
+SP  - 289
+EP  - 300
+DO  - 10.1111/j.2517-6161.1995.tb02031.x
+UR  - https://doi.org/10.1111/j.2517-6161.1995.tb02031.x
+ER  - 
+
+TY  - JOUR
+AU  - Breiman, L.
+PY  - 2001
+TI  - Random forests
+JO  - Machine Learning
+VL  - 45
+IS  - 1
+SP  - 5
+EP  - 32
+DO  - 10.1023/A:1010933404324
+UR  - https://doi.org/10.1023/A:1010933404324
+ER  - 
+
+TY  - CONF
+AU  - Chen, T.
+AU  - Guestrin, C.
+PY  - 2016
+TI  - XGBoost: a scalable tree boosting system
+T2  - Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+SP  - 785
+EP  - 794
+DO  - 10.1145/2939672.2939785
+UR  - https://doi.org/10.1145/2939672.2939785
+ER  - 
+
+TY  - JOUR
+AU  - Chierici, M.
+PY  - 2020
+TI  - Predictability of drug-induced liver injury by machine learning
+JO  - Biology direct
+VL  - 15
+IS  - 1
+SP  - 3
+DO  - 10.1186/s13062-020-0259-4
+UR  - https://doi.org/10.1186/s13062-020-0259-4
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - CHAP
+AU  - Copple, I.M.
+AU  - Goldring, C.E.
+AU  - Kitteringham, N.R.
+AU  - Park, B.K.
+PY  - 2010
+TI  - The Keap1-Nrf2 cellular defence pathway: mechanisms of regulation and role in protection against drug-induced toxicity
+T2  - Handbook of Experimental Pharmacology
+VL  - 196
+SP  - 233
+EP  - 266
+DO  - 10.1007/978-3-642-00663-0_9
+UR  - https://doi.org/10.1007/978-3-642-00663-0_9
+ER  - 
+
+TY  - JOUR
+AU  - Dai, M.
+AU  - Wang, P.
+AU  - Boyd, A.D.
+AU  - Kostov, G.
+AU  - Athey, B.
+AU  - Jones, E.G.
+AU  - Bunney, W.E.
+AU  - Myers, R.M.
+AU  - Speed, T.P.
+AU  - Akil, H.
+AU  - Watson, S.J.
+AU  - Meng, F.
+PY  - 2005
+TI  - Evolving gene/transcript definitions significantly alter the interpretation of GeneChip data
+JO  - Nucleic Acids Research
+VL  - 33
+IS  - 20
+SP  - e175
+DO  - 10.1093/nar/gni179
+UR  - https://doi.org/10.1093/nar/gni179
+ER  - 
+
+TY  - JOUR
+AU  - DeLong
+AU  - E. R.
+AU  - DeLong
+AU  - D. M.
+AU  - Clarke-Pearson
+AU  - D. L.
+PY  - 1988
+TI  - Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach
+JO  - Biometrics
+VL  - 44
+IS  - 3
+SP  - 837
+EP  - 845
+DO  - 10.2307/2531595
+UR  - https://doi.org/10.2307/2531595
+ER  - 
+
+TY  - JOUR
+AU  - Diaz-Uriarte, R.
+PY  - 2022
+TI  - Ten quick tips for biomarker discovery and validation analyses using machine learning
+JO  - PLOS Computational Biology
+VL  - 18
+IS  - 8
+SP  - e1010357
+DO  - 10.1371/journal.pcbi.1010357
+UR  - https://doi.org/10.1371/journal.pcbi.1010357
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Fortino, V.
+PY  - 2022
+TI  - Biomarkers of nanomaterials hazard from multi-layer data
+JO  - Nature Communications
+VL  - 13
+IS  - 1
+SP  - 3798
+DO  - 10.1038/s41467-022-31609-5
+UR  - https://doi.org/10.1038/s41467-022-31609-5
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Halappanavar, S.
+PY  - 2020
+TI  - Adverse outcome pathways as a tool for the design of testing strategies to support the safety assessment of emerging advanced materials at the nanoscale
+JO  - Particle and fibre toxicology
+VL  - 17
+IS  - 1
+SP  - 16
+DO  - 10.1186/s12989-020-00344-4
+UR  - https://doi.org/10.1186/s12989-020-00344-4
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Hall, A.P.
+AU  - Elcombe, C.R.
+AU  - Foster, J.R.
+AU  - Harada, T.
+AU  - Kaufmann, W.
+AU  - Knippel, A.
+AU  - Küttler, K.
+AU  - Malarkey, D.E.
+AU  - Maronpot, R.R.
+AU  - Nishikawa, A.
+AU  - Nolte, T.
+AU  - Schulte, A.
+AU  - Strauss, V.
+AU  - York, M.J.
+PY  - 2012
+TI  - Liver hypertrophy: a review of adaptive (adverse and non-adverse) changes—conclusions from the 3rd International ESTP Expert Workshop
+JO  - Toxicologic Pathology
+VL  - 40
+IS  - 7
+SP  - 971
+EP  - 994
+DO  - 10.1177/0192623312448935
+UR  - https://doi.org/10.1177/0192623312448935
+ER  - 
+
+TY  - JOUR
+AU  - Hossam Abdelmonem, B.
+PY  - 2024
+TI  - Decoding the Role of CYP450 Enzymes in Metabolism and Disease: A Comprehensive Review
+JO  - Biomedicines
+SP  - 1467
+DO  - 10.3390/biomedicines12071467
+UR  - https://doi.org/10.3390/biomedicines12071467
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Igarashi, Y.
+AU  - Nakatsu, N.
+AU  - Yamashita, T.
+AU  - Ono, A.
+AU  - Ohno, Y.
+AU  - Urushidani, T.
+AU  - Yamada, H.
+PY  - 2015
+TI  - Open TG-GATEs: a large-scale toxicogenomics database
+JO  - Nucleic Acids Research
+VL  - 43
+IS  - D1
+SP  - D921
+EP  - D927
+DO  - 10.1093/nar/gku955
+UR  - https://doi.org/10.1093/nar/gku955
+ER  - 
+
+TY  - JOUR
+AU  - Jia
+AU  - X.
+AU  - Wang
+AU  - T.
+AU  - Zhu
+AU  - H.
+PY  - 2023
+TI  - Advancing Computational Toxicology by Interpretable Machine Learning
+JO  - Environmental Science & Technology
+VL  - 57
+IS  - 46
+SP  - 17690
+EP  - 17706
+DO  - 10.1021/acs.est.3c00653
+UR  - https://doi.org/10.1021/acs.est.3c00653
+ER  - 
+
+TY  - JOUR
+AU  - Lee
+AU  - S.
+AU  - Yoo
+AU  - S.
+PY  - 2024
+TI  - InterDILI: interpretable prediction of drug-induced liver injury through permutation feature importance and attention mechanism
+JO  - Journal of Cheminformatics
+VL  - 16
+IS  - 1
+SP  - 1
+DO  - 10.1186/s13321-023-00796-8
+UR  - https://doi.org/10.1186/s13321-023-00796-8
+ER  - 
+
+TY  - JOUR
+AU  - Li, T.
+PY  - 2020
+TI  - Deep Learning on High-Throughput Transcriptomics to Predict Drug-Induced Liver Injury
+JO  - Frontiers in bioengineering and biotechnology
+VL  - 8
+SP  - 562677
+DO  - 10.3389/fbioe.2020.562677
+UR  - https://doi.org/10.3389/fbioe.2020.562677
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - CONF
+AU  - Lundberg, S.M.
+AU  - Lee, S.-I.
+PY  - 2017
+TI  - A unified approach to interpreting model predictions
+T2  - Advances in Neural Information Processing Systems 30
+SP  - 4765
+EP  - 4774
+UR  - https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html
+ER  - 
+
+TY  - JOUR
+AU  - Martínez-Sena, T.
+PY  - 2023
+TI  - Metabolomics-based strategy to assess drug hepatotoxicity and uncover the mechanisms of hepatotoxicity involved
+JO  - Archives of toxicology
+VL  - 97
+IS  - 6
+SP  - 1723
+EP  - 1738
+DO  - 10.1007/s00204-023-03474-8
+UR  - https://doi.org/10.1007/s00204-023-03474-8
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Nasarian, E.
+PY  - 2024
+TI  - Designing interpretable ML system to enhance trust in healthcare: A systematic review to proposed responsible clinician-AI-collaboration framework
+JO  - Information Fusion
+VL  - 108
+SP  - 102412
+DO  - 10.1016/j.inffus.2024.102412
+UR  - https://doi.org/10.1016/j.inffus.2024.102412
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Ng, S.
+PY  - 2023
+TI  - The benefits and pitfalls of machine learning for biomarker discovery
+JO  - Cell and tissue research
+VL  - 394
+IS  - 1
+SP  - 17
+EP  - 31
+DO  - 10.1007/s00441-023-03816-z
+UR  - https://doi.org/10.1007/s00441-023-03816-z
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Paradiso, A.
+PY  - 2023
+TI  - In vitro functional models for human liver diseases and drug screening: beyond animal testing
+JO  - Biomaterials Science
+VL  - 11
+IS  - 9
+SP  - 2988
+EP  - 3015
+DO  - 10.1039/D1BM01872H
+UR  - https://doi.org/10.1039/D1BM01872H
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Ravindra, K. C.
+PY  - 2023
+TI  - Tandem mass tag-based quantitative proteomic profiling identifies candidate serum biomarkers of drug-induced liver injury in humans
+JO  - Nature Communications
+VL  - 14
+IS  - 1
+SP  - 1215
+DO  - 10.1038/s41467-023-36858-6
+UR  - https://doi.org/10.1038/s41467-023-36858-6
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Roberts, D.R.
+AU  - Bahn, V.
+AU  - Ciuti, S.
+AU  - Boyce, M.S.
+AU  - Elith, J.
+AU  - Guillera-Arroita, G.
+AU  - Hauenstein, S.
+AU  - Lahoz-Monfort, J.J.
+AU  - Schröder, B.
+AU  - Thuiller, W.
+AU  - Warton, D.I.
+AU  - Wintle, B.A.
+AU  - Hartig, F.
+AU  - Dormann, C.F.
+PY  - 2017
+TI  - Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure
+JO  - Ecography
+VL  - 40
+IS  - 8
+SP  - 913
+EP  - 929
+DO  - 10.1111/ecog.02881
+UR  - https://doi.org/10.1111/ecog.02881
+ER  - 
+
+TY  - JOUR
+AU  - Serras, A. S.
+PY  - 2021
+TI  - A Critical Perspective on 3D Liver Models for Drug Metabolism and Toxicology Studies
+JO  - Frontiers in cell and developmental biology
+VL  - 9
+SP  - 626805
+DO  - 10.3389/fcell.2021.626805
+UR  - https://doi.org/10.3389/fcell.2021.626805
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Shin
+AU  - S.
+AU  - Lee
+AU  - C.
+AU  - Park
+AU  - T.
+PY  - 2025
+TI  - Comprehensive analysis of high-throughput transcriptomics to distinguish drug-induced liver injury (DILI) phenotypes
+JO  - Archives of Toxicology
+VL  - 99
+IS  - 9
+SP  - 3721
+EP  - 3734
+DO  - 10.1007/s00204-025-04089-x
+UR  - https://doi.org/10.1007/s00204-025-04089-x
+ER  - 
+
+TY  - JOUR
+AU  - Smith, B. P.
+PY  - 2020
+TI  - Identification of early liver toxicity gene biomarkers using comparative supervised machine learning
+JO  - Scientific Reports
+VL  - 10
+IS  - 1
+SP  - 19128
+DO  - 10.1038/s41598-020-76129-8
+UR  - https://doi.org/10.1038/s41598-020-76129-8
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Taguchi, K.
+AU  - Kensler, T.W.
+PY  - 2020
+TI  - Nrf2 in liver toxicology
+JO  - Archives of Pharmacal Research
+VL  - 43
+IS  - 3
+SP  - 337
+EP  - 349
+DO  - 10.1007/s12272-019-01192-3
+UR  - https://doi.org/10.1007/s12272-019-01192-3
+ER  - 
+
+TY  - JOUR
+AU  - Thoolen, B.
+AU  - Maronpot, R.R.
+AU  - Harada, T.
+AU  - Nyska, A.
+AU  - Rousseaux, C.
+AU  - Nolte, T.
+AU  - Malarkey, D.E.
+AU  - Kaufmann, W.
+AU  - Küttler, K.
+AU  - Deschl, U.
+AU  - Nakae, D.
+AU  - Gregson, R.
+AU  - Vinlove, M.P.
+AU  - Brix, A.E.
+AU  - Singh, B.
+AU  - Belpoggi, F.
+AU  - Ward, J.M.
+PY  - 2010
+TI  - Proliferative and nonproliferative lesions of the rat and mouse hepatobiliary system
+JO  - Toxicologic Pathology
+VL  - 38
+IS  - 7 Suppl
+SP  - 5S
+EP  - 81S
+DO  - 10.1177/0192623310386499
+UR  - https://doi.org/10.1177/0192623310386499
+ER  - 
+
+TY  - JOUR
+AU  - Van den Broeck
+AU  - G.
+AU  - Lykov
+AU  - A.
+AU  - Schleich
+AU  - M.
+AU  - Suciu
+AU  - D.
+PY  - 2022
+TI  - On the Tractability of SHAP Explanations
+JO  - Journal of Artificial Intelligence Research
+VL  - 74
+SP  - 851
+EP  - 886
+DO  - 10.1613/jair.1.13283
+UR  - https://doi.org/10.1613/jair.1.13283
+ER  - 
+
+TY  - JOUR
+AU  - Villanueva-Paz, M.
+PY  - 2021
+TI  - Oxidative Stress in Drug-Induced Liver Injury (DILI): From Mechanisms to Biomarkers for Use in Clinical Practice
+JO  - Antioxidants
+SP  - 390
+DO  - 10.3390/antiox10030390
+UR  - https://doi.org/10.3390/antiox10030390
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Walker, P. A.
+PY  - 2020
+TI  - The evolution of strategies to minimise the risk of human drug-induced liver injury (DILI) in drug discovery and development
+JO  - Archives of toxicology
+VL  - 94
+IS  - 8
+SP  - 2559
+EP  - 2585
+DO  - 10.1007/s00204-020-02763-w
+UR  - https://doi.org/10.1007/s00204-020-02763-w
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 
+
+TY  - JOUR
+AU  - Williams, G.M.
+AU  - Iatropoulos, M.J.
+PY  - 2002
+TI  - Alteration of liver cell function and proliferation: differentiation between adaptation and toxicity
+JO  - Toxicologic Pathology
+VL  - 30
+IS  - 1
+SP  - 41
+EP  - 53
+DO  - 10.1080/01926230252824699
+UR  - https://doi.org/10.1080/01926230252824699
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, Z.
+PY  - 2025
+TI  - TCN-RDP: Predicting Drug-Induced Liver Injury from Time-Series Toxicogenomic Data
+JO  - Journal of Chemical Information and Modeling
+VL  - 65
+IS  - 20
+SP  - 11486
+EP  - 11496
+DO  - 10.1021/acs.jcim.5c01678
+UR  - https://doi.org/10.1021/acs.jcim.5c01678
+N1  - Author list incomplete in source; use Mendeley 'Update details from DOI'.
+ER  - 

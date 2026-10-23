@@ -96,11 +96,32 @@ def compounds_of(df):
     return np.array([str(i).split(" | ")[0] for i in df.index])
 
 
+#: Springer submission names, keyed by this script's descriptive name.
+SPRINGER_NAME = {"Figure1_study_design": "Fig1", "Figure2_roc_pr": "Fig2",
+                 "Figure3_forest": "Fig3", "Figure4_gene_stability": "Fig4"}
+
+#: Set by main(). When true, each figure is also written as the submission
+#: wants it: EPS vector plus 600 dpi TIFF (combination art), named FigN.
+SPRINGER = False
+
+
 def save(fig, out: Path, name: str):
     for ext in ("png", "pdf"):
         fig.savefig(out / f"{name}.{ext}")
+    written = f"{name}.png / .pdf"
+
+    if SPRINGER and name in SPRINGER_NAME:
+        sub = out / "springer"; sub.mkdir(exist_ok=True)
+        stem = SPRINGER_NAME[name]
+        # EPS has no alpha channel; a transparent patch would rasterise oddly.
+        fig.patch.set_alpha(1.0)
+        fig.savefig(sub / f"{stem}.eps", format="eps")
+        fig.savefig(sub / f"{stem}.tif", format="tiff", dpi=600,
+                    pil_kwargs={"compression": "tiff_lzw"})
+        written += f"  ->  springer/{stem}.eps / .tif"
+
     plt.close(fig)
-    print(f"  wrote {name}.png / .pdf")
+    print(f"  wrote {written}")
 
 
 # ---------------------------------------------------------------- figure 1 --
@@ -352,7 +373,11 @@ def main():
     ap.add_argument("--step2", default="/content/step2")
     ap.add_argument("--out", default="/content/figures")
     ap.add_argument("--rule", default="union")
+    ap.add_argument("--springer", action="store_true",
+                    help="also write FigN.eps and 600 dpi FigN.tif for submission")
     a = ap.parse_args()
+    global SPRINGER
+    SPRINGER = a.springer
     s1, s2, out = Path(a.step1), Path(a.step2), Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
 
