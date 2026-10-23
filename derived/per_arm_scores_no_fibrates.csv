@@ -1,0 +1,390 @@
+arm,y,score_transcriptomic,dose_level_ordinal
+"2,4-dinitrophenol | High",0,0.00163875884997348,3
+"2,4-dinitrophenol | Low",0,0.003567543598668029,1
+"2,4-dinitrophenol | Middle",0,0.0008172345284644204,2
+acarbose | High,0,0.003142925910651684,3
+acarbose | Low,0,0.0008992448468537381,1
+acarbose | Middle,0,0.0008622878425133725,2
+acetamide | Low,0,0.0003481609091977589,1
+acetamidofluorene | Low,1,0.6580946942170461,1
+acetamidofluorene | Middle,1,0.9091814955075582,2
+acetaminophen | Low,0,0.007357924555738767,1
+acetaminophen | Middle,0,0.04566352069377899,2
+acetazolamide | High,0,0.07156963925808668,3
+acetazolamide | Low,0,0.003519063408020884,1
+acetazolamide | Middle,0,0.01807703807329138,2
+adapin | High,0,0.18589787185192108,3
+adapin | Low,0,0.07890413682131718,1
+adapin | Middle,0,0.013791552046313882,2
+ajmaline | High,0,0.044951499750216804,3
+ajmaline | Low,0,0.003690750318734596,1
+ajmaline | Middle,0,0.0037500413018278778,2
+allopurinol | High,0,0.002093328943980547,3
+allopurinol | Low,0,0.002842373699725916,1
+allopurinol | Middle,0,0.015883495681919158,2
+allyl alcohol | Low,0,0.006607108671839039,1
+allyl alcohol | Middle,0,0.019234451775749523,2
+amiodarone | High,0,0.44070973868171376,3
+amiodarone | Low,0,0.020482413179706782,1
+amiodarone | Middle,0,0.0044161766418255866,2
+amitriptyline | High,1,0.18445716829349598,3
+amitriptyline | Low,0,0.0035895733550811806,1
+amitriptyline | Middle,0,0.01277037535328418,2
+amphotericin B | High,0,0.0003366824482024337,3
+amphotericin B | Low,0,0.0007640164597736051,1
+amphotericin B | Middle,0,0.0010913099589136739,2
+aspirin | High,0,0.007692540297284722,3
+aspirin | Low,0,0.007830542046576738,1
+aspirin | Middle,0,0.02817495834703247,2
+azathioprine | High,0,0.558910301576058,3
+azathioprine | Low,0,0.0023579521027083197,1
+azathioprine | Middle,0,0.013965091668069363,2
+bendazac | High,1,0.3442258999372522,3
+bendazac | Low,0,0.0013021675501173984,1
+bendazac | Middle,0,0.004975423061599334,2
+benzbromarone | High,1,0.681191086769104,3
+benzbromarone | Low,0,0.007275968013952176,1
+benzbromarone | Middle,0,0.0912403507779042,2
+benziodarone | High,0,0.7734088102976481,3
+benziodarone | Low,0,0.0003169598858221434,1
+benziodarone | Middle,0,0.00787740332695345,2
+bromobenzene | High,1,0.38944707810878754,3
+bromobenzene | Low,0,0.01435671312113603,1
+bromobenzene | Middle,0,0.10930100828409195,2
+bromoethylamine | High,0,0.0458618588745594,3
+bromoethylamine | Low,0,0.014744506372759739,1
+bromoethylamine | Middle,0,0.02344392767796914,2
+bucetin | High,0,0.48523831367492676,3
+bucetin | Low,0,0.0033396309833430373,1
+bucetin | Middle,0,0.037292091990821064,2
+butylated hydroxyanisole | High,0,0.3178912376364072,3
+butylated hydroxyanisole | Low,0,0.19633996207267046,1
+butylated hydroxyanisole | Middle,0,0.0017311145396282275,2
+caffeine | High,0,0.029538587977488834,3
+caffeine | Low,0,0.0027171621719996133,1
+caffeine | Middle,0,0.0009939955392231543,2
+captopril | High,0,0.014562324232732257,3
+captopril | Low,0,0.0014485572028206661,1
+captopril | Middle,0,0.003996442518352221,2
+carbamazepine | High,1,0.9655533830324808,3
+carbamazepine | Low,1,0.05931441443196187,1
+carbamazepine | Middle,1,0.12838034766415754,2
+carboplatin | High,0,0.02134380831072728,3
+carboplatin | Low,0,0.0030803247548950217,1
+carboplatin | Middle,0,0.023886346568663914,2
+cephalothin | High,0,0.07409000334640344,3
+cephalothin | Low,0,0.01729927029615889,1
+cephalothin | Middle,0,0.019455772979805868,2
+chloramphenicol | High,0,0.006618269175911943,3
+chloramphenicol | Low,0,0.0027990185966094336,1
+chloramphenicol | Middle,0,0.03422194036344687,2
+chlormadinone | High,0,0.012619375600479543,3
+chlormadinone | Low,0,0.0008506834783474915,1
+chlormadinone | Middle,0,0.0006001451644503201,2
+chlormezanone | High,1,0.9623017907142639,3
+chlormezanone | Low,0,0.27433256432414055,1
+chlormezanone | Middle,0,0.4817367096741994,2
+chlorpheniramine | High,0,0.03515867376700044,3
+chlorpheniramine | Low,0,0.004520501854130998,1
+chlorpheniramine | Middle,0,0.013710368735094866,2
+chlorpromazine | High,0,0.026243695057928562,3
+chlorpromazine | Low,0,0.009146147679227093,1
+chlorpromazine | Middle,0,0.007186817160497109,2
+chlorpropamide | High,1,0.34244343141714734,3
+chlorpropamide | Low,0,0.011915193385599801,1
+chlorpropamide | Middle,0,0.015250576039155325,2
+cimetidine | High,0,0.02794860303401947,3
+cimetidine | Low,0,0.0017923764341200392,1
+cimetidine | Middle,0,0.013442536039898792,2
+ciprofloxacin | High,0,0.004071436240337789,3
+ciprofloxacin | Low,0,0.06746231640378635,1
+ciprofloxacin | Middle,0,0.00289893967177098,2
+cisplatin | High,0,0.006005902541801333,3
+cisplatin | Low,0,0.008794821022699276,1
+cisplatin | Middle,0,0.04293278744444251,2
+clomipramine | High,0,0.16396226671834788,3
+clomipramine | Low,0,0.006635412927910996,1
+clomipramine | Middle,0,0.010722394101321697,2
+colchicine | Low,0,0.0006249295208059872,1
+colchicine | Middle,0,0.10324111658458908,2
+coumarin | High,1,0.5835366447766622,3
+coumarin | Low,0,0.047400483240683876,1
+coumarin | Middle,0,0.018646670505404472,2
+cyclophosphamide | High,0,0.0023142194258980453,3
+cyclophosphamide | Low,0,0.002803652372676879,1
+cyclophosphamide | Middle,0,0.0029061397459978857,2
+cyclosporine A | High,0,0.0005843842130464812,3
+cyclosporine A | Low,0,0.0022369782285143933,1
+cyclosporine A | Middle,0,0.002539475040975958,2
+danazol | High,0,0.09350716819365819,3
+danazol | Low,0,0.02173645425743113,1
+danazol | Middle,0,0.006291481821487348,2
+dantrolene | High,0,0.1636859526236852,3
+dantrolene | Low,0,0.005181072318616013,1
+dantrolene | Middle,0,0.29845742508769035,2
+desmopressin acetate | High,0,0.0003702475029664735,3
+desmopressin acetate | Low,0,0.0010885223746299744,1
+desmopressin acetate | Middle,0,0.0008883510551337773,2
+diazepam | High,0,0.3376754738080005,3
+diazepam | Low,0,0.009241468738764524,1
+diazepam | Middle,0,0.123841792345047,2
+diclofenac | High,0,0.019387830786096554,3
+diclofenac | Low,0,0.005639823308835427,1
+diclofenac | Middle,0,0.02668325447787841,2
+diltiazem | High,1,0.9384797811508179,3
+diltiazem | Low,0,0.03925123189886411,1
+diltiazem | Middle,0,0.4929408331712087,2
+disopyramide | High,0,0.24912873740928868,3
+disopyramide | Low,0,0.007023178661863009,1
+disopyramide | Middle,0,0.00981886824592948,2
+disulfiram | High,0,0.8278957804044088,3
+disulfiram | Low,0,0.20279097060362497,1
+disulfiram | Middle,0,0.5564814209938049,2
+doxorubicin | High,0,0.07796330004930496,3
+doxorubicin | Low,0,0.03294970359032353,1
+doxorubicin | Middle,0,0.0024541278835386038,2
+enalapril | High,0,0.005063879381244381,3
+enalapril | Low,0,0.001310826395638287,1
+enalapril | Middle,0,0.000671391089175207,2
+erythromycin ethylsuccinate | High,0,0.013914025543878475,3
+erythromycin ethylsuccinate | Low,0,0.01965612320054788,1
+erythromycin ethylsuccinate | Middle,0,0.0027352316731897495,2
+ethambutol | High,1,0.2512349635362625,3
+ethambutol | Low,0,0.054273363823692,1
+ethambutol | Middle,1,0.0907807902743419,2
+ethanol | High,0,0.01567933048742513,3
+ethanol | Low,0,0.04439529109125336,1
+ethanol | Middle,0,0.01645376451779157,2
+ethinylestradiol | High,0,0.09361354509989421,3
+ethinylestradiol | Low,0,0.01052548138735195,1
+ethinylestradiol | Middle,0,0.0759415253996849,2
+ethionamide | Low,0,0.01644600819175442,1
+ethionine | Low,0,0.008033738937228918,1
+ethionine | Middle,0,0.5760086178779602,2
+etoposide | High,0,0.003988195016669731,3
+etoposide | Low,0,0.0053667948038006825,1
+etoposide | Middle,0,0.009342154177526632,2
+famotidine | High,0,0.007215797939958672,3
+famotidine | Low,0,0.02636340834821264,1
+famotidine | Middle,0,0.000579870626097545,2
+fluoxetine hydrochloride | High,0,0.08456612409402926,3
+fluoxetine hydrochloride | Low,0,0.0002883768902393058,1
+fluoxetine hydrochloride | Middle,0,0.005504816537722945,2
+fluphenazine | High,0,0.018671436002478004,3
+fluphenazine | Low,0,0.0032352617708966136,1
+fluphenazine | Middle,0,0.09221617023771007,2
+flutamide | High,1,0.9924801190694174,3
+flutamide | Low,0,0.08272332682584722,1
+flutamide | Middle,0,0.2600090553363164,2
+furosemide | High,0,0.2773813021679719,3
+furosemide | Low,0,0.08283495809882879,1
+furosemide | Middle,0,0.020558455551508814,2
+gentamicin | High,0,0.008150868505860368,3
+gentamicin | Low,0,0.0009592390803542609,1
+gentamicin | Middle,0,0.0006305850498999158,2
+glibenclamide | High,0,0.0020908473525196314,3
+glibenclamide | Low,0,0.0023781509953550994,1
+glibenclamide | Middle,0,0.20285202418259965,2
+griseofulvin | High,0,0.10781276039779186,3
+griseofulvin | Low,0,0.044756101754804455,1
+griseofulvin | Middle,0,0.1714238040149212,2
+haloperidol | High,0,0.02208384374777476,3
+haloperidol | Low,0,0.049163784055660166,1
+haloperidol | Middle,0,0.008147128857672215,2
+hexachlorobenzene | High,1,0.9776593844095866,3
+hexachlorobenzene | Low,1,0.7889842092990875,1
+hexachlorobenzene | Middle,1,0.795480748017629,2
+hydroxyzine | High,1,0.9581752022107443,3
+hydroxyzine | Low,0,0.03748931844408313,1
+hydroxyzine | Middle,0,0.08425661417034765,2
+ibuprofen | High,0,0.057274699211120605,3
+ibuprofen | Low,0,0.02796493098139763,1
+ibuprofen | Middle,0,0.0151354456320405,2
+imipramine | High,0,0.30260556067029637,3
+imipramine | Low,0,0.01411680150583076,1
+imipramine | Middle,0,0.009542232612147927,2
+indomethacin | High,0,0.0007897643663454801,3
+indomethacin | Low,0,0.011118310474557802,1
+indomethacin | Middle,0,0.02022140535215537,2
+iproniazid | High,1,0.039752508979290724,3
+iproniazid | Low,0,0.01635845610871911,1
+iproniazid | Middle,0,0.06292987341294065,2
+isoniazid | High,0,0.03954007476568222,3
+isoniazid | Low,0,0.010552258851627508,1
+isoniazid | Middle,0,0.03895365530236935,2
+ketoconazole | High,1,0.1374626352917403,3
+ketoconazole | Low,0,0.002554609983538588,1
+ketoconazole | Middle,0,0.0036015151223788657,2
+labetalol | High,0,0.040129621823628746,3
+labetalol | Low,0,0.0025126421047995486,1
+labetalol | Middle,0,0.007688924049337705,2
+lomustine | High,1,0.009520344280948242,3
+lomustine | Low,0,0.01776713722695907,1
+lomustine | Middle,0,0.033220966501782336,2
+lornoxicam | High,0,0.003607238487650951,3
+lornoxicam | Low,0,0.004802195743347208,1
+lornoxicam | Middle,0,0.0047048754640854895,2
+mefenamic acid | High,0,0.003942347480915487,3
+mefenamic acid | Low,0,0.0041809116761821015,1
+mefenamic acid | Middle,0,0.0029208987446812293,2
+meloxicam | High,0,0.0027122624839345613,3
+meloxicam | Low,0,0.015286562692684432,1
+meloxicam | Middle,0,0.002759442082606256,2
+metformin | High,0,0.011714696418493986,3
+metformin | Low,0,0.008800517146786055,1
+metformin | Middle,0,0.01180887051547567,2
+methapyrilene | Low,0,0.021569607449540246,1
+methapyrilene | Middle,1,0.32419063438040513,2
+methimazole | High,1,0.050979445998867355,3
+methimazole | Low,0,0.05988707176099221,1
+methimazole | Middle,0,0.12006405865152676,2
+methyldopa | High,0,0.020103953468302887,3
+methyldopa | Low,0,0.03206961415708065,1
+methyldopa | Middle,0,0.006207394568870465,2
+methylene dianiline | Low,0,0.00892938687078034,1
+methyltestosterone | High,0,0.012633023647746692,3
+methyltestosterone | Low,0,0.009417972022977969,1
+methyltestosterone | Middle,0,0.044332056383912764,2
+mexiletine | High,0,0.14553028360630074,3
+mexiletine | Low,0,0.0007266400013274202,1
+mexiletine | Middle,0,0.015489089981808016,2
+monocrotaline | Low,0,0.0363825565824906,1
+monocrotaline | Middle,1,0.23211417316148678,2
+moxisylyte | High,0,0.008170632335046927,3
+moxisylyte | Low,0,0.001922502046606193,1
+moxisylyte | Middle,0,0.012990915682166815,2
+naphthyl isothiocyanate | Low,0,0.005714367396042992,1
+naphthyl isothiocyanate | Middle,0,0.016705208593824256,2
+naproxen | Low,0,0.006227276831244429,1
+naproxen | Middle,0,0.03138812010486921,2
+nicotinic acid | High,0,0.0008864195939774314,3
+nicotinic acid | Low,0,0.0027456850075395778,1
+nicotinic acid | Middle,0,0.0001353516236122232,2
+nifedipine | High,0,0.8714545567830404,3
+nifedipine | Low,0,0.11740381208558877,1
+nifedipine | Middle,0,0.3162364090482394,2
+nimesulide | High,1,0.3575858858724435,3
+nimesulide | Low,0,0.0024014030738423267,1
+nimesulide | Middle,0,0.03336826215187708,2
+nitrofurantoin | High,0,0.004198613887031873,3
+nitrofurantoin | Low,0,0.002511479309760034,1
+nitrofurantoin | Middle,0,0.00248968423208377,2
+nitrofurazone | High,0,0.1373140588402748,3
+nitrofurazone | Low,0,0.007683263305807486,1
+nitrofurazone | Middle,0,0.07307318473855655,2
+nitrosodiethylamine | Low,1,0.08780608884990215,1
+nitrosodiethylamine | Middle,1,0.8318564097086588,2
+omeprazole | High,1,0.8943233092625936,3
+omeprazole | Low,0,0.006667623451600472,1
+omeprazole | Middle,0,0.28730096435174346,2
+papaverine | Low,0,0.0006928755659221982,1
+papaverine | Middle,0,0.014611065232505402,2
+pemoline | High,0,0.03349802425752083,3
+pemoline | Low,0,0.02093476926287015,1
+pemoline | Middle,0,0.04616243919978539,2
+penicillamine | High,0,0.009165090004292628,3
+penicillamine | Low,0,0.0013582149889164914,1
+penicillamine | Middle,0,0.00037137210892979056,2
+perhexiline | High,0,0.002367458558486154,3
+perhexiline | Low,0,0.0008699330598271141,1
+perhexiline | Middle,0,0.0002109093232623612,2
+phenacetin | High,0,0.8481649359067281,3
+phenacetin | Low,0,0.007252037214736144,1
+phenacetin | Middle,0,0.019996020942926407,2
+phenobarbital | High,1,0.8883567253748575,3
+phenobarbital | Low,0,0.037465895215670265,1
+phenobarbital | Middle,0,0.9827589193979899,2
+phenylanthranilic acid | High,0,0.002064220044606676,3
+phenylanthranilic acid | Low,0,0.0007769739313516766,1
+phenylanthranilic acid | Middle,0,0.001985659881029278,2
+phenylbutazone | High,0,0.6477947036425272,3
+phenylbutazone | Low,0,0.04301008644203345,1
+phenylbutazone | Middle,0,0.2795036981503169,2
+phenytoin | High,1,0.9577836592992147,3
+phenytoin | Low,0,0.05434676771983504,1
+phenytoin | Middle,0,0.1188291683793068,2
+promethazine | High,1,0.8243980407714844,3
+promethazine | Low,0,0.008654229498157898,1
+promethazine | Middle,1,0.15532503804812828,2
+propranolol | High,0,0.09674029269566138,3
+propranolol | Low,0,0.00285731826928289,1
+propranolol | Middle,0,0.0058953350720306235,2
+propylthiouracil | High,0,0.639436662197113,3
+propylthiouracil | Low,0,0.2172734268436519,1
+propylthiouracil | Middle,0,0.237590990960598,2
+puromycin aminonucleoside | Low,0,0.003619675573039179,1
+puromycin aminonucleoside | Middle,1,0.004603483539540321,2
+quinidine | High,0,0.29316859878599644,3
+quinidine | Low,0,0.0022410692860527584,1
+quinidine | Middle,0,0.04167269422517469,2
+ranitidine | High,0,0.00984156783670187,3
+ranitidine | Low,0,0.00973035100226601,1
+ranitidine | Middle,0,0.0053612913470715284,2
+rifampicin | High,0,0.4075972621018688,3
+rifampicin | Low,0,0.04035672092383417,1
+rifampicin | Middle,0,0.012931529432535172,2
+rosiglitazone maleate | High,0,0.006750349615079661,3
+rosiglitazone maleate | Low,0,0.001978522283025086,1
+rosiglitazone maleate | Middle,0,0.010724769711184004,2
+rotenone | High,0,0.010022687182451287,3
+rotenone | Low,0,0.00795704727837195,1
+rotenone | Middle,0,0.004901331073294084,2
+simvastatin | High,0,0.06617950151364009,3
+simvastatin | Low,0,0.006827802048064768,1
+simvastatin | Middle,0,0.014585691969841719,2
+sulfasalazine | High,1,0.5082606077194214,3
+sulfasalazine | Low,0,0.008840823080390692,1
+sulfasalazine | Middle,0,0.0634647939975063,2
+sulindac | High,0,0.1329075793425242,3
+sulindac | Low,0,0.010820032524255415,1
+sulindac | Middle,0,0.006822368013672531,2
+sulpiride | High,0,0.002438451861962676,3
+sulpiride | Low,0,0.0009487207377484689,1
+sulpiride | Middle,0,0.0005193658289499581,2
+tacrine | High,0,0.005253381639098127,3
+tacrine | Low,0,0.011705958750098944,1
+tacrine | Middle,0,0.015652388683520257,2
+tamoxifen | High,0,0.049755058561762176,3
+tamoxifen | Low,0,0.04020249653452387,1
+tamoxifen | Middle,0,0.005237722187303007,2
+tannic acid | High,0,0.008885007623272637,3
+tannic acid | Low,0,0.01713640574598685,1
+tannic acid | Middle,0,0.0028606961908129356,2
+terbinafine | High,0,0.6999599734942118,3
+terbinafine | Low,0,0.005532742012292147,1
+terbinafine | Middle,0,0.08789113536477089,2
+tetracycline | High,0,0.005932739935815334,3
+tetracycline | Low,0,0.009824321682875356,1
+tetracycline | Middle,0,0.017360701225697994,2
+theophylline | High,1,0.0028798542140672603,3
+theophylline | Low,0,0.00834526556233565,1
+theophylline | Middle,0,0.03348966862540692,2
+thioacetamide | Low,1,0.16763557447120547,1
+thioacetamide | Middle,1,0.9164925018946329,2
+thioridazine | High,0,0.09395825304090977,3
+thioridazine | Low,0,0.019222068289915722,1
+thioridazine | Middle,0,0.02678810308376948,2
+ticlopidine | High,1,0.9936869541803995,3
+ticlopidine | Low,0,0.002650908388507863,1
+ticlopidine | Middle,0,0.3475788322587808,2
+tiopronin | High,0,0.09461791852178673,3
+tiopronin | Low,0,0.00785964704118669,1
+tiopronin | Middle,0,0.000921029796397003,2
+tolbutamide | High,0,0.2590441194673379,3
+tolbutamide | Low,0,0.004444216300422947,1
+tolbutamide | Middle,0,0.10742744291201234,2
+triamterene | High,0,0.15715505772580704,3
+triamterene | Low,0,0.0014955111352416377,1
+triamterene | Middle,0,0.0011246590487038095,2
+triazolam | High,0,0.5433033357063929,3
+triazolam | Low,0,0.0019709075374218323,1
+triazolam | Middle,0,0.007247498724609613,2
+trimethadione | High,1,0.8683961232503256,3
+trimethadione | Low,0,0.0010824774120313425,1
+trimethadione | Middle,0,0.013464675672973195,2
+valproic acid | High,0,0.0015174446355861921,3
+valproic acid | Low,0,0.010427081026136875,1
+valproic acid | Middle,0,0.0026998070922369757,2
+vitamin A | High,1,0.0224326658838739,3
+vitamin A | Low,0,0.03459587130540361,1
+vitamin A | Middle,0,0.021610884616772335,2

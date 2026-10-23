@@ -1,0 +1,140 @@
+held_out_compound,n_arms,n_positive,n_negative,both_classes,auc,train_compounds,train_positive_arms
+clofibrate,3,2,1,True,0.5,138,46
+ethambutol,3,2,1,True,1.0,138,46
+promethazine,3,2,1,True,1.0,138,46
+amitriptyline,3,1,2,True,1.0,138,47
+bendazac,3,1,2,True,1.0,138,47
+benzbromarone,3,1,2,True,1.0,138,47
+bromobenzene,3,1,2,True,1.0,138,47
+chlormezanone,3,1,2,True,1.0,138,47
+chlorpropamide,3,1,2,True,1.0,138,47
+coumarin,3,1,2,True,1.0,138,47
+diltiazem,3,1,2,True,1.0,138,47
+flutamide,3,1,2,True,1.0,138,47
+hydroxyzine,3,1,2,True,1.0,138,47
+iproniazid,3,1,2,True,0.5,138,47
+ketoconazole,3,1,2,True,1.0,138,47
+lomustine,3,1,2,True,0.5,138,47
+methapyrilene,2,1,1,True,1.0,138,47
+methimazole,3,1,2,True,0.5,138,47
+monocrotaline,2,1,1,True,1.0,138,47
+nimesulide,3,1,2,True,1.0,138,47
+omeprazole,3,1,2,True,1.0,138,47
+phenobarbital,3,1,2,True,0.5,138,47
+phenytoin,3,1,2,True,1.0,138,47
+puromycin aminonucleoside,2,1,1,True,1.0,138,47
+sulfasalazine,3,1,2,True,1.0,138,47
+theophylline,3,1,2,True,0.0,138,47
+ticlopidine,3,1,2,True,1.0,138,47
+trimethadione,3,1,2,True,1.0,138,47
+vitamin A,3,1,2,True,0.5,138,47
+carbamazepine,3,3,0,False,,138,45
+gemfibrozil,3,3,0,False,,138,45
+hexachlorobenzene,3,3,0,False,,138,45
+acetamidofluorene,2,2,0,False,,138,46
+nitrosodiethylamine,2,2,0,False,,138,46
+thioacetamide,2,2,0,False,,138,46
+fenofibrate,1,1,0,False,,138,47
+"2,4-dinitrophenol",3,0,3,False,,138,48
+acarbose,3,0,3,False,,138,48
+acetamide,1,0,1,False,,138,48
+acetaminophen,2,0,2,False,,138,48
+acetazolamide,3,0,3,False,,138,48
+adapin,3,0,3,False,,138,48
+ajmaline,3,0,3,False,,138,48
+allopurinol,3,0,3,False,,138,48
+allyl alcohol,2,0,2,False,,138,48
+amiodarone,3,0,3,False,,138,48
+amphotericin B,3,0,3,False,,138,48
+aspirin,3,0,3,False,,138,48
+azathioprine,3,0,3,False,,138,48
+benziodarone,3,0,3,False,,138,48
+bromoethylamine,3,0,3,False,,138,48
+bucetin,3,0,3,False,,138,48
+butylated hydroxyanisole,3,0,3,False,,138,48
+caffeine,3,0,3,False,,138,48
+captopril,3,0,3,False,,138,48
+carboplatin,3,0,3,False,,138,48
+cephalothin,3,0,3,False,,138,48
+chloramphenicol,3,0,3,False,,138,48
+chlormadinone,3,0,3,False,,138,48
+chlorpheniramine,3,0,3,False,,138,48
+chlorpromazine,3,0,3,False,,138,48
+cimetidine,3,0,3,False,,138,48
+ciprofloxacin,3,0,3,False,,138,48
+cisplatin,3,0,3,False,,138,48
+clomipramine,3,0,3,False,,138,48
+colchicine,2,0,2,False,,138,48
+cyclophosphamide,3,0,3,False,,138,48
+cyclosporine A,3,0,3,False,,138,48
+danazol,3,0,3,False,,138,48
+dantrolene,3,0,3,False,,138,48
+desmopressin acetate,3,0,3,False,,138,48
+diazepam,3,0,3,False,,138,48
+diclofenac,3,0,3,False,,138,48
+disopyramide,3,0,3,False,,138,48
+disulfiram,3,0,3,False,,138,48
+doxorubicin,3,0,3,False,,138,48
+enalapril,3,0,3,False,,138,48
+erythromycin ethylsuccinate,3,0,3,False,,138,48
+ethanol,3,0,3,False,,138,48
+ethinylestradiol,3,0,3,False,,138,48
+ethionamide,1,0,1,False,,138,48
+ethionine,2,0,2,False,,138,48
+etoposide,3,0,3,False,,138,48
+famotidine,3,0,3,False,,138,48
+fluoxetine hydrochloride,3,0,3,False,,138,48
+fluphenazine,3,0,3,False,,138,48
+furosemide,3,0,3,False,,138,48
+gentamicin,3,0,3,False,,138,48
+glibenclamide,3,0,3,False,,138,48
+griseofulvin,3,0,3,False,,138,48
+haloperidol,3,0,3,False,,138,48
+ibuprofen,3,0,3,False,,138,48
+imipramine,3,0,3,False,,138,48
+indomethacin,3,0,3,False,,138,48
+isoniazid,3,0,3,False,,138,48
+labetalol,3,0,3,False,,138,48
+lornoxicam,3,0,3,False,,138,48
+mefenamic acid,3,0,3,False,,138,48
+meloxicam,3,0,3,False,,138,48
+metformin,3,0,3,False,,138,48
+methyldopa,3,0,3,False,,138,48
+methylene dianiline,1,0,1,False,,138,48
+methyltestosterone,3,0,3,False,,138,48
+mexiletine,3,0,3,False,,138,48
+moxisylyte,3,0,3,False,,138,48
+naphthyl isothiocyanate,2,0,2,False,,138,48
+naproxen,2,0,2,False,,138,48
+nicotinic acid,3,0,3,False,,138,48
+nifedipine,3,0,3,False,,138,48
+nitrofurantoin,3,0,3,False,,138,48
+nitrofurazone,3,0,3,False,,138,48
+papaverine,2,0,2,False,,138,48
+pemoline,3,0,3,False,,138,48
+penicillamine,3,0,3,False,,138,48
+perhexiline,3,0,3,False,,138,48
+phenacetin,3,0,3,False,,138,48
+phenylanthranilic acid,3,0,3,False,,138,48
+phenylbutazone,3,0,3,False,,138,48
+propranolol,3,0,3,False,,138,48
+propylthiouracil,3,0,3,False,,138,48
+quinidine,3,0,3,False,,138,48
+ranitidine,3,0,3,False,,138,48
+rifampicin,3,0,3,False,,138,48
+rosiglitazone maleate,3,0,3,False,,138,48
+rotenone,3,0,3,False,,138,48
+simvastatin,3,0,3,False,,138,48
+sulindac,3,0,3,False,,138,48
+sulpiride,3,0,3,False,,138,48
+tacrine,3,0,3,False,,138,48
+tamoxifen,3,0,3,False,,138,48
+tannic acid,3,0,3,False,,138,48
+terbinafine,3,0,3,False,,138,48
+tetracycline,3,0,3,False,,138,48
+thioridazine,3,0,3,False,,138,48
+tiopronin,3,0,3,False,,138,48
+tolbutamide,3,0,3,False,,138,48
+triamterene,3,0,3,False,,138,48
+triazolam,3,0,3,False,,138,48
+valproic acid,3,0,3,False,,138,48

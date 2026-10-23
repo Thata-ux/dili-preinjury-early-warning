@@ -1,0 +1,2260 @@
+COMPOUND_NAME,DOSE_LEVEL,day,n,n_finding,rate
+1% cholesterol + 0.25% sodium cholate,Control,4,3,0,0.0
+1% cholesterol + 0.25% sodium cholate,Control,8,3,0,0.0
+1% cholesterol + 0.25% sodium cholate,Control,15,3,0,0.0
+1% cholesterol + 0.25% sodium cholate,Control,29,3,0,0.0
+1% cholesterol + 0.25% sodium cholate,High,4,3,3,1.0
+1% cholesterol + 0.25% sodium cholate,High,8,3,3,1.0
+1% cholesterol + 0.25% sodium cholate,High,15,3,3,1.0
+1% cholesterol + 0.25% sodium cholate,High,29,3,3,1.0
+"2,4-dinitrophenol",Control,4,3,0,0.0
+"2,4-dinitrophenol",Control,8,3,0,0.0
+"2,4-dinitrophenol",Control,15,3,0,0.0
+"2,4-dinitrophenol",Control,29,3,0,0.0
+"2,4-dinitrophenol",High,4,3,0,0.0
+"2,4-dinitrophenol",High,8,3,0,0.0
+"2,4-dinitrophenol",High,15,3,0,0.0
+"2,4-dinitrophenol",High,29,3,0,0.0
+"2,4-dinitrophenol",Low,4,3,0,0.0
+"2,4-dinitrophenol",Low,8,3,0,0.0
+"2,4-dinitrophenol",Low,15,3,0,0.0
+"2,4-dinitrophenol",Low,29,3,0,0.0
+"2,4-dinitrophenol",Middle,4,3,0,0.0
+"2,4-dinitrophenol",Middle,8,3,0,0.0
+"2,4-dinitrophenol",Middle,15,3,0,0.0
+"2,4-dinitrophenol",Middle,29,3,0,0.0
+WY-14643,Control,4,3,0,0.0
+WY-14643,Control,8,3,0,0.0
+WY-14643,Control,15,3,0,0.0
+WY-14643,Control,29,3,0,0.0
+WY-14643,High,4,3,3,1.0
+WY-14643,High,8,3,3,1.0
+WY-14643,High,15,3,3,1.0
+WY-14643,High,29,3,3,1.0
+WY-14643,Low,4,3,3,1.0
+WY-14643,Low,8,3,3,1.0
+WY-14643,Low,15,3,3,1.0
+WY-14643,Low,29,3,3,1.0
+WY-14643,Middle,4,3,3,1.0
+WY-14643,Middle,8,3,3,1.0
+WY-14643,Middle,15,3,3,1.0
+WY-14643,Middle,29,3,3,1.0
+acarbose,Control,4,3,0,0.0
+acarbose,Control,8,3,0,0.0
+acarbose,Control,15,3,0,0.0
+acarbose,Control,29,3,0,0.0
+acarbose,High,4,3,0,0.0
+acarbose,High,8,3,0,0.0
+acarbose,High,15,3,0,0.0
+acarbose,High,29,3,0,0.0
+acarbose,Low,4,3,0,0.0
+acarbose,Low,8,3,0,0.0
+acarbose,Low,15,3,0,0.0
+acarbose,Low,29,3,0,0.0
+acarbose,Middle,4,3,0,0.0
+acarbose,Middle,8,3,0,0.0
+acarbose,Middle,15,3,0,0.0
+acarbose,Middle,29,3,0,0.0
+acetamide,Control,4,3,0,0.0
+acetamide,Control,8,3,0,0.0
+acetamide,Control,15,3,0,0.0
+acetamide,Control,29,3,0,0.0
+acetamide,High,4,3,2,0.6666666666666666
+acetamide,High,8,3,1,0.3333333333333333
+acetamide,High,15,3,2,0.6666666666666666
+acetamide,High,29,3,1,0.3333333333333333
+acetamide,Low,4,3,0,0.0
+acetamide,Low,8,3,0,0.0
+acetamide,Low,15,3,0,0.0
+acetamide,Low,29,3,0,0.0
+acetamide,Middle,4,3,1,0.3333333333333333
+acetamide,Middle,8,3,0,0.0
+acetamide,Middle,15,3,0,0.0
+acetamide,Middle,29,3,0,0.0
+acetamidofluorene,Control,4,3,0,0.0
+acetamidofluorene,Control,8,3,0,0.0
+acetamidofluorene,Control,15,3,0,0.0
+acetamidofluorene,Control,29,3,0,0.0
+acetamidofluorene,High,4,3,0,0.0
+acetamidofluorene,High,8,3,0,0.0
+acetamidofluorene,High,15,3,0,0.0
+acetamidofluorene,High,29,3,0,0.0
+acetamidofluorene,Low,4,3,0,0.0
+acetamidofluorene,Low,8,3,0,0.0
+acetamidofluorene,Low,15,3,0,0.0
+acetamidofluorene,Low,29,3,0,0.0
+acetamidofluorene,Middle,4,3,0,0.0
+acetamidofluorene,Middle,8,3,0,0.0
+acetamidofluorene,Middle,15,3,0,0.0
+acetamidofluorene,Middle,29,3,0,0.0
+acetaminophen,Control,4,3,0,0.0
+acetaminophen,Control,8,3,0,0.0
+acetaminophen,Control,15,3,0,0.0
+acetaminophen,Control,29,3,0,0.0
+acetaminophen,High,4,3,2,0.6666666666666666
+acetaminophen,High,8,3,1,0.3333333333333333
+acetaminophen,High,15,3,0,0.0
+acetaminophen,High,29,3,1,0.3333333333333333
+acetaminophen,Low,4,3,0,0.0
+acetaminophen,Low,8,3,0,0.0
+acetaminophen,Low,15,3,0,0.0
+acetaminophen,Low,29,3,0,0.0
+acetaminophen,Middle,4,3,0,0.0
+acetaminophen,Middle,8,3,0,0.0
+acetaminophen,Middle,15,3,0,0.0
+acetaminophen,Middle,29,3,0,0.0
+acetazolamide,Control,4,3,0,0.0
+acetazolamide,Control,8,3,0,0.0
+acetazolamide,Control,15,3,0,0.0
+acetazolamide,Control,29,3,0,0.0
+acetazolamide,High,4,3,0,0.0
+acetazolamide,High,8,3,0,0.0
+acetazolamide,High,15,3,0,0.0
+acetazolamide,High,29,3,0,0.0
+acetazolamide,Low,4,3,0,0.0
+acetazolamide,Low,8,3,0,0.0
+acetazolamide,Low,15,3,0,0.0
+acetazolamide,Low,29,3,0,0.0
+acetazolamide,Middle,4,3,0,0.0
+acetazolamide,Middle,8,3,0,0.0
+acetazolamide,Middle,15,3,0,0.0
+acetazolamide,Middle,29,3,0,0.0
+adapin,Control,4,3,0,0.0
+adapin,Control,8,3,0,0.0
+adapin,Control,15,3,0,0.0
+adapin,Control,29,3,0,0.0
+adapin,High,4,3,0,0.0
+adapin,High,8,3,0,0.0
+adapin,High,15,3,0,0.0
+adapin,High,29,3,0,0.0
+adapin,Low,4,3,0,0.0
+adapin,Low,8,3,0,0.0
+adapin,Low,15,3,0,0.0
+adapin,Low,29,3,0,0.0
+adapin,Middle,4,3,0,0.0
+adapin,Middle,8,3,0,0.0
+adapin,Middle,15,3,0,0.0
+adapin,Middle,29,3,0,0.0
+ajmaline,Control,4,3,0,0.0
+ajmaline,Control,8,3,0,0.0
+ajmaline,Control,15,3,0,0.0
+ajmaline,Control,29,3,0,0.0
+ajmaline,High,4,3,0,0.0
+ajmaline,High,8,3,0,0.0
+ajmaline,High,15,3,0,0.0
+ajmaline,High,29,3,0,0.0
+ajmaline,Low,4,3,0,0.0
+ajmaline,Low,8,3,0,0.0
+ajmaline,Low,15,3,0,0.0
+ajmaline,Low,29,3,0,0.0
+ajmaline,Middle,4,3,0,0.0
+ajmaline,Middle,8,3,0,0.0
+ajmaline,Middle,15,3,0,0.0
+ajmaline,Middle,29,3,0,0.0
+allopurinol,Control,4,3,0,0.0
+allopurinol,Control,8,3,0,0.0
+allopurinol,Control,15,3,0,0.0
+allopurinol,Control,29,3,0,0.0
+allopurinol,High,4,3,0,0.0
+allopurinol,High,8,3,0,0.0
+allopurinol,High,15,3,0,0.0
+allopurinol,High,29,3,0,0.0
+allopurinol,Low,4,3,0,0.0
+allopurinol,Low,8,3,0,0.0
+allopurinol,Low,15,3,0,0.0
+allopurinol,Low,29,3,0,0.0
+allopurinol,Middle,4,3,0,0.0
+allopurinol,Middle,8,3,0,0.0
+allopurinol,Middle,15,3,0,0.0
+allopurinol,Middle,29,3,0,0.0
+allyl alcohol,Control,4,3,0,0.0
+allyl alcohol,Control,8,3,0,0.0
+allyl alcohol,Control,15,3,0,0.0
+allyl alcohol,Control,29,3,0,0.0
+allyl alcohol,High,4,3,1,0.3333333333333333
+allyl alcohol,High,8,3,3,1.0
+allyl alcohol,High,15,3,2,0.6666666666666666
+allyl alcohol,High,29,3,1,0.3333333333333333
+allyl alcohol,Low,4,3,0,0.0
+allyl alcohol,Low,8,3,0,0.0
+allyl alcohol,Low,15,3,0,0.0
+allyl alcohol,Low,29,3,0,0.0
+allyl alcohol,Middle,4,3,0,0.0
+allyl alcohol,Middle,8,3,0,0.0
+allyl alcohol,Middle,15,3,0,0.0
+allyl alcohol,Middle,29,3,0,0.0
+amiodarone,Control,4,3,0,0.0
+amiodarone,Control,8,3,0,0.0
+amiodarone,Control,15,3,0,0.0
+amiodarone,Control,29,3,0,0.0
+amiodarone,High,4,3,0,0.0
+amiodarone,High,8,3,0,0.0
+amiodarone,High,15,3,0,0.0
+amiodarone,High,29,3,0,0.0
+amiodarone,Low,4,3,0,0.0
+amiodarone,Low,8,3,0,0.0
+amiodarone,Low,15,3,0,0.0
+amiodarone,Low,29,3,0,0.0
+amiodarone,Middle,4,3,0,0.0
+amiodarone,Middle,8,3,0,0.0
+amiodarone,Middle,15,3,0,0.0
+amiodarone,Middle,29,3,0,0.0
+amitriptyline,Control,4,3,0,0.0
+amitriptyline,Control,8,3,0,0.0
+amitriptyline,Control,15,3,0,0.0
+amitriptyline,Control,29,3,0,0.0
+amitriptyline,High,4,3,0,0.0
+amitriptyline,High,8,3,0,0.0
+amitriptyline,High,15,3,0,0.0
+amitriptyline,High,29,3,0,0.0
+amitriptyline,Low,4,3,0,0.0
+amitriptyline,Low,8,3,0,0.0
+amitriptyline,Low,15,3,0,0.0
+amitriptyline,Low,29,3,0,0.0
+amitriptyline,Middle,4,3,0,0.0
+amitriptyline,Middle,8,3,0,0.0
+amitriptyline,Middle,15,3,0,0.0
+amitriptyline,Middle,29,3,0,0.0
+amphotericin B,Control,4,3,0,0.0
+amphotericin B,Control,8,3,0,0.0
+amphotericin B,Control,15,3,0,0.0
+amphotericin B,Control,29,3,0,0.0
+amphotericin B,High,4,3,0,0.0
+amphotericin B,High,8,3,0,0.0
+amphotericin B,High,15,3,0,0.0
+amphotericin B,High,29,3,1,0.3333333333333333
+amphotericin B,Low,4,3,0,0.0
+amphotericin B,Low,8,3,0,0.0
+amphotericin B,Low,15,3,0,0.0
+amphotericin B,Low,29,3,0,0.0
+amphotericin B,Middle,4,3,0,0.0
+amphotericin B,Middle,8,3,0,0.0
+amphotericin B,Middle,15,3,0,0.0
+amphotericin B,Middle,29,3,0,0.0
+aspirin,Control,4,3,0,0.0
+aspirin,Control,8,3,0,0.0
+aspirin,Control,15,3,0,0.0
+aspirin,Control,29,3,0,0.0
+aspirin,High,4,3,0,0.0
+aspirin,High,8,3,0,0.0
+aspirin,High,15,3,0,0.0
+aspirin,High,29,3,0,0.0
+aspirin,Low,4,3,0,0.0
+aspirin,Low,8,3,0,0.0
+aspirin,Low,15,3,0,0.0
+aspirin,Low,29,3,0,0.0
+aspirin,Middle,4,3,0,0.0
+aspirin,Middle,8,3,0,0.0
+aspirin,Middle,15,3,0,0.0
+aspirin,Middle,29,3,0,0.0
+azathioprine,Control,4,3,0,0.0
+azathioprine,Control,8,3,0,0.0
+azathioprine,Control,15,3,0,0.0
+azathioprine,Control,29,3,0,0.0
+azathioprine,High,4,3,0,0.0
+azathioprine,High,8,3,0,0.0
+azathioprine,High,15,3,1,0.3333333333333333
+azathioprine,High,29,2,0,0.0
+azathioprine,Low,4,3,0,0.0
+azathioprine,Low,8,3,0,0.0
+azathioprine,Low,15,3,0,0.0
+azathioprine,Low,29,3,0,0.0
+azathioprine,Middle,4,3,0,0.0
+azathioprine,Middle,8,3,0,0.0
+azathioprine,Middle,15,3,0,0.0
+azathioprine,Middle,29,3,0,0.0
+bendazac,Control,4,3,0,0.0
+bendazac,Control,8,3,0,0.0
+bendazac,Control,15,3,0,0.0
+bendazac,Control,29,3,0,0.0
+bendazac,High,4,3,0,0.0
+bendazac,High,8,3,0,0.0
+bendazac,High,15,3,0,0.0
+bendazac,High,29,3,0,0.0
+bendazac,Low,4,3,0,0.0
+bendazac,Low,8,3,0,0.0
+bendazac,Low,15,3,0,0.0
+bendazac,Low,29,3,0,0.0
+bendazac,Middle,4,3,0,0.0
+bendazac,Middle,8,3,0,0.0
+bendazac,Middle,15,3,0,0.0
+bendazac,Middle,29,3,0,0.0
+benzbromarone,Control,4,3,0,0.0
+benzbromarone,Control,8,3,0,0.0
+benzbromarone,Control,15,3,0,0.0
+benzbromarone,Control,29,3,0,0.0
+benzbromarone,High,4,3,0,0.0
+benzbromarone,High,8,3,0,0.0
+benzbromarone,High,15,3,0,0.0
+benzbromarone,High,29,3,0,0.0
+benzbromarone,Low,4,3,0,0.0
+benzbromarone,Low,8,3,0,0.0
+benzbromarone,Low,15,3,0,0.0
+benzbromarone,Low,29,3,0,0.0
+benzbromarone,Middle,4,3,0,0.0
+benzbromarone,Middle,8,3,0,0.0
+benzbromarone,Middle,15,3,0,0.0
+benzbromarone,Middle,29,3,0,0.0
+benziodarone,Control,4,3,0,0.0
+benziodarone,Control,8,3,0,0.0
+benziodarone,Control,15,3,0,0.0
+benziodarone,Control,29,3,0,0.0
+benziodarone,High,4,3,0,0.0
+benziodarone,High,8,3,0,0.0
+benziodarone,High,15,3,0,0.0
+benziodarone,High,29,3,0,0.0
+benziodarone,Low,4,3,0,0.0
+benziodarone,Low,8,3,0,0.0
+benziodarone,Low,15,3,0,0.0
+benziodarone,Low,29,3,0,0.0
+benziodarone,Middle,4,3,0,0.0
+benziodarone,Middle,8,3,0,0.0
+benziodarone,Middle,15,3,0,0.0
+benziodarone,Middle,29,3,0,0.0
+bromobenzene,Control,4,3,0,0.0
+bromobenzene,Control,8,3,0,0.0
+bromobenzene,Control,15,3,0,0.0
+bromobenzene,Control,29,3,0,0.0
+bromobenzene,High,4,3,0,0.0
+bromobenzene,High,8,3,0,0.0
+bromobenzene,High,15,3,0,0.0
+bromobenzene,High,29,3,0,0.0
+bromobenzene,Low,4,3,0,0.0
+bromobenzene,Low,8,3,0,0.0
+bromobenzene,Low,15,3,0,0.0
+bromobenzene,Low,29,3,0,0.0
+bromobenzene,Middle,4,3,0,0.0
+bromobenzene,Middle,8,3,0,0.0
+bromobenzene,Middle,15,3,0,0.0
+bromobenzene,Middle,29,3,0,0.0
+bromoethylamine,Control,4,3,0,0.0
+bromoethylamine,Control,8,3,0,0.0
+bromoethylamine,Control,15,3,0,0.0
+bromoethylamine,Control,29,3,0,0.0
+bromoethylamine,High,4,3,0,0.0
+bromoethylamine,High,8,3,0,0.0
+bromoethylamine,High,15,3,0,0.0
+bromoethylamine,High,29,3,0,0.0
+bromoethylamine,Low,4,3,0,0.0
+bromoethylamine,Low,8,3,0,0.0
+bromoethylamine,Low,15,3,0,0.0
+bromoethylamine,Low,29,3,0,0.0
+bromoethylamine,Middle,4,3,0,0.0
+bromoethylamine,Middle,8,3,0,0.0
+bromoethylamine,Middle,15,3,0,0.0
+bromoethylamine,Middle,29,3,0,0.0
+bucetin,Control,4,3,0,0.0
+bucetin,Control,8,3,0,0.0
+bucetin,Control,15,3,0,0.0
+bucetin,Control,29,3,0,0.0
+bucetin,High,4,3,0,0.0
+bucetin,High,8,3,0,0.0
+bucetin,High,15,3,0,0.0
+bucetin,High,29,3,0,0.0
+bucetin,Low,4,3,0,0.0
+bucetin,Low,8,3,0,0.0
+bucetin,Low,15,3,0,0.0
+bucetin,Low,29,3,0,0.0
+bucetin,Middle,4,3,0,0.0
+bucetin,Middle,8,3,0,0.0
+bucetin,Middle,15,3,0,0.0
+bucetin,Middle,29,3,0,0.0
+butylated hydroxyanisole,Control,4,3,0,0.0
+butylated hydroxyanisole,Control,8,3,0,0.0
+butylated hydroxyanisole,Control,15,3,0,0.0
+butylated hydroxyanisole,Control,29,3,0,0.0
+butylated hydroxyanisole,High,4,3,0,0.0
+butylated hydroxyanisole,High,8,3,0,0.0
+butylated hydroxyanisole,High,15,3,0,0.0
+butylated hydroxyanisole,High,29,3,0,0.0
+butylated hydroxyanisole,Low,4,3,0,0.0
+butylated hydroxyanisole,Low,8,3,0,0.0
+butylated hydroxyanisole,Low,15,3,0,0.0
+butylated hydroxyanisole,Low,29,3,0,0.0
+butylated hydroxyanisole,Middle,4,3,0,0.0
+butylated hydroxyanisole,Middle,8,3,0,0.0
+butylated hydroxyanisole,Middle,15,3,0,0.0
+butylated hydroxyanisole,Middle,29,3,0,0.0
+caffeine,Control,4,3,0,0.0
+caffeine,Control,8,3,0,0.0
+caffeine,Control,15,3,0,0.0
+caffeine,Control,29,3,0,0.0
+caffeine,High,4,3,0,0.0
+caffeine,High,8,3,0,0.0
+caffeine,High,15,3,0,0.0
+caffeine,High,29,3,0,0.0
+caffeine,Low,4,3,0,0.0
+caffeine,Low,8,3,0,0.0
+caffeine,Low,15,3,0,0.0
+caffeine,Low,29,3,0,0.0
+caffeine,Middle,4,3,0,0.0
+caffeine,Middle,8,3,0,0.0
+caffeine,Middle,15,3,0,0.0
+caffeine,Middle,29,3,0,0.0
+captopril,Control,4,3,0,0.0
+captopril,Control,8,3,0,0.0
+captopril,Control,15,3,0,0.0
+captopril,Control,29,3,0,0.0
+captopril,High,4,3,0,0.0
+captopril,High,8,3,0,0.0
+captopril,High,15,3,0,0.0
+captopril,High,29,3,0,0.0
+captopril,Low,4,3,0,0.0
+captopril,Low,8,3,0,0.0
+captopril,Low,15,3,0,0.0
+captopril,Low,29,3,0,0.0
+captopril,Middle,4,3,0,0.0
+captopril,Middle,8,3,0,0.0
+captopril,Middle,15,3,0,0.0
+captopril,Middle,29,3,0,0.0
+carbamazepine,Control,4,3,0,0.0
+carbamazepine,Control,8,3,0,0.0
+carbamazepine,Control,15,3,0,0.0
+carbamazepine,Control,29,3,0,0.0
+carbamazepine,High,4,3,0,0.0
+carbamazepine,High,8,3,0,0.0
+carbamazepine,High,15,3,0,0.0
+carbamazepine,High,29,3,0,0.0
+carbamazepine,Low,4,3,0,0.0
+carbamazepine,Low,8,3,0,0.0
+carbamazepine,Low,15,3,0,0.0
+carbamazepine,Low,29,3,0,0.0
+carbamazepine,Middle,4,3,0,0.0
+carbamazepine,Middle,8,3,0,0.0
+carbamazepine,Middle,15,3,0,0.0
+carbamazepine,Middle,29,3,0,0.0
+carbon tetrachloride,Control,4,3,0,0.0
+carbon tetrachloride,Control,8,3,0,0.0
+carbon tetrachloride,Control,15,3,0,0.0
+carbon tetrachloride,Control,29,3,0,0.0
+carbon tetrachloride,High,4,3,3,1.0
+carbon tetrachloride,High,8,3,3,1.0
+carbon tetrachloride,High,15,3,3,1.0
+carbon tetrachloride,High,29,3,3,1.0
+carbon tetrachloride,Low,4,3,3,1.0
+carbon tetrachloride,Low,8,3,3,1.0
+carbon tetrachloride,Low,15,3,3,1.0
+carbon tetrachloride,Low,29,3,3,1.0
+carbon tetrachloride,Middle,4,3,3,1.0
+carbon tetrachloride,Middle,8,3,3,1.0
+carbon tetrachloride,Middle,15,3,3,1.0
+carbon tetrachloride,Middle,29,3,3,1.0
+carboplatin,Control,4,3,0,0.0
+carboplatin,Control,8,3,0,0.0
+carboplatin,Control,15,3,0,0.0
+carboplatin,Control,29,3,0,0.0
+carboplatin,High,4,3,0,0.0
+carboplatin,High,8,3,0,0.0
+carboplatin,High,15,3,0,0.0
+carboplatin,High,29,3,0,0.0
+carboplatin,Low,4,3,0,0.0
+carboplatin,Low,8,3,0,0.0
+carboplatin,Low,15,3,0,0.0
+carboplatin,Low,29,3,0,0.0
+carboplatin,Middle,4,3,0,0.0
+carboplatin,Middle,8,3,0,0.0
+carboplatin,Middle,15,3,0,0.0
+carboplatin,Middle,29,3,0,0.0
+cephalothin,Control,4,3,0,0.0
+cephalothin,Control,8,3,0,0.0
+cephalothin,Control,15,3,0,0.0
+cephalothin,Control,29,3,0,0.0
+cephalothin,High,4,3,0,0.0
+cephalothin,High,8,3,0,0.0
+cephalothin,High,15,3,0,0.0
+cephalothin,High,29,3,0,0.0
+cephalothin,Low,4,3,0,0.0
+cephalothin,Low,8,3,0,0.0
+cephalothin,Low,15,3,0,0.0
+cephalothin,Low,29,3,0,0.0
+cephalothin,Middle,4,3,0,0.0
+cephalothin,Middle,8,3,0,0.0
+cephalothin,Middle,15,3,0,0.0
+cephalothin,Middle,29,3,0,0.0
+chloramphenicol,Control,4,3,0,0.0
+chloramphenicol,Control,8,3,0,0.0
+chloramphenicol,Control,15,3,0,0.0
+chloramphenicol,Control,29,3,0,0.0
+chloramphenicol,High,4,3,0,0.0
+chloramphenicol,High,8,3,0,0.0
+chloramphenicol,High,15,3,0,0.0
+chloramphenicol,High,29,3,0,0.0
+chloramphenicol,Low,4,3,0,0.0
+chloramphenicol,Low,8,3,0,0.0
+chloramphenicol,Low,15,3,0,0.0
+chloramphenicol,Low,29,3,0,0.0
+chloramphenicol,Middle,4,3,0,0.0
+chloramphenicol,Middle,8,3,0,0.0
+chloramphenicol,Middle,15,3,0,0.0
+chloramphenicol,Middle,29,3,0,0.0
+chlormadinone,Control,4,3,0,0.0
+chlormadinone,Control,8,3,0,0.0
+chlormadinone,Control,15,3,0,0.0
+chlormadinone,Control,29,3,0,0.0
+chlormadinone,High,4,3,0,0.0
+chlormadinone,High,8,3,0,0.0
+chlormadinone,High,15,3,0,0.0
+chlormadinone,High,29,3,0,0.0
+chlormadinone,Low,4,3,0,0.0
+chlormadinone,Low,8,3,0,0.0
+chlormadinone,Low,15,3,0,0.0
+chlormadinone,Low,29,3,0,0.0
+chlormadinone,Middle,4,3,0,0.0
+chlormadinone,Middle,8,3,0,0.0
+chlormadinone,Middle,15,3,0,0.0
+chlormadinone,Middle,29,3,0,0.0
+chlormezanone,Control,4,3,0,0.0
+chlormezanone,Control,8,3,0,0.0
+chlormezanone,Control,15,3,0,0.0
+chlormezanone,Control,29,3,0,0.0
+chlormezanone,High,4,3,0,0.0
+chlormezanone,High,8,3,0,0.0
+chlormezanone,High,15,3,0,0.0
+chlormezanone,High,29,3,0,0.0
+chlormezanone,Low,4,3,0,0.0
+chlormezanone,Low,8,3,0,0.0
+chlormezanone,Low,15,3,0,0.0
+chlormezanone,Low,29,3,0,0.0
+chlormezanone,Middle,4,3,0,0.0
+chlormezanone,Middle,8,3,0,0.0
+chlormezanone,Middle,15,3,0,0.0
+chlormezanone,Middle,29,3,0,0.0
+chlorpheniramine,Control,4,3,0,0.0
+chlorpheniramine,Control,8,3,0,0.0
+chlorpheniramine,Control,15,3,0,0.0
+chlorpheniramine,Control,29,3,0,0.0
+chlorpheniramine,High,4,3,0,0.0
+chlorpheniramine,High,8,3,0,0.0
+chlorpheniramine,High,15,3,0,0.0
+chlorpheniramine,High,29,3,0,0.0
+chlorpheniramine,Low,4,3,0,0.0
+chlorpheniramine,Low,8,3,0,0.0
+chlorpheniramine,Low,15,3,0,0.0
+chlorpheniramine,Low,29,3,0,0.0
+chlorpheniramine,Middle,4,3,0,0.0
+chlorpheniramine,Middle,8,3,0,0.0
+chlorpheniramine,Middle,15,3,0,0.0
+chlorpheniramine,Middle,29,3,0,0.0
+chlorpromazine,Control,4,3,0,0.0
+chlorpromazine,Control,8,3,0,0.0
+chlorpromazine,Control,15,3,0,0.0
+chlorpromazine,Control,29,3,0,0.0
+chlorpromazine,High,4,3,0,0.0
+chlorpromazine,High,8,3,0,0.0
+chlorpromazine,High,15,3,0,0.0
+chlorpromazine,High,29,3,0,0.0
+chlorpromazine,Low,4,3,0,0.0
+chlorpromazine,Low,8,3,0,0.0
+chlorpromazine,Low,15,3,0,0.0
+chlorpromazine,Low,29,3,0,0.0
+chlorpromazine,Middle,4,3,0,0.0
+chlorpromazine,Middle,8,3,0,0.0
+chlorpromazine,Middle,15,3,0,0.0
+chlorpromazine,Middle,29,3,0,0.0
+chlorpropamide,Control,4,3,0,0.0
+chlorpropamide,Control,8,3,0,0.0
+chlorpropamide,Control,15,3,0,0.0
+chlorpropamide,Control,29,3,0,0.0
+chlorpropamide,High,4,3,0,0.0
+chlorpropamide,High,8,3,0,0.0
+chlorpropamide,High,15,3,0,0.0
+chlorpropamide,High,29,3,0,0.0
+chlorpropamide,Low,4,3,0,0.0
+chlorpropamide,Low,8,3,0,0.0
+chlorpropamide,Low,15,3,0,0.0
+chlorpropamide,Low,29,3,0,0.0
+chlorpropamide,Middle,4,3,0,0.0
+chlorpropamide,Middle,8,3,0,0.0
+chlorpropamide,Middle,15,3,0,0.0
+chlorpropamide,Middle,29,3,0,0.0
+cimetidine,Control,4,3,0,0.0
+cimetidine,Control,8,3,0,0.0
+cimetidine,Control,15,3,0,0.0
+cimetidine,Control,29,3,0,0.0
+cimetidine,High,4,3,0,0.0
+cimetidine,High,8,3,0,0.0
+cimetidine,High,15,3,0,0.0
+cimetidine,High,29,3,0,0.0
+cimetidine,Low,4,3,0,0.0
+cimetidine,Low,8,3,0,0.0
+cimetidine,Low,15,3,0,0.0
+cimetidine,Low,29,3,0,0.0
+cimetidine,Middle,4,3,0,0.0
+cimetidine,Middle,8,3,0,0.0
+cimetidine,Middle,15,3,0,0.0
+cimetidine,Middle,29,3,0,0.0
+ciprofloxacin,Control,4,3,0,0.0
+ciprofloxacin,Control,8,3,0,0.0
+ciprofloxacin,Control,15,3,0,0.0
+ciprofloxacin,Control,29,3,0,0.0
+ciprofloxacin,High,4,3,0,0.0
+ciprofloxacin,High,8,3,0,0.0
+ciprofloxacin,High,15,3,0,0.0
+ciprofloxacin,High,29,3,0,0.0
+ciprofloxacin,Low,4,3,0,0.0
+ciprofloxacin,Low,8,3,0,0.0
+ciprofloxacin,Low,15,3,0,0.0
+ciprofloxacin,Low,29,3,0,0.0
+ciprofloxacin,Middle,4,3,0,0.0
+ciprofloxacin,Middle,8,3,0,0.0
+ciprofloxacin,Middle,15,3,0,0.0
+ciprofloxacin,Middle,29,3,0,0.0
+cisplatin,Control,4,3,0,0.0
+cisplatin,Control,8,3,0,0.0
+cisplatin,Control,15,3,0,0.0
+cisplatin,Control,29,3,0,0.0
+cisplatin,High,4,3,0,0.0
+cisplatin,High,8,3,0,0.0
+cisplatin,High,15,3,0,0.0
+cisplatin,High,29,1,0,0.0
+cisplatin,Low,4,3,0,0.0
+cisplatin,Low,8,3,0,0.0
+cisplatin,Low,15,3,0,0.0
+cisplatin,Low,29,3,0,0.0
+cisplatin,Middle,4,3,0,0.0
+cisplatin,Middle,8,3,0,0.0
+cisplatin,Middle,15,3,0,0.0
+cisplatin,Middle,29,3,0,0.0
+clofibrate,Control,4,3,0,0.0
+clofibrate,Control,8,3,0,0.0
+clofibrate,Control,15,3,0,0.0
+clofibrate,Control,29,3,0,0.0
+clofibrate,High,4,3,0,0.0
+clofibrate,High,8,3,3,1.0
+clofibrate,High,15,3,3,1.0
+clofibrate,High,29,3,3,1.0
+clofibrate,Low,4,3,0,0.0
+clofibrate,Low,8,3,0,0.0
+clofibrate,Low,15,3,0,0.0
+clofibrate,Low,29,3,0,0.0
+clofibrate,Middle,4,3,0,0.0
+clofibrate,Middle,8,3,0,0.0
+clofibrate,Middle,15,3,0,0.0
+clofibrate,Middle,29,3,3,1.0
+clomipramine,Control,4,3,0,0.0
+clomipramine,Control,8,3,0,0.0
+clomipramine,Control,15,3,0,0.0
+clomipramine,Control,29,3,0,0.0
+clomipramine,High,4,3,0,0.0
+clomipramine,High,8,3,0,0.0
+clomipramine,High,15,3,0,0.0
+clomipramine,High,29,3,1,0.3333333333333333
+clomipramine,Low,4,3,0,0.0
+clomipramine,Low,8,3,0,0.0
+clomipramine,Low,15,3,0,0.0
+clomipramine,Low,29,3,0,0.0
+clomipramine,Middle,4,3,0,0.0
+clomipramine,Middle,8,3,0,0.0
+clomipramine,Middle,15,3,0,0.0
+clomipramine,Middle,29,3,0,0.0
+colchicine,Control,4,3,0,0.0
+colchicine,Control,8,3,0,0.0
+colchicine,Control,15,3,0,0.0
+colchicine,Control,29,3,0,0.0
+colchicine,High,4,3,0,0.0
+colchicine,High,8,3,0,0.0
+colchicine,High,15,3,0,0.0
+colchicine,High,29,3,0,0.0
+colchicine,Low,4,3,0,0.0
+colchicine,Low,8,3,0,0.0
+colchicine,Low,15,3,0,0.0
+colchicine,Low,29,3,0,0.0
+colchicine,Middle,4,3,0,0.0
+colchicine,Middle,8,3,0,0.0
+colchicine,Middle,15,3,0,0.0
+colchicine,Middle,29,3,0,0.0
+coumarin,Control,4,3,0,0.0
+coumarin,Control,8,3,0,0.0
+coumarin,Control,15,3,0,0.0
+coumarin,Control,29,3,0,0.0
+coumarin,High,4,3,0,0.0
+coumarin,High,8,3,1,0.3333333333333333
+coumarin,High,15,3,2,0.6666666666666666
+coumarin,High,29,3,3,1.0
+coumarin,Low,4,3,0,0.0
+coumarin,Low,8,3,0,0.0
+coumarin,Low,15,3,0,0.0
+coumarin,Low,29,3,0,0.0
+coumarin,Middle,4,3,0,0.0
+coumarin,Middle,8,3,0,0.0
+coumarin,Middle,15,3,0,0.0
+coumarin,Middle,29,3,0,0.0
+cyclophosphamide,Control,4,3,0,0.0
+cyclophosphamide,Control,8,3,0,0.0
+cyclophosphamide,Control,15,3,0,0.0
+cyclophosphamide,Control,29,3,0,0.0
+cyclophosphamide,High,4,3,0,0.0
+cyclophosphamide,High,8,3,0,0.0
+cyclophosphamide,High,15,3,0,0.0
+cyclophosphamide,High,29,3,0,0.0
+cyclophosphamide,Low,4,3,0,0.0
+cyclophosphamide,Low,8,3,0,0.0
+cyclophosphamide,Low,15,3,0,0.0
+cyclophosphamide,Low,29,3,0,0.0
+cyclophosphamide,Middle,4,3,0,0.0
+cyclophosphamide,Middle,8,3,0,0.0
+cyclophosphamide,Middle,15,3,0,0.0
+cyclophosphamide,Middle,29,3,0,0.0
+cyclosporine A,Control,4,3,0,0.0
+cyclosporine A,Control,8,3,0,0.0
+cyclosporine A,Control,15,3,0,0.0
+cyclosporine A,Control,29,3,0,0.0
+cyclosporine A,High,4,3,0,0.0
+cyclosporine A,High,8,3,0,0.0
+cyclosporine A,High,15,3,0,0.0
+cyclosporine A,High,29,3,0,0.0
+cyclosporine A,Low,4,3,0,0.0
+cyclosporine A,Low,8,3,0,0.0
+cyclosporine A,Low,15,3,0,0.0
+cyclosporine A,Low,29,3,0,0.0
+cyclosporine A,Middle,4,3,0,0.0
+cyclosporine A,Middle,8,3,0,0.0
+cyclosporine A,Middle,15,3,0,0.0
+cyclosporine A,Middle,29,3,0,0.0
+danazol,Control,4,3,0,0.0
+danazol,Control,8,3,0,0.0
+danazol,Control,15,3,0,0.0
+danazol,Control,29,3,0,0.0
+danazol,High,4,3,0,0.0
+danazol,High,8,3,0,0.0
+danazol,High,15,3,0,0.0
+danazol,High,29,3,0,0.0
+danazol,Low,4,3,0,0.0
+danazol,Low,8,3,0,0.0
+danazol,Low,15,3,0,0.0
+danazol,Low,29,3,0,0.0
+danazol,Middle,4,3,0,0.0
+danazol,Middle,8,3,0,0.0
+danazol,Middle,15,3,0,0.0
+danazol,Middle,29,3,0,0.0
+dantrolene,Control,4,3,0,0.0
+dantrolene,Control,8,3,0,0.0
+dantrolene,Control,15,3,0,0.0
+dantrolene,Control,29,3,0,0.0
+dantrolene,High,4,3,0,0.0
+dantrolene,High,8,3,0,0.0
+dantrolene,High,15,3,0,0.0
+dantrolene,High,29,3,0,0.0
+dantrolene,Low,4,3,0,0.0
+dantrolene,Low,8,3,0,0.0
+dantrolene,Low,15,3,0,0.0
+dantrolene,Low,29,3,0,0.0
+dantrolene,Middle,4,3,0,0.0
+dantrolene,Middle,8,3,0,0.0
+dantrolene,Middle,15,3,0,0.0
+dantrolene,Middle,29,3,0,0.0
+desmopressin acetate,Control,4,3,0,0.0
+desmopressin acetate,Control,8,3,0,0.0
+desmopressin acetate,Control,15,3,0,0.0
+desmopressin acetate,Control,29,3,0,0.0
+desmopressin acetate,High,4,3,0,0.0
+desmopressin acetate,High,8,3,0,0.0
+desmopressin acetate,High,15,3,0,0.0
+desmopressin acetate,High,29,3,0,0.0
+desmopressin acetate,Low,4,3,0,0.0
+desmopressin acetate,Low,8,3,0,0.0
+desmopressin acetate,Low,15,3,0,0.0
+desmopressin acetate,Low,29,3,0,0.0
+desmopressin acetate,Middle,4,3,0,0.0
+desmopressin acetate,Middle,8,3,0,0.0
+desmopressin acetate,Middle,15,3,0,0.0
+desmopressin acetate,Middle,29,3,0,0.0
+diazepam,Control,4,3,0,0.0
+diazepam,Control,8,3,0,0.0
+diazepam,Control,15,3,0,0.0
+diazepam,Control,29,3,0,0.0
+diazepam,High,4,3,0,0.0
+diazepam,High,8,3,0,0.0
+diazepam,High,15,3,0,0.0
+diazepam,High,29,3,0,0.0
+diazepam,Low,4,3,0,0.0
+diazepam,Low,8,3,0,0.0
+diazepam,Low,15,3,0,0.0
+diazepam,Low,29,3,0,0.0
+diazepam,Middle,4,3,0,0.0
+diazepam,Middle,8,3,0,0.0
+diazepam,Middle,15,3,0,0.0
+diazepam,Middle,29,3,0,0.0
+diclofenac,Control,4,3,0,0.0
+diclofenac,Control,8,3,0,0.0
+diclofenac,Control,15,3,0,0.0
+diclofenac,Control,29,3,0,0.0
+diclofenac,High,4,3,0,0.0
+diclofenac,High,8,3,0,0.0
+diclofenac,High,15,3,0,0.0
+diclofenac,High,29,3,0,0.0
+diclofenac,Low,4,3,0,0.0
+diclofenac,Low,8,3,0,0.0
+diclofenac,Low,15,3,0,0.0
+diclofenac,Low,29,3,0,0.0
+diclofenac,Middle,4,3,0,0.0
+diclofenac,Middle,8,3,0,0.0
+diclofenac,Middle,15,3,0,0.0
+diclofenac,Middle,29,3,0,0.0
+diltiazem,Control,4,3,0,0.0
+diltiazem,Control,8,3,0,0.0
+diltiazem,Control,15,3,0,0.0
+diltiazem,Control,29,3,0,0.0
+diltiazem,High,4,3,0,0.0
+diltiazem,High,8,3,0,0.0
+diltiazem,High,15,3,0,0.0
+diltiazem,High,29,3,0,0.0
+diltiazem,Low,4,3,0,0.0
+diltiazem,Low,8,3,0,0.0
+diltiazem,Low,15,3,0,0.0
+diltiazem,Low,29,3,0,0.0
+diltiazem,Middle,4,3,0,0.0
+diltiazem,Middle,8,3,0,0.0
+diltiazem,Middle,15,3,0,0.0
+diltiazem,Middle,29,3,0,0.0
+disopyramide,Control,4,3,0,0.0
+disopyramide,Control,8,3,0,0.0
+disopyramide,Control,15,3,0,0.0
+disopyramide,Control,29,3,0,0.0
+disopyramide,High,4,3,0,0.0
+disopyramide,High,8,3,0,0.0
+disopyramide,High,15,3,0,0.0
+disopyramide,High,29,3,0,0.0
+disopyramide,Low,4,3,0,0.0
+disopyramide,Low,8,3,0,0.0
+disopyramide,Low,15,3,0,0.0
+disopyramide,Low,29,3,0,0.0
+disopyramide,Middle,4,3,0,0.0
+disopyramide,Middle,8,3,0,0.0
+disopyramide,Middle,15,3,0,0.0
+disopyramide,Middle,29,3,0,0.0
+disulfiram,Control,4,3,0,0.0
+disulfiram,Control,8,3,0,0.0
+disulfiram,Control,15,3,0,0.0
+disulfiram,Control,29,3,0,0.0
+disulfiram,High,4,3,0,0.0
+disulfiram,High,8,3,0,0.0
+disulfiram,High,15,3,0,0.0
+disulfiram,High,29,3,0,0.0
+disulfiram,Low,4,3,0,0.0
+disulfiram,Low,8,3,0,0.0
+disulfiram,Low,15,3,0,0.0
+disulfiram,Low,29,3,0,0.0
+disulfiram,Middle,4,3,0,0.0
+disulfiram,Middle,8,3,0,0.0
+disulfiram,Middle,15,3,0,0.0
+disulfiram,Middle,29,3,0,0.0
+doxorubicin,Control,4,3,0,0.0
+doxorubicin,Control,8,3,0,0.0
+doxorubicin,Control,15,3,0,0.0
+doxorubicin,Control,29,3,0,0.0
+doxorubicin,High,4,3,0,0.0
+doxorubicin,High,8,3,0,0.0
+doxorubicin,High,15,3,0,0.0
+doxorubicin,High,29,2,0,0.0
+doxorubicin,Low,4,3,0,0.0
+doxorubicin,Low,8,3,0,0.0
+doxorubicin,Low,15,3,0,0.0
+doxorubicin,Low,29,3,0,0.0
+doxorubicin,Middle,4,3,0,0.0
+doxorubicin,Middle,8,3,0,0.0
+doxorubicin,Middle,15,3,0,0.0
+doxorubicin,Middle,29,3,0,0.0
+enalapril,Control,4,3,0,0.0
+enalapril,Control,8,3,0,0.0
+enalapril,Control,15,3,0,0.0
+enalapril,Control,29,3,0,0.0
+enalapril,High,4,3,0,0.0
+enalapril,High,8,3,0,0.0
+enalapril,High,15,3,0,0.0
+enalapril,High,29,3,0,0.0
+enalapril,Low,4,3,0,0.0
+enalapril,Low,8,3,0,0.0
+enalapril,Low,15,3,0,0.0
+enalapril,Low,29,3,0,0.0
+enalapril,Middle,4,3,0,0.0
+enalapril,Middle,8,3,0,0.0
+enalapril,Middle,15,3,0,0.0
+enalapril,Middle,29,3,0,0.0
+erythromycin ethylsuccinate,Control,4,3,0,0.0
+erythromycin ethylsuccinate,Control,8,3,0,0.0
+erythromycin ethylsuccinate,Control,15,3,0,0.0
+erythromycin ethylsuccinate,Control,29,3,0,0.0
+erythromycin ethylsuccinate,High,4,3,0,0.0
+erythromycin ethylsuccinate,High,8,3,0,0.0
+erythromycin ethylsuccinate,High,15,3,0,0.0
+erythromycin ethylsuccinate,High,29,3,0,0.0
+erythromycin ethylsuccinate,Low,4,3,0,0.0
+erythromycin ethylsuccinate,Low,8,3,0,0.0
+erythromycin ethylsuccinate,Low,15,3,0,0.0
+erythromycin ethylsuccinate,Low,29,3,0,0.0
+erythromycin ethylsuccinate,Middle,4,3,0,0.0
+erythromycin ethylsuccinate,Middle,8,3,0,0.0
+erythromycin ethylsuccinate,Middle,15,3,0,0.0
+erythromycin ethylsuccinate,Middle,29,3,0,0.0
+ethambutol,Control,4,3,0,0.0
+ethambutol,Control,8,3,0,0.0
+ethambutol,Control,15,3,0,0.0
+ethambutol,Control,29,3,0,0.0
+ethambutol,High,4,3,0,0.0
+ethambutol,High,8,3,3,1.0
+ethambutol,High,15,3,2,0.6666666666666666
+ethambutol,High,29,3,3,1.0
+ethambutol,Low,4,3,0,0.0
+ethambutol,Low,8,3,0,0.0
+ethambutol,Low,15,3,0,0.0
+ethambutol,Low,29,3,0,0.0
+ethambutol,Middle,4,3,0,0.0
+ethambutol,Middle,8,3,0,0.0
+ethambutol,Middle,15,3,0,0.0
+ethambutol,Middle,29,3,2,0.6666666666666666
+ethanol,Control,4,3,0,0.0
+ethanol,Control,8,3,0,0.0
+ethanol,Control,15,3,0,0.0
+ethanol,Control,29,3,0,0.0
+ethanol,High,4,3,0,0.0
+ethanol,High,8,3,0,0.0
+ethanol,High,15,3,0,0.0
+ethanol,High,29,3,0,0.0
+ethanol,Low,4,3,0,0.0
+ethanol,Low,8,3,0,0.0
+ethanol,Low,15,3,0,0.0
+ethanol,Low,29,3,0,0.0
+ethanol,Middle,4,3,0,0.0
+ethanol,Middle,8,3,0,0.0
+ethanol,Middle,15,3,0,0.0
+ethanol,Middle,29,3,0,0.0
+ethinylestradiol,Control,4,3,0,0.0
+ethinylestradiol,Control,8,3,0,0.0
+ethinylestradiol,Control,15,3,0,0.0
+ethinylestradiol,Control,29,3,0,0.0
+ethinylestradiol,High,4,3,0,0.0
+ethinylestradiol,High,8,3,0,0.0
+ethinylestradiol,High,15,3,0,0.0
+ethinylestradiol,High,29,3,0,0.0
+ethinylestradiol,Low,4,3,0,0.0
+ethinylestradiol,Low,8,3,0,0.0
+ethinylestradiol,Low,15,3,0,0.0
+ethinylestradiol,Low,29,3,0,0.0
+ethinylestradiol,Middle,4,3,0,0.0
+ethinylestradiol,Middle,8,3,0,0.0
+ethinylestradiol,Middle,15,3,0,0.0
+ethinylestradiol,Middle,29,3,0,0.0
+ethionamide,Control,4,3,0,0.0
+ethionamide,Control,8,3,0,0.0
+ethionamide,Control,15,3,0,0.0
+ethionamide,Control,29,3,0,0.0
+ethionamide,High,4,3,3,1.0
+ethionamide,High,8,3,3,1.0
+ethionamide,High,15,3,1,0.3333333333333333
+ethionamide,Low,4,3,0,0.0
+ethionamide,Low,8,3,0,0.0
+ethionamide,Low,15,3,0,0.0
+ethionamide,Low,29,3,0,0.0
+ethionamide,Middle,4,3,1,0.3333333333333333
+ethionamide,Middle,8,3,0,0.0
+ethionamide,Middle,15,3,0,0.0
+ethionamide,Middle,29,3,0,0.0
+ethionine,Control,4,3,0,0.0
+ethionine,Control,8,3,0,0.0
+ethionine,Control,15,3,0,0.0
+ethionine,Control,29,3,0,0.0
+ethionine,High,4,3,0,0.0
+ethionine,High,8,3,0,0.0
+ethionine,High,15,3,0,0.0
+ethionine,High,29,3,0,0.0
+ethionine,Low,4,3,0,0.0
+ethionine,Low,8,3,0,0.0
+ethionine,Low,15,3,0,0.0
+ethionine,Low,29,3,0,0.0
+ethionine,Middle,4,3,0,0.0
+ethionine,Middle,8,3,0,0.0
+ethionine,Middle,15,3,0,0.0
+ethionine,Middle,29,3,0,0.0
+etoposide,Control,4,3,0,0.0
+etoposide,Control,8,3,0,0.0
+etoposide,Control,15,3,0,0.0
+etoposide,Control,29,3,0,0.0
+etoposide,High,4,3,0,0.0
+etoposide,High,8,3,0,0.0
+etoposide,High,15,3,0,0.0
+etoposide,High,29,3,0,0.0
+etoposide,Low,4,3,0,0.0
+etoposide,Low,8,3,0,0.0
+etoposide,Low,15,3,0,0.0
+etoposide,Low,29,3,0,0.0
+etoposide,Middle,4,3,0,0.0
+etoposide,Middle,8,3,0,0.0
+etoposide,Middle,15,3,0,0.0
+etoposide,Middle,29,3,0,0.0
+famotidine,Control,4,3,0,0.0
+famotidine,Control,8,3,0,0.0
+famotidine,Control,15,3,0,0.0
+famotidine,Control,29,3,0,0.0
+famotidine,High,4,3,0,0.0
+famotidine,High,8,3,0,0.0
+famotidine,High,15,3,0,0.0
+famotidine,High,29,3,0,0.0
+famotidine,Low,4,3,0,0.0
+famotidine,Low,8,3,0,0.0
+famotidine,Low,15,3,0,0.0
+famotidine,Low,29,3,0,0.0
+famotidine,Middle,4,3,0,0.0
+famotidine,Middle,8,3,0,0.0
+famotidine,Middle,15,3,0,0.0
+famotidine,Middle,29,3,0,0.0
+fenofibrate,Control,4,3,0,0.0
+fenofibrate,Control,8,3,0,0.0
+fenofibrate,Control,15,3,0,0.0
+fenofibrate,Control,29,3,0,0.0
+fenofibrate,High,4,3,3,1.0
+fenofibrate,High,8,3,3,1.0
+fenofibrate,High,15,3,3,1.0
+fenofibrate,High,29,3,3,1.0
+fenofibrate,Low,4,3,0,0.0
+fenofibrate,Low,8,3,0,0.0
+fenofibrate,Low,15,3,1,0.3333333333333333
+fenofibrate,Low,29,3,3,1.0
+fenofibrate,Middle,4,3,3,1.0
+fenofibrate,Middle,8,3,3,1.0
+fenofibrate,Middle,15,3,3,1.0
+fenofibrate,Middle,29,3,3,1.0
+fluoxetine hydrochloride,Control,4,3,0,0.0
+fluoxetine hydrochloride,Control,8,3,0,0.0
+fluoxetine hydrochloride,Control,15,3,0,0.0
+fluoxetine hydrochloride,Control,29,3,0,0.0
+fluoxetine hydrochloride,High,4,3,0,0.0
+fluoxetine hydrochloride,High,8,3,0,0.0
+fluoxetine hydrochloride,High,15,3,0,0.0
+fluoxetine hydrochloride,High,29,3,0,0.0
+fluoxetine hydrochloride,Low,4,3,0,0.0
+fluoxetine hydrochloride,Low,8,3,0,0.0
+fluoxetine hydrochloride,Low,15,3,0,0.0
+fluoxetine hydrochloride,Low,29,3,0,0.0
+fluoxetine hydrochloride,Middle,4,3,0,0.0
+fluoxetine hydrochloride,Middle,8,3,0,0.0
+fluoxetine hydrochloride,Middle,15,3,0,0.0
+fluoxetine hydrochloride,Middle,29,3,0,0.0
+fluphenazine,Control,4,3,0,0.0
+fluphenazine,Control,8,3,0,0.0
+fluphenazine,Control,15,3,0,0.0
+fluphenazine,Control,29,3,0,0.0
+fluphenazine,High,4,3,0,0.0
+fluphenazine,High,8,3,0,0.0
+fluphenazine,High,15,3,0,0.0
+fluphenazine,High,29,3,0,0.0
+fluphenazine,Low,4,3,0,0.0
+fluphenazine,Low,8,3,0,0.0
+fluphenazine,Low,15,3,0,0.0
+fluphenazine,Low,29,3,0,0.0
+fluphenazine,Middle,4,3,0,0.0
+fluphenazine,Middle,8,3,0,0.0
+fluphenazine,Middle,15,3,0,0.0
+fluphenazine,Middle,29,3,0,0.0
+flutamide,Control,4,3,0,0.0
+flutamide,Control,8,3,0,0.0
+flutamide,Control,15,3,0,0.0
+flutamide,Control,29,3,0,0.0
+flutamide,High,4,3,0,0.0
+flutamide,High,8,3,0,0.0
+flutamide,High,15,3,0,0.0
+flutamide,High,29,3,0,0.0
+flutamide,Low,4,3,0,0.0
+flutamide,Low,8,3,0,0.0
+flutamide,Low,15,3,0,0.0
+flutamide,Low,29,3,0,0.0
+flutamide,Middle,4,3,0,0.0
+flutamide,Middle,8,3,0,0.0
+flutamide,Middle,15,3,0,0.0
+flutamide,Middle,29,3,0,0.0
+furosemide,Control,4,3,0,0.0
+furosemide,Control,8,3,0,0.0
+furosemide,Control,15,3,0,0.0
+furosemide,Control,29,3,0,0.0
+furosemide,High,4,3,0,0.0
+furosemide,High,8,3,0,0.0
+furosemide,High,15,3,0,0.0
+furosemide,High,29,3,0,0.0
+furosemide,Low,4,3,0,0.0
+furosemide,Low,8,3,0,0.0
+furosemide,Low,15,3,0,0.0
+furosemide,Low,29,3,0,0.0
+furosemide,Middle,4,3,0,0.0
+furosemide,Middle,8,3,0,0.0
+furosemide,Middle,15,3,0,0.0
+furosemide,Middle,29,3,0,0.0
+gemfibrozil,Control,4,3,0,0.0
+gemfibrozil,Control,8,3,0,0.0
+gemfibrozil,Control,15,3,0,0.0
+gemfibrozil,Control,29,3,0,0.0
+gemfibrozil,High,4,3,0,0.0
+gemfibrozil,High,8,3,3,1.0
+gemfibrozil,High,15,3,3,1.0
+gemfibrozil,High,29,3,3,1.0
+gemfibrozil,Low,4,3,0,0.0
+gemfibrozil,Low,8,3,0,0.0
+gemfibrozil,Low,15,3,0,0.0
+gemfibrozil,Low,29,3,2,0.6666666666666666
+gemfibrozil,Middle,4,3,0,0.0
+gemfibrozil,Middle,8,3,0,0.0
+gemfibrozil,Middle,15,3,3,1.0
+gemfibrozil,Middle,29,3,3,1.0
+gentamicin,Control,4,3,0,0.0
+gentamicin,Control,8,3,0,0.0
+gentamicin,Control,15,3,0,0.0
+gentamicin,Control,29,3,0,0.0
+gentamicin,High,4,3,0,0.0
+gentamicin,High,8,3,0,0.0
+gentamicin,High,15,3,0,0.0
+gentamicin,High,29,3,0,0.0
+gentamicin,Low,4,3,0,0.0
+gentamicin,Low,8,3,0,0.0
+gentamicin,Low,15,3,0,0.0
+gentamicin,Low,29,3,0,0.0
+gentamicin,Middle,4,3,0,0.0
+gentamicin,Middle,8,3,0,0.0
+gentamicin,Middle,15,3,0,0.0
+gentamicin,Middle,29,3,0,0.0
+glibenclamide,Control,4,3,0,0.0
+glibenclamide,Control,8,3,0,0.0
+glibenclamide,Control,15,3,0,0.0
+glibenclamide,Control,29,3,0,0.0
+glibenclamide,High,4,3,0,0.0
+glibenclamide,High,8,3,0,0.0
+glibenclamide,High,15,3,0,0.0
+glibenclamide,High,29,3,0,0.0
+glibenclamide,Low,4,3,0,0.0
+glibenclamide,Low,8,3,0,0.0
+glibenclamide,Low,15,3,0,0.0
+glibenclamide,Low,29,3,0,0.0
+glibenclamide,Middle,4,3,0,0.0
+glibenclamide,Middle,8,3,0,0.0
+glibenclamide,Middle,15,3,0,0.0
+glibenclamide,Middle,29,3,0,0.0
+griseofulvin,Control,4,3,0,0.0
+griseofulvin,Control,8,3,0,0.0
+griseofulvin,Control,15,3,0,0.0
+griseofulvin,Control,29,3,0,0.0
+griseofulvin,High,4,3,0,0.0
+griseofulvin,High,8,3,0,0.0
+griseofulvin,High,15,3,0,0.0
+griseofulvin,High,29,3,0,0.0
+griseofulvin,Low,4,3,0,0.0
+griseofulvin,Low,8,3,0,0.0
+griseofulvin,Low,15,3,0,0.0
+griseofulvin,Low,29,3,0,0.0
+griseofulvin,Middle,4,3,0,0.0
+griseofulvin,Middle,8,3,0,0.0
+griseofulvin,Middle,15,3,0,0.0
+griseofulvin,Middle,29,3,0,0.0
+haloperidol,Control,4,3,0,0.0
+haloperidol,Control,8,3,0,0.0
+haloperidol,Control,15,3,0,0.0
+haloperidol,Control,29,3,0,0.0
+haloperidol,High,4,3,0,0.0
+haloperidol,High,8,3,0,0.0
+haloperidol,High,15,3,0,0.0
+haloperidol,High,29,3,0,0.0
+haloperidol,Low,4,3,0,0.0
+haloperidol,Low,8,3,0,0.0
+haloperidol,Low,15,3,0,0.0
+haloperidol,Low,29,3,0,0.0
+haloperidol,Middle,4,3,0,0.0
+haloperidol,Middle,8,3,0,0.0
+haloperidol,Middle,15,3,0,0.0
+haloperidol,Middle,29,3,0,0.0
+hexachlorobenzene,Control,4,3,0,0.0
+hexachlorobenzene,Control,8,3,0,0.0
+hexachlorobenzene,Control,15,3,0,0.0
+hexachlorobenzene,Control,29,3,0,0.0
+hexachlorobenzene,High,4,3,0,0.0
+hexachlorobenzene,High,8,3,0,0.0
+hexachlorobenzene,High,15,3,0,0.0
+hexachlorobenzene,High,29,3,0,0.0
+hexachlorobenzene,Low,4,3,0,0.0
+hexachlorobenzene,Low,8,3,0,0.0
+hexachlorobenzene,Low,15,3,0,0.0
+hexachlorobenzene,Low,29,3,0,0.0
+hexachlorobenzene,Middle,4,3,0,0.0
+hexachlorobenzene,Middle,8,3,0,0.0
+hexachlorobenzene,Middle,15,3,0,0.0
+hexachlorobenzene,Middle,29,3,0,0.0
+hydroxyzine,Control,4,3,0,0.0
+hydroxyzine,Control,8,3,0,0.0
+hydroxyzine,Control,15,3,0,0.0
+hydroxyzine,Control,29,3,0,0.0
+hydroxyzine,High,4,3,0,0.0
+hydroxyzine,High,8,3,0,0.0
+hydroxyzine,High,15,3,0,0.0
+hydroxyzine,High,29,3,0,0.0
+hydroxyzine,Low,4,3,0,0.0
+hydroxyzine,Low,8,3,0,0.0
+hydroxyzine,Low,15,3,0,0.0
+hydroxyzine,Low,29,3,0,0.0
+hydroxyzine,Middle,4,3,0,0.0
+hydroxyzine,Middle,8,3,0,0.0
+hydroxyzine,Middle,15,3,0,0.0
+hydroxyzine,Middle,29,3,0,0.0
+ibuprofen,Control,4,3,0,0.0
+ibuprofen,Control,8,3,0,0.0
+ibuprofen,Control,15,3,0,0.0
+ibuprofen,Control,29,3,0,0.0
+ibuprofen,High,4,3,0,0.0
+ibuprofen,High,8,3,0,0.0
+ibuprofen,High,15,3,0,0.0
+ibuprofen,High,29,3,0,0.0
+ibuprofen,Low,4,3,0,0.0
+ibuprofen,Low,8,3,0,0.0
+ibuprofen,Low,15,3,0,0.0
+ibuprofen,Low,29,3,0,0.0
+ibuprofen,Middle,4,3,0,0.0
+ibuprofen,Middle,8,3,0,0.0
+ibuprofen,Middle,15,3,0,0.0
+ibuprofen,Middle,29,3,0,0.0
+imipramine,Control,4,3,0,0.0
+imipramine,Control,8,3,0,0.0
+imipramine,Control,15,3,0,0.0
+imipramine,Control,29,3,0,0.0
+imipramine,High,4,3,0,0.0
+imipramine,High,8,3,0,0.0
+imipramine,High,15,3,0,0.0
+imipramine,High,29,3,0,0.0
+imipramine,Low,4,3,0,0.0
+imipramine,Low,8,3,0,0.0
+imipramine,Low,15,3,0,0.0
+imipramine,Low,29,3,0,0.0
+imipramine,Middle,4,3,0,0.0
+imipramine,Middle,8,3,0,0.0
+imipramine,Middle,15,3,0,0.0
+imipramine,Middle,29,3,0,0.0
+indomethacin,Control,4,3,0,0.0
+indomethacin,Control,8,3,0,0.0
+indomethacin,Control,15,3,0,0.0
+indomethacin,Control,29,3,0,0.0
+indomethacin,High,4,3,0,0.0
+indomethacin,High,8,3,0,0.0
+indomethacin,High,15,3,1,0.3333333333333333
+indomethacin,Low,4,3,0,0.0
+indomethacin,Low,8,3,0,0.0
+indomethacin,Low,15,3,0,0.0
+indomethacin,Low,29,3,0,0.0
+indomethacin,Middle,4,3,0,0.0
+indomethacin,Middle,8,3,0,0.0
+indomethacin,Middle,15,3,0,0.0
+indomethacin,Middle,29,3,0,0.0
+iproniazid,Control,4,3,0,0.0
+iproniazid,Control,8,3,0,0.0
+iproniazid,Control,15,3,0,0.0
+iproniazid,Control,29,3,0,0.0
+iproniazid,High,4,3,0,0.0
+iproniazid,High,8,3,0,0.0
+iproniazid,High,15,3,0,0.0
+iproniazid,High,29,3,0,0.0
+iproniazid,Low,4,3,0,0.0
+iproniazid,Low,8,3,0,0.0
+iproniazid,Low,15,3,0,0.0
+iproniazid,Low,29,3,0,0.0
+iproniazid,Middle,4,3,0,0.0
+iproniazid,Middle,8,3,0,0.0
+iproniazid,Middle,15,3,0,0.0
+iproniazid,Middle,29,3,0,0.0
+isoniazid,Control,4,3,0,0.0
+isoniazid,Control,8,3,0,0.0
+isoniazid,Control,15,3,0,0.0
+isoniazid,Control,29,3,0,0.0
+isoniazid,High,4,3,0,0.0
+isoniazid,High,8,3,0,0.0
+isoniazid,High,15,3,0,0.0
+isoniazid,High,29,3,0,0.0
+isoniazid,Low,4,3,0,0.0
+isoniazid,Low,8,3,0,0.0
+isoniazid,Low,15,3,0,0.0
+isoniazid,Low,29,3,0,0.0
+isoniazid,Middle,4,3,0,0.0
+isoniazid,Middle,8,3,0,0.0
+isoniazid,Middle,15,3,0,0.0
+isoniazid,Middle,29,3,0,0.0
+ketoconazole,Control,4,3,0,0.0
+ketoconazole,Control,8,3,0,0.0
+ketoconazole,Control,15,3,0,0.0
+ketoconazole,Control,29,3,0,0.0
+ketoconazole,High,4,3,0,0.0
+ketoconazole,High,8,3,0,0.0
+ketoconazole,High,15,3,0,0.0
+ketoconazole,High,29,3,0,0.0
+ketoconazole,Low,4,3,0,0.0
+ketoconazole,Low,8,3,0,0.0
+ketoconazole,Low,15,3,0,0.0
+ketoconazole,Low,29,3,0,0.0
+ketoconazole,Middle,4,3,0,0.0
+ketoconazole,Middle,8,3,0,0.0
+ketoconazole,Middle,15,3,0,0.0
+ketoconazole,Middle,29,3,0,0.0
+labetalol,Control,4,3,0,0.0
+labetalol,Control,8,3,0,0.0
+labetalol,Control,15,3,0,0.0
+labetalol,Control,29,3,0,0.0
+labetalol,High,4,3,0,0.0
+labetalol,High,8,3,0,0.0
+labetalol,High,15,3,0,0.0
+labetalol,High,29,2,0,0.0
+labetalol,Low,4,3,0,0.0
+labetalol,Low,8,3,0,0.0
+labetalol,Low,15,3,0,0.0
+labetalol,Low,29,3,0,0.0
+labetalol,Middle,4,3,0,0.0
+labetalol,Middle,8,3,0,0.0
+labetalol,Middle,15,3,0,0.0
+labetalol,Middle,29,3,0,0.0
+lomustine,Control,4,3,0,0.0
+lomustine,Control,8,3,0,0.0
+lomustine,Control,15,3,0,0.0
+lomustine,Control,29,3,0,0.0
+lomustine,High,4,3,0,0.0
+lomustine,High,8,3,0,0.0
+lomustine,High,15,3,3,1.0
+lomustine,High,29,3,3,1.0
+lomustine,Low,4,3,0,0.0
+lomustine,Low,8,3,0,0.0
+lomustine,Low,15,3,0,0.0
+lomustine,Low,29,3,0,0.0
+lomustine,Middle,4,3,0,0.0
+lomustine,Middle,8,3,0,0.0
+lomustine,Middle,15,3,1,0.3333333333333333
+lomustine,Middle,29,3,0,0.0
+lornoxicam,Control,4,3,0,0.0
+lornoxicam,Control,8,3,0,0.0
+lornoxicam,Control,15,3,0,0.0
+lornoxicam,Control,29,3,0,0.0
+lornoxicam,High,4,3,0,0.0
+lornoxicam,High,8,3,0,0.0
+lornoxicam,High,15,3,0,0.0
+lornoxicam,Low,4,3,0,0.0
+lornoxicam,Low,8,3,0,0.0
+lornoxicam,Low,15,3,0,0.0
+lornoxicam,Low,29,3,0,0.0
+lornoxicam,Middle,4,3,0,0.0
+lornoxicam,Middle,8,3,0,0.0
+lornoxicam,Middle,15,3,0,0.0
+lornoxicam,Middle,29,3,0,0.0
+mefenamic acid,Control,4,3,0,0.0
+mefenamic acid,Control,8,3,0,0.0
+mefenamic acid,Control,15,3,0,0.0
+mefenamic acid,Control,29,3,0,0.0
+mefenamic acid,High,4,3,0,0.0
+mefenamic acid,High,8,3,0,0.0
+mefenamic acid,High,15,3,0,0.0
+mefenamic acid,High,29,3,0,0.0
+mefenamic acid,Low,4,3,0,0.0
+mefenamic acid,Low,8,3,0,0.0
+mefenamic acid,Low,15,3,0,0.0
+mefenamic acid,Low,29,3,0,0.0
+mefenamic acid,Middle,4,3,0,0.0
+mefenamic acid,Middle,8,3,0,0.0
+mefenamic acid,Middle,15,3,0,0.0
+mefenamic acid,Middle,29,3,0,0.0
+meloxicam,Control,4,3,0,0.0
+meloxicam,Control,8,3,0,0.0
+meloxicam,Control,15,3,0,0.0
+meloxicam,Control,29,3,0,0.0
+meloxicam,High,4,3,0,0.0
+meloxicam,High,8,3,0,0.0
+meloxicam,High,15,2,0,0.0
+meloxicam,Low,4,3,0,0.0
+meloxicam,Low,8,3,0,0.0
+meloxicam,Low,15,3,0,0.0
+meloxicam,Low,29,3,0,0.0
+meloxicam,Middle,4,3,0,0.0
+meloxicam,Middle,8,3,0,0.0
+meloxicam,Middle,15,3,0,0.0
+meloxicam,Middle,29,3,0,0.0
+metformin,Control,4,3,0,0.0
+metformin,Control,8,3,0,0.0
+metformin,Control,15,3,0,0.0
+metformin,Control,29,3,0,0.0
+metformin,High,4,3,0,0.0
+metformin,High,8,3,0,0.0
+metformin,High,15,3,0,0.0
+metformin,High,29,3,0,0.0
+metformin,Low,4,3,0,0.0
+metformin,Low,8,3,0,0.0
+metformin,Low,15,3,0,0.0
+metformin,Low,29,3,0,0.0
+metformin,Middle,4,3,0,0.0
+metformin,Middle,8,3,0,0.0
+metformin,Middle,15,3,0,0.0
+metformin,Middle,29,3,0,0.0
+methapyrilene,Control,4,3,0,0.0
+methapyrilene,Control,8,3,0,0.0
+methapyrilene,Control,15,3,0,0.0
+methapyrilene,Control,29,3,0,0.0
+methapyrilene,High,4,3,3,1.0
+methapyrilene,High,8,3,3,1.0
+methapyrilene,High,15,3,3,1.0
+methapyrilene,High,29,3,3,1.0
+methapyrilene,Low,4,3,0,0.0
+methapyrilene,Low,8,3,0,0.0
+methapyrilene,Low,15,3,0,0.0
+methapyrilene,Low,29,3,0,0.0
+methapyrilene,Middle,4,3,0,0.0
+methapyrilene,Middle,8,3,0,0.0
+methapyrilene,Middle,15,3,3,1.0
+methapyrilene,Middle,29,3,2,0.6666666666666666
+methimazole,Control,4,3,0,0.0
+methimazole,Control,8,3,0,0.0
+methimazole,Control,15,3,0,0.0
+methimazole,Control,29,3,0,0.0
+methimazole,High,4,3,0,0.0
+methimazole,High,8,3,0,0.0
+methimazole,High,15,3,0,0.0
+methimazole,High,29,3,0,0.0
+methimazole,Low,4,3,0,0.0
+methimazole,Low,8,3,0,0.0
+methimazole,Low,15,3,0,0.0
+methimazole,Low,29,3,0,0.0
+methimazole,Middle,4,3,0,0.0
+methimazole,Middle,8,3,0,0.0
+methimazole,Middle,15,3,0,0.0
+methimazole,Middle,29,3,0,0.0
+methyldopa,Control,4,3,0,0.0
+methyldopa,Control,8,3,0,0.0
+methyldopa,Control,15,3,0,0.0
+methyldopa,Control,29,3,0,0.0
+methyldopa,High,4,3,0,0.0
+methyldopa,High,8,3,0,0.0
+methyldopa,High,15,3,0,0.0
+methyldopa,High,29,3,0,0.0
+methyldopa,Low,4,3,0,0.0
+methyldopa,Low,8,3,0,0.0
+methyldopa,Low,15,3,0,0.0
+methyldopa,Low,29,3,0,0.0
+methyldopa,Middle,4,3,0,0.0
+methyldopa,Middle,8,3,0,0.0
+methyldopa,Middle,15,3,0,0.0
+methyldopa,Middle,29,3,0,0.0
+methylene dianiline,Control,4,3,0,0.0
+methylene dianiline,Control,8,3,0,0.0
+methylene dianiline,Control,15,3,0,0.0
+methylene dianiline,Control,29,3,0,0.0
+methylene dianiline,High,4,3,3,1.0
+methylene dianiline,High,8,3,3,1.0
+methylene dianiline,High,15,3,3,1.0
+methylene dianiline,High,29,3,3,1.0
+methylene dianiline,Low,4,3,0,0.0
+methylene dianiline,Low,8,3,0,0.0
+methylene dianiline,Low,15,3,0,0.0
+methylene dianiline,Low,29,3,0,0.0
+methylene dianiline,Middle,4,3,1,0.3333333333333333
+methylene dianiline,Middle,8,3,0,0.0
+methylene dianiline,Middle,15,3,0,0.0
+methylene dianiline,Middle,29,3,1,0.3333333333333333
+methyltestosterone,Control,4,3,0,0.0
+methyltestosterone,Control,8,3,0,0.0
+methyltestosterone,Control,15,3,0,0.0
+methyltestosterone,Control,29,3,0,0.0
+methyltestosterone,High,4,3,0,0.0
+methyltestosterone,High,8,3,0,0.0
+methyltestosterone,High,15,3,0,0.0
+methyltestosterone,High,29,3,0,0.0
+methyltestosterone,Low,4,3,0,0.0
+methyltestosterone,Low,8,3,0,0.0
+methyltestosterone,Low,15,3,0,0.0
+methyltestosterone,Low,29,3,0,0.0
+methyltestosterone,Middle,4,3,0,0.0
+methyltestosterone,Middle,8,3,0,0.0
+methyltestosterone,Middle,15,3,0,0.0
+methyltestosterone,Middle,29,3,0,0.0
+mexiletine,Control,4,3,0,0.0
+mexiletine,Control,8,3,0,0.0
+mexiletine,Control,15,3,0,0.0
+mexiletine,Control,29,3,0,0.0
+mexiletine,High,4,3,0,0.0
+mexiletine,High,8,3,0,0.0
+mexiletine,High,15,3,0,0.0
+mexiletine,High,29,3,0,0.0
+mexiletine,Low,4,3,0,0.0
+mexiletine,Low,8,3,0,0.0
+mexiletine,Low,15,3,0,0.0
+mexiletine,Low,29,3,0,0.0
+mexiletine,Middle,4,3,0,0.0
+mexiletine,Middle,8,3,0,0.0
+mexiletine,Middle,15,3,0,0.0
+mexiletine,Middle,29,3,0,0.0
+monocrotaline,Control,4,3,0,0.0
+monocrotaline,Control,8,3,0,0.0
+monocrotaline,Control,15,3,0,0.0
+monocrotaline,Control,29,3,0,0.0
+monocrotaline,High,4,3,1,0.3333333333333333
+monocrotaline,High,8,3,3,1.0
+monocrotaline,High,15,3,3,1.0
+monocrotaline,Low,4,3,0,0.0
+monocrotaline,Low,8,3,0,0.0
+monocrotaline,Low,15,3,0,0.0
+monocrotaline,Low,29,3,0,0.0
+monocrotaline,Middle,4,3,0,0.0
+monocrotaline,Middle,8,3,0,0.0
+monocrotaline,Middle,15,3,0,0.0
+monocrotaline,Middle,29,3,2,0.6666666666666666
+moxisylyte,Control,4,3,0,0.0
+moxisylyte,Control,8,3,0,0.0
+moxisylyte,Control,15,3,0,0.0
+moxisylyte,Control,29,3,0,0.0
+moxisylyte,High,4,3,0,0.0
+moxisylyte,High,8,3,0,0.0
+moxisylyte,High,15,3,0,0.0
+moxisylyte,High,29,3,0,0.0
+moxisylyte,Low,4,3,0,0.0
+moxisylyte,Low,8,3,0,0.0
+moxisylyte,Low,15,3,0,0.0
+moxisylyte,Low,29,3,0,0.0
+moxisylyte,Middle,4,3,0,0.0
+moxisylyte,Middle,8,3,0,0.0
+moxisylyte,Middle,15,3,0,0.0
+moxisylyte,Middle,29,3,0,0.0
+naphthyl isothiocyanate,Control,4,3,0,0.0
+naphthyl isothiocyanate,Control,8,3,0,0.0
+naphthyl isothiocyanate,Control,15,3,0,0.0
+naphthyl isothiocyanate,Control,29,3,0,0.0
+naphthyl isothiocyanate,High,4,3,2,0.6666666666666666
+naphthyl isothiocyanate,High,8,3,2,0.6666666666666666
+naphthyl isothiocyanate,High,15,3,3,1.0
+naphthyl isothiocyanate,High,29,3,2,0.6666666666666666
+naphthyl isothiocyanate,Low,4,3,0,0.0
+naphthyl isothiocyanate,Low,8,3,0,0.0
+naphthyl isothiocyanate,Low,15,3,0,0.0
+naphthyl isothiocyanate,Low,29,3,0,0.0
+naphthyl isothiocyanate,Middle,4,3,0,0.0
+naphthyl isothiocyanate,Middle,8,3,0,0.0
+naphthyl isothiocyanate,Middle,15,3,0,0.0
+naphthyl isothiocyanate,Middle,29,3,0,0.0
+naproxen,Control,4,3,0,0.0
+naproxen,Control,8,3,0,0.0
+naproxen,Control,15,3,0,0.0
+naproxen,Control,29,3,0,0.0
+naproxen,High,4,3,1,0.3333333333333333
+naproxen,High,8,3,0,0.0
+naproxen,High,15,3,0,0.0
+naproxen,Low,4,3,0,0.0
+naproxen,Low,8,3,0,0.0
+naproxen,Low,15,3,0,0.0
+naproxen,Low,29,3,0,0.0
+naproxen,Middle,4,3,0,0.0
+naproxen,Middle,8,3,0,0.0
+naproxen,Middle,15,3,0,0.0
+naproxen,Middle,29,3,0,0.0
+nicotinic acid,Control,4,3,0,0.0
+nicotinic acid,Control,8,3,0,0.0
+nicotinic acid,Control,15,3,0,0.0
+nicotinic acid,Control,29,3,0,0.0
+nicotinic acid,High,4,3,0,0.0
+nicotinic acid,High,8,3,0,0.0
+nicotinic acid,High,15,3,0,0.0
+nicotinic acid,High,29,3,0,0.0
+nicotinic acid,Low,4,3,0,0.0
+nicotinic acid,Low,8,3,0,0.0
+nicotinic acid,Low,15,3,0,0.0
+nicotinic acid,Low,29,3,0,0.0
+nicotinic acid,Middle,4,3,0,0.0
+nicotinic acid,Middle,8,3,0,0.0
+nicotinic acid,Middle,15,3,0,0.0
+nicotinic acid,Middle,29,3,0,0.0
+nifedipine,Control,4,3,0,0.0
+nifedipine,Control,8,3,0,0.0
+nifedipine,Control,15,3,0,0.0
+nifedipine,Control,29,3,0,0.0
+nifedipine,High,4,3,0,0.0
+nifedipine,High,8,3,0,0.0
+nifedipine,High,15,3,0,0.0
+nifedipine,High,29,3,0,0.0
+nifedipine,Low,4,3,0,0.0
+nifedipine,Low,8,3,0,0.0
+nifedipine,Low,15,3,0,0.0
+nifedipine,Low,29,3,0,0.0
+nifedipine,Middle,4,3,0,0.0
+nifedipine,Middle,8,3,0,0.0
+nifedipine,Middle,15,3,0,0.0
+nifedipine,Middle,29,3,0,0.0
+nimesulide,Control,4,3,0,0.0
+nimesulide,Control,8,3,0,0.0
+nimesulide,Control,15,3,0,0.0
+nimesulide,Control,29,3,0,0.0
+nimesulide,High,4,3,0,0.0
+nimesulide,High,8,3,0,0.0
+nimesulide,High,15,3,0,0.0
+nimesulide,High,29,3,0,0.0
+nimesulide,Low,4,3,0,0.0
+nimesulide,Low,8,3,0,0.0
+nimesulide,Low,15,3,0,0.0
+nimesulide,Low,29,3,0,0.0
+nimesulide,Middle,4,3,0,0.0
+nimesulide,Middle,8,3,0,0.0
+nimesulide,Middle,15,3,0,0.0
+nimesulide,Middle,29,3,0,0.0
+nitrofurantoin,Control,4,3,0,0.0
+nitrofurantoin,Control,8,3,0,0.0
+nitrofurantoin,Control,15,3,0,0.0
+nitrofurantoin,Control,29,3,0,0.0
+nitrofurantoin,High,4,3,0,0.0
+nitrofurantoin,High,8,3,0,0.0
+nitrofurantoin,High,15,3,0,0.0
+nitrofurantoin,High,29,3,0,0.0
+nitrofurantoin,Low,4,3,0,0.0
+nitrofurantoin,Low,8,3,0,0.0
+nitrofurantoin,Low,15,3,0,0.0
+nitrofurantoin,Low,29,3,0,0.0
+nitrofurantoin,Middle,4,3,0,0.0
+nitrofurantoin,Middle,8,3,0,0.0
+nitrofurantoin,Middle,15,3,0,0.0
+nitrofurantoin,Middle,29,3,0,0.0
+nitrofurazone,Control,4,3,0,0.0
+nitrofurazone,Control,8,3,0,0.0
+nitrofurazone,Control,15,3,0,0.0
+nitrofurazone,Control,29,3,0,0.0
+nitrofurazone,High,4,3,0,0.0
+nitrofurazone,High,8,3,0,0.0
+nitrofurazone,High,15,3,0,0.0
+nitrofurazone,High,29,3,0,0.0
+nitrofurazone,Low,4,3,0,0.0
+nitrofurazone,Low,8,3,0,0.0
+nitrofurazone,Low,15,3,0,0.0
+nitrofurazone,Low,29,3,0,0.0
+nitrofurazone,Middle,4,3,0,0.0
+nitrofurazone,Middle,8,3,0,0.0
+nitrofurazone,Middle,15,3,0,0.0
+nitrofurazone,Middle,29,3,0,0.0
+nitrosodiethylamine,Control,4,3,0,0.0
+nitrosodiethylamine,Control,8,3,0,0.0
+nitrosodiethylamine,Control,15,3,0,0.0
+nitrosodiethylamine,Control,29,3,0,0.0
+nitrosodiethylamine,High,4,3,3,1.0
+nitrosodiethylamine,High,8,3,3,1.0
+nitrosodiethylamine,High,15,1,1,1.0
+nitrosodiethylamine,Low,4,3,0,0.0
+nitrosodiethylamine,Low,8,3,0,0.0
+nitrosodiethylamine,Low,15,3,0,0.0
+nitrosodiethylamine,Low,29,3,3,1.0
+nitrosodiethylamine,Middle,4,3,0,0.0
+nitrosodiethylamine,Middle,8,3,3,1.0
+nitrosodiethylamine,Middle,15,3,3,1.0
+nitrosodiethylamine,Middle,29,3,3,1.0
+omeprazole,Control,4,3,0,0.0
+omeprazole,Control,8,3,0,0.0
+omeprazole,Control,15,3,0,0.0
+omeprazole,Control,29,3,0,0.0
+omeprazole,High,4,3,0,0.0
+omeprazole,High,8,3,0,0.0
+omeprazole,High,15,3,0,0.0
+omeprazole,High,29,3,0,0.0
+omeprazole,Low,4,3,0,0.0
+omeprazole,Low,8,3,0,0.0
+omeprazole,Low,15,3,0,0.0
+omeprazole,Low,29,3,0,0.0
+omeprazole,Middle,4,3,0,0.0
+omeprazole,Middle,8,3,0,0.0
+omeprazole,Middle,15,3,0,0.0
+omeprazole,Middle,29,3,0,0.0
+papaverine,Control,4,3,0,0.0
+papaverine,Control,8,3,0,0.0
+papaverine,Control,15,3,0,0.0
+papaverine,Control,29,3,0,0.0
+papaverine,High,4,3,0,0.0
+papaverine,High,8,3,0,0.0
+papaverine,High,15,3,0,0.0
+papaverine,High,29,3,0,0.0
+papaverine,Low,4,3,0,0.0
+papaverine,Low,8,3,0,0.0
+papaverine,Low,15,3,0,0.0
+papaverine,Low,29,3,0,0.0
+papaverine,Middle,4,3,0,0.0
+papaverine,Middle,8,3,0,0.0
+papaverine,Middle,15,3,0,0.0
+papaverine,Middle,29,3,0,0.0
+pemoline,Control,4,3,0,0.0
+pemoline,Control,8,3,0,0.0
+pemoline,Control,15,3,0,0.0
+pemoline,Control,29,3,0,0.0
+pemoline,High,4,3,0,0.0
+pemoline,High,8,3,0,0.0
+pemoline,High,15,3,0,0.0
+pemoline,High,29,3,0,0.0
+pemoline,Low,4,3,0,0.0
+pemoline,Low,8,3,0,0.0
+pemoline,Low,15,3,0,0.0
+pemoline,Low,29,3,0,0.0
+pemoline,Middle,4,3,0,0.0
+pemoline,Middle,8,3,0,0.0
+pemoline,Middle,15,3,0,0.0
+pemoline,Middle,29,3,0,0.0
+penicillamine,Control,4,3,0,0.0
+penicillamine,Control,8,3,0,0.0
+penicillamine,Control,15,3,0,0.0
+penicillamine,Control,29,3,0,0.0
+penicillamine,High,4,3,0,0.0
+penicillamine,High,8,3,0,0.0
+penicillamine,High,15,3,0,0.0
+penicillamine,High,29,3,0,0.0
+penicillamine,Low,4,3,0,0.0
+penicillamine,Low,8,3,0,0.0
+penicillamine,Low,15,3,0,0.0
+penicillamine,Low,29,3,0,0.0
+penicillamine,Middle,4,3,0,0.0
+penicillamine,Middle,8,3,0,0.0
+penicillamine,Middle,15,3,0,0.0
+penicillamine,Middle,29,3,0,0.0
+perhexiline,Control,4,3,0,0.0
+perhexiline,Control,8,3,0,0.0
+perhexiline,Control,15,3,0,0.0
+perhexiline,Control,29,3,0,0.0
+perhexiline,High,4,3,0,0.0
+perhexiline,High,8,3,0,0.0
+perhexiline,High,15,3,0,0.0
+perhexiline,High,29,3,0,0.0
+perhexiline,Low,4,3,0,0.0
+perhexiline,Low,8,3,0,0.0
+perhexiline,Low,15,3,0,0.0
+perhexiline,Low,29,3,0,0.0
+perhexiline,Middle,4,3,0,0.0
+perhexiline,Middle,8,3,0,0.0
+perhexiline,Middle,15,3,0,0.0
+perhexiline,Middle,29,3,0,0.0
+phalloidin,Control,4,3,0,0.0
+phalloidin,Control,8,3,0,0.0
+phalloidin,High,4,3,3,1.0
+phalloidin,High,8,3,3,1.0
+phenacetin,Control,4,3,0,0.0
+phenacetin,Control,8,3,0,0.0
+phenacetin,Control,15,3,0,0.0
+phenacetin,Control,29,3,0,0.0
+phenacetin,High,4,3,0,0.0
+phenacetin,High,8,3,0,0.0
+phenacetin,High,15,3,0,0.0
+phenacetin,High,29,3,0,0.0
+phenacetin,Low,4,3,0,0.0
+phenacetin,Low,8,3,0,0.0
+phenacetin,Low,15,3,0,0.0
+phenacetin,Low,29,3,0,0.0
+phenacetin,Middle,4,3,0,0.0
+phenacetin,Middle,8,3,0,0.0
+phenacetin,Middle,15,3,0,0.0
+phenacetin,Middle,29,3,0,0.0
+phenobarbital,Control,4,3,0,0.0
+phenobarbital,Control,8,3,0,0.0
+phenobarbital,Control,15,3,0,0.0
+phenobarbital,Control,29,3,0,0.0
+phenobarbital,High,4,3,0,0.0
+phenobarbital,High,8,3,0,0.0
+phenobarbital,High,15,3,0,0.0
+phenobarbital,High,29,3,0,0.0
+phenobarbital,Low,4,3,0,0.0
+phenobarbital,Low,8,3,0,0.0
+phenobarbital,Low,15,3,0,0.0
+phenobarbital,Low,29,3,0,0.0
+phenobarbital,Middle,4,3,0,0.0
+phenobarbital,Middle,8,3,0,0.0
+phenobarbital,Middle,15,3,0,0.0
+phenobarbital,Middle,29,3,0,0.0
+phenylanthranilic acid,Control,4,3,0,0.0
+phenylanthranilic acid,Control,8,3,0,0.0
+phenylanthranilic acid,Control,15,3,0,0.0
+phenylanthranilic acid,Control,29,3,0,0.0
+phenylanthranilic acid,High,4,3,0,0.0
+phenylanthranilic acid,High,8,3,0,0.0
+phenylanthranilic acid,High,15,3,0,0.0
+phenylanthranilic acid,High,29,2,0,0.0
+phenylanthranilic acid,Low,4,3,0,0.0
+phenylanthranilic acid,Low,8,3,0,0.0
+phenylanthranilic acid,Low,15,3,0,0.0
+phenylanthranilic acid,Low,29,3,0,0.0
+phenylanthranilic acid,Middle,4,3,0,0.0
+phenylanthranilic acid,Middle,8,3,0,0.0
+phenylanthranilic acid,Middle,15,3,0,0.0
+phenylanthranilic acid,Middle,29,3,0,0.0
+phenylbutazone,Control,4,3,0,0.0
+phenylbutazone,Control,8,3,0,0.0
+phenylbutazone,Control,15,3,0,0.0
+phenylbutazone,Control,29,3,0,0.0
+phenylbutazone,High,4,3,0,0.0
+phenylbutazone,High,8,3,0,0.0
+phenylbutazone,High,15,3,0,0.0
+phenylbutazone,High,29,3,0,0.0
+phenylbutazone,Low,4,3,0,0.0
+phenylbutazone,Low,8,3,0,0.0
+phenylbutazone,Low,15,3,0,0.0
+phenylbutazone,Low,29,3,0,0.0
+phenylbutazone,Middle,4,3,0,0.0
+phenylbutazone,Middle,8,3,0,0.0
+phenylbutazone,Middle,15,3,0,0.0
+phenylbutazone,Middle,29,3,0,0.0
+phenytoin,Control,4,3,0,0.0
+phenytoin,Control,8,3,0,0.0
+phenytoin,Control,15,3,0,0.0
+phenytoin,Control,29,3,0,0.0
+phenytoin,High,4,3,0,0.0
+phenytoin,High,8,3,0,0.0
+phenytoin,High,15,3,0,0.0
+phenytoin,High,29,3,0,0.0
+phenytoin,Low,4,3,0,0.0
+phenytoin,Low,8,3,0,0.0
+phenytoin,Low,15,3,0,0.0
+phenytoin,Low,29,3,0,0.0
+phenytoin,Middle,4,3,0,0.0
+phenytoin,Middle,8,3,0,0.0
+phenytoin,Middle,15,3,0,0.0
+phenytoin,Middle,29,3,0,0.0
+promethazine,Control,4,3,0,0.0
+promethazine,Control,8,3,0,0.0
+promethazine,Control,15,3,0,0.0
+promethazine,Control,29,3,0,0.0
+promethazine,High,4,3,0,0.0
+promethazine,High,8,3,0,0.0
+promethazine,High,15,3,0,0.0
+promethazine,High,29,3,0,0.0
+promethazine,Low,4,3,0,0.0
+promethazine,Low,8,3,0,0.0
+promethazine,Low,15,3,0,0.0
+promethazine,Low,29,3,0,0.0
+promethazine,Middle,4,3,0,0.0
+promethazine,Middle,8,3,0,0.0
+promethazine,Middle,15,3,0,0.0
+promethazine,Middle,29,3,0,0.0
+propranolol,Control,4,3,0,0.0
+propranolol,Control,8,3,0,0.0
+propranolol,Control,15,3,0,0.0
+propranolol,Control,29,3,0,0.0
+propranolol,High,4,3,0,0.0
+propranolol,High,8,3,0,0.0
+propranolol,High,15,3,0,0.0
+propranolol,High,29,3,0,0.0
+propranolol,Low,4,3,0,0.0
+propranolol,Low,8,3,0,0.0
+propranolol,Low,15,3,0,0.0
+propranolol,Low,29,3,0,0.0
+propranolol,Middle,4,3,0,0.0
+propranolol,Middle,8,3,0,0.0
+propranolol,Middle,15,3,0,0.0
+propranolol,Middle,29,3,0,0.0
+propylthiouracil,Control,4,3,0,0.0
+propylthiouracil,Control,8,3,0,0.0
+propylthiouracil,Control,15,3,0,0.0
+propylthiouracil,Control,29,3,0,0.0
+propylthiouracil,High,4,3,0,0.0
+propylthiouracil,High,8,3,0,0.0
+propylthiouracil,High,15,3,0,0.0
+propylthiouracil,High,29,3,0,0.0
+propylthiouracil,Low,4,3,0,0.0
+propylthiouracil,Low,8,3,0,0.0
+propylthiouracil,Low,15,3,0,0.0
+propylthiouracil,Low,29,3,0,0.0
+propylthiouracil,Middle,4,3,0,0.0
+propylthiouracil,Middle,8,3,0,0.0
+propylthiouracil,Middle,15,3,0,0.0
+propylthiouracil,Middle,29,3,0,0.0
+puromycin aminonucleoside,Control,4,3,0,0.0
+puromycin aminonucleoside,Control,8,3,0,0.0
+puromycin aminonucleoside,Control,15,3,0,0.0
+puromycin aminonucleoside,Control,29,3,0,0.0
+puromycin aminonucleoside,High,4,3,0,0.0
+puromycin aminonucleoside,High,8,3,1,0.3333333333333333
+puromycin aminonucleoside,Low,4,3,0,0.0
+puromycin aminonucleoside,Low,8,3,0,0.0
+puromycin aminonucleoside,Low,15,3,0,0.0
+puromycin aminonucleoside,Low,29,3,0,0.0
+puromycin aminonucleoside,Middle,4,3,0,0.0
+puromycin aminonucleoside,Middle,8,3,0,0.0
+puromycin aminonucleoside,Middle,15,3,0,0.0
+puromycin aminonucleoside,Middle,29,3,0,0.0
+quinidine,Control,4,3,0,0.0
+quinidine,Control,8,3,0,0.0
+quinidine,Control,15,3,0,0.0
+quinidine,Control,29,3,0,0.0
+quinidine,High,4,3,0,0.0
+quinidine,High,8,3,0,0.0
+quinidine,High,15,3,0,0.0
+quinidine,High,29,3,0,0.0
+quinidine,Low,4,3,0,0.0
+quinidine,Low,8,3,0,0.0
+quinidine,Low,15,3,0,0.0
+quinidine,Low,29,3,0,0.0
+quinidine,Middle,4,3,0,0.0
+quinidine,Middle,8,3,0,0.0
+quinidine,Middle,15,3,0,0.0
+quinidine,Middle,29,3,0,0.0
+ranitidine,Control,4,3,0,0.0
+ranitidine,Control,8,3,0,0.0
+ranitidine,Control,15,3,0,0.0
+ranitidine,Control,29,3,0,0.0
+ranitidine,High,4,3,0,0.0
+ranitidine,High,8,3,0,0.0
+ranitidine,High,15,3,0,0.0
+ranitidine,High,29,3,0,0.0
+ranitidine,Low,4,3,0,0.0
+ranitidine,Low,8,3,0,0.0
+ranitidine,Low,15,3,0,0.0
+ranitidine,Low,29,3,0,0.0
+ranitidine,Middle,4,3,0,0.0
+ranitidine,Middle,8,3,0,0.0
+ranitidine,Middle,15,3,0,0.0
+ranitidine,Middle,29,3,0,0.0
+rifampicin,Control,4,3,0,0.0
+rifampicin,Control,8,3,0,0.0
+rifampicin,Control,15,3,0,0.0
+rifampicin,Control,29,3,0,0.0
+rifampicin,High,4,3,0,0.0
+rifampicin,High,8,3,0,0.0
+rifampicin,High,15,3,0,0.0
+rifampicin,High,29,3,0,0.0
+rifampicin,Low,4,3,0,0.0
+rifampicin,Low,8,3,0,0.0
+rifampicin,Low,15,3,0,0.0
+rifampicin,Low,29,3,0,0.0
+rifampicin,Middle,4,3,0,0.0
+rifampicin,Middle,8,3,0,0.0
+rifampicin,Middle,15,3,0,0.0
+rifampicin,Middle,29,3,0,0.0
+rosiglitazone maleate,Control,4,3,0,0.0
+rosiglitazone maleate,Control,8,3,0,0.0
+rosiglitazone maleate,Control,15,3,0,0.0
+rosiglitazone maleate,Control,29,3,0,0.0
+rosiglitazone maleate,High,4,3,0,0.0
+rosiglitazone maleate,High,8,3,0,0.0
+rosiglitazone maleate,High,15,3,0,0.0
+rosiglitazone maleate,High,29,3,0,0.0
+rosiglitazone maleate,Low,4,3,0,0.0
+rosiglitazone maleate,Low,8,3,0,0.0
+rosiglitazone maleate,Low,15,3,0,0.0
+rosiglitazone maleate,Low,29,3,0,0.0
+rosiglitazone maleate,Middle,4,3,0,0.0
+rosiglitazone maleate,Middle,8,3,0,0.0
+rosiglitazone maleate,Middle,15,3,0,0.0
+rosiglitazone maleate,Middle,29,3,0,0.0
+rotenone,Control,4,3,0,0.0
+rotenone,Control,8,3,0,0.0
+rotenone,Control,15,3,0,0.0
+rotenone,Control,29,3,0,0.0
+rotenone,High,4,3,0,0.0
+rotenone,High,8,3,0,0.0
+rotenone,High,15,3,0,0.0
+rotenone,High,29,3,0,0.0
+rotenone,Low,4,3,0,0.0
+rotenone,Low,8,3,0,0.0
+rotenone,Low,15,3,0,0.0
+rotenone,Low,29,3,0,0.0
+rotenone,Middle,4,3,0,0.0
+rotenone,Middle,8,3,0,0.0
+rotenone,Middle,15,3,0,0.0
+rotenone,Middle,29,3,0,0.0
+simvastatin,Control,4,3,0,0.0
+simvastatin,Control,8,3,0,0.0
+simvastatin,Control,15,3,0,0.0
+simvastatin,Control,29,3,0,0.0
+simvastatin,High,4,3,0,0.0
+simvastatin,High,8,3,0,0.0
+simvastatin,High,15,3,0,0.0
+simvastatin,High,29,3,0,0.0
+simvastatin,Low,4,3,0,0.0
+simvastatin,Low,8,3,0,0.0
+simvastatin,Low,15,3,0,0.0
+simvastatin,Low,29,3,0,0.0
+simvastatin,Middle,4,3,0,0.0
+simvastatin,Middle,8,3,0,0.0
+simvastatin,Middle,15,3,0,0.0
+simvastatin,Middle,29,3,0,0.0
+sulfasalazine,Control,4,3,0,0.0
+sulfasalazine,Control,8,3,0,0.0
+sulfasalazine,Control,15,3,0,0.0
+sulfasalazine,Control,29,3,0,0.0
+sulfasalazine,High,4,3,0,0.0
+sulfasalazine,High,8,3,0,0.0
+sulfasalazine,High,15,3,0,0.0
+sulfasalazine,High,29,3,0,0.0
+sulfasalazine,Low,4,3,0,0.0
+sulfasalazine,Low,8,3,0,0.0
+sulfasalazine,Low,15,3,0,0.0
+sulfasalazine,Low,29,3,0,0.0
+sulfasalazine,Middle,4,3,0,0.0
+sulfasalazine,Middle,8,3,0,0.0
+sulfasalazine,Middle,15,3,0,0.0
+sulfasalazine,Middle,29,3,0,0.0
+sulindac,Control,4,3,0,0.0
+sulindac,Control,8,3,0,0.0
+sulindac,Control,15,3,0,0.0
+sulindac,Control,29,3,0,0.0
+sulindac,High,4,3,0,0.0
+sulindac,High,8,3,0,0.0
+sulindac,High,15,3,0,0.0
+sulindac,High,29,3,0,0.0
+sulindac,Low,4,3,0,0.0
+sulindac,Low,8,3,0,0.0
+sulindac,Low,15,3,0,0.0
+sulindac,Low,29,3,0,0.0
+sulindac,Middle,4,3,0,0.0
+sulindac,Middle,8,3,0,0.0
+sulindac,Middle,15,3,0,0.0
+sulindac,Middle,29,3,0,0.0
+sulpiride,Control,4,3,0,0.0
+sulpiride,Control,8,3,0,0.0
+sulpiride,Control,15,3,0,0.0
+sulpiride,Control,29,3,0,0.0
+sulpiride,High,4,3,0,0.0
+sulpiride,High,8,3,0,0.0
+sulpiride,High,15,3,0,0.0
+sulpiride,High,29,3,0,0.0
+sulpiride,Low,4,3,0,0.0
+sulpiride,Low,8,3,0,0.0
+sulpiride,Low,15,3,0,0.0
+sulpiride,Low,29,3,0,0.0
+sulpiride,Middle,4,3,0,0.0
+sulpiride,Middle,8,3,0,0.0
+sulpiride,Middle,15,3,0,0.0
+sulpiride,Middle,29,3,0,0.0
+tacrine,Control,4,3,0,0.0
+tacrine,Control,8,3,0,0.0
+tacrine,Control,15,3,0,0.0
+tacrine,Control,29,3,0,0.0
+tacrine,High,4,3,0,0.0
+tacrine,High,8,3,0,0.0
+tacrine,High,15,3,0,0.0
+tacrine,High,29,1,0,0.0
+tacrine,Low,4,3,0,0.0
+tacrine,Low,8,3,0,0.0
+tacrine,Low,15,3,0,0.0
+tacrine,Low,29,3,0,0.0
+tacrine,Middle,4,3,0,0.0
+tacrine,Middle,8,3,0,0.0
+tacrine,Middle,15,3,0,0.0
+tacrine,Middle,29,3,0,0.0
+tamoxifen,Control,4,3,0,0.0
+tamoxifen,Control,8,3,0,0.0
+tamoxifen,Control,15,3,0,0.0
+tamoxifen,Control,29,3,0,0.0
+tamoxifen,High,4,3,0,0.0
+tamoxifen,High,8,3,0,0.0
+tamoxifen,High,15,3,0,0.0
+tamoxifen,High,29,3,0,0.0
+tamoxifen,Low,4,3,0,0.0
+tamoxifen,Low,8,3,0,0.0
+tamoxifen,Low,15,3,0,0.0
+tamoxifen,Low,29,3,0,0.0
+tamoxifen,Middle,4,3,0,0.0
+tamoxifen,Middle,8,3,0,0.0
+tamoxifen,Middle,15,3,0,0.0
+tamoxifen,Middle,29,3,0,0.0
+tannic acid,Control,4,3,0,0.0
+tannic acid,Control,8,3,0,0.0
+tannic acid,Control,15,3,0,0.0
+tannic acid,Control,29,3,0,0.0
+tannic acid,High,4,3,0,0.0
+tannic acid,High,8,3,0,0.0
+tannic acid,High,15,3,0,0.0
+tannic acid,High,29,3,0,0.0
+tannic acid,Low,4,3,0,0.0
+tannic acid,Low,8,3,0,0.0
+tannic acid,Low,15,3,0,0.0
+tannic acid,Low,29,3,0,0.0
+tannic acid,Middle,4,3,0,0.0
+tannic acid,Middle,8,3,0,0.0
+tannic acid,Middle,15,3,0,0.0
+tannic acid,Middle,29,3,0,0.0
+terbinafine,Control,4,3,0,0.0
+terbinafine,Control,8,3,0,0.0
+terbinafine,Control,15,3,0,0.0
+terbinafine,Control,29,3,0,0.0
+terbinafine,High,4,3,0,0.0
+terbinafine,High,8,3,0,0.0
+terbinafine,High,15,3,0,0.0
+terbinafine,High,29,3,0,0.0
+terbinafine,Low,4,3,0,0.0
+terbinafine,Low,8,3,0,0.0
+terbinafine,Low,15,3,0,0.0
+terbinafine,Low,29,3,0,0.0
+terbinafine,Middle,4,3,0,0.0
+terbinafine,Middle,8,3,0,0.0
+terbinafine,Middle,15,3,0,0.0
+terbinafine,Middle,29,3,0,0.0
+tetracycline,Control,4,3,0,0.0
+tetracycline,Control,8,3,0,0.0
+tetracycline,Control,15,3,0,0.0
+tetracycline,Control,29,3,0,0.0
+tetracycline,High,4,3,0,0.0
+tetracycline,High,8,3,0,0.0
+tetracycline,High,15,3,0,0.0
+tetracycline,High,29,3,0,0.0
+tetracycline,Low,4,3,0,0.0
+tetracycline,Low,8,3,0,0.0
+tetracycline,Low,15,3,0,0.0
+tetracycline,Low,29,3,0,0.0
+tetracycline,Middle,4,3,0,0.0
+tetracycline,Middle,8,3,0,0.0
+tetracycline,Middle,15,3,0,0.0
+tetracycline,Middle,29,3,0,0.0
+theophylline,Control,4,3,0,0.0
+theophylline,Control,8,3,0,0.0
+theophylline,Control,15,3,0,0.0
+theophylline,Control,29,3,0,0.0
+theophylline,High,4,3,0,0.0
+theophylline,High,8,3,0,0.0
+theophylline,High,15,3,1,0.3333333333333333
+theophylline,High,29,2,1,0.5
+theophylline,Low,4,3,0,0.0
+theophylline,Low,8,3,0,0.0
+theophylline,Low,15,3,0,0.0
+theophylline,Low,29,3,0,0.0
+theophylline,Middle,4,3,0,0.0
+theophylline,Middle,8,3,0,0.0
+theophylline,Middle,15,3,0,0.0
+theophylline,Middle,29,3,0,0.0
+thioacetamide,Control,4,3,0,0.0
+thioacetamide,Control,8,3,0,0.0
+thioacetamide,Control,15,3,0,0.0
+thioacetamide,Control,29,3,0,0.0
+thioacetamide,High,4,3,3,1.0
+thioacetamide,High,8,3,3,1.0
+thioacetamide,High,15,3,3,1.0
+thioacetamide,High,29,3,3,1.0
+thioacetamide,Low,4,3,0,0.0
+thioacetamide,Low,8,3,0,0.0
+thioacetamide,Low,15,3,0,0.0
+thioacetamide,Low,29,3,2,0.6666666666666666
+thioacetamide,Middle,4,3,0,0.0
+thioacetamide,Middle,8,3,3,1.0
+thioacetamide,Middle,15,3,3,1.0
+thioacetamide,Middle,29,3,3,1.0
+thioridazine,Control,4,3,0,0.0
+thioridazine,Control,8,3,0,0.0
+thioridazine,Control,15,3,0,0.0
+thioridazine,Control,29,3,0,0.0
+thioridazine,High,4,3,0,0.0
+thioridazine,High,8,3,0,0.0
+thioridazine,High,15,3,0,0.0
+thioridazine,High,29,3,0,0.0
+thioridazine,Low,4,3,0,0.0
+thioridazine,Low,8,3,0,0.0
+thioridazine,Low,15,3,0,0.0
+thioridazine,Low,29,3,0,0.0
+thioridazine,Middle,4,3,0,0.0
+thioridazine,Middle,8,3,0,0.0
+thioridazine,Middle,15,3,0,0.0
+thioridazine,Middle,29,3,0,0.0
+ticlopidine,Control,4,3,0,0.0
+ticlopidine,Control,8,3,0,0.0
+ticlopidine,Control,15,3,0,0.0
+ticlopidine,Control,29,3,0,0.0
+ticlopidine,High,4,3,0,0.0
+ticlopidine,High,8,3,0,0.0
+ticlopidine,High,15,3,0,0.0
+ticlopidine,High,29,3,0,0.0
+ticlopidine,Low,4,3,0,0.0
+ticlopidine,Low,8,3,0,0.0
+ticlopidine,Low,15,3,0,0.0
+ticlopidine,Low,29,3,0,0.0
+ticlopidine,Middle,4,3,0,0.0
+ticlopidine,Middle,8,3,0,0.0
+ticlopidine,Middle,15,3,0,0.0
+ticlopidine,Middle,29,3,0,0.0
+tiopronin,Control,4,3,0,0.0
+tiopronin,Control,8,3,0,0.0
+tiopronin,Control,15,3,0,0.0
+tiopronin,Control,29,3,0,0.0
+tiopronin,High,4,3,0,0.0
+tiopronin,High,8,3,0,0.0
+tiopronin,High,15,3,0,0.0
+tiopronin,High,29,3,0,0.0
+tiopronin,Low,4,3,0,0.0
+tiopronin,Low,8,3,0,0.0
+tiopronin,Low,15,3,0,0.0
+tiopronin,Low,29,3,0,0.0
+tiopronin,Middle,4,3,0,0.0
+tiopronin,Middle,8,3,0,0.0
+tiopronin,Middle,15,3,0,0.0
+tiopronin,Middle,29,3,0,0.0
+tolbutamide,Control,4,3,0,0.0
+tolbutamide,Control,8,3,0,0.0
+tolbutamide,Control,15,3,0,0.0
+tolbutamide,Control,29,3,0,0.0
+tolbutamide,High,4,3,0,0.0
+tolbutamide,High,8,3,0,0.0
+tolbutamide,High,15,3,0,0.0
+tolbutamide,High,29,3,0,0.0
+tolbutamide,Low,4,3,0,0.0
+tolbutamide,Low,8,3,0,0.0
+tolbutamide,Low,15,3,0,0.0
+tolbutamide,Low,29,3,0,0.0
+tolbutamide,Middle,4,3,0,0.0
+tolbutamide,Middle,8,3,0,0.0
+tolbutamide,Middle,15,3,0,0.0
+tolbutamide,Middle,29,3,0,0.0
+triamterene,Control,4,3,0,0.0
+triamterene,Control,8,3,0,0.0
+triamterene,Control,15,3,0,0.0
+triamterene,Control,29,3,0,0.0
+triamterene,High,4,3,0,0.0
+triamterene,High,8,3,0,0.0
+triamterene,High,15,3,0,0.0
+triamterene,High,29,3,0,0.0
+triamterene,Low,4,3,0,0.0
+triamterene,Low,8,3,0,0.0
+triamterene,Low,15,3,0,0.0
+triamterene,Low,29,3,0,0.0
+triamterene,Middle,4,3,0,0.0
+triamterene,Middle,8,3,0,0.0
+triamterene,Middle,15,3,0,0.0
+triamterene,Middle,29,3,0,0.0
+triazolam,Control,4,3,0,0.0
+triazolam,Control,8,3,0,0.0
+triazolam,Control,15,3,0,0.0
+triazolam,Control,29,3,0,0.0
+triazolam,High,4,3,0,0.0
+triazolam,High,8,3,0,0.0
+triazolam,High,15,3,0,0.0
+triazolam,High,29,3,0,0.0
+triazolam,Low,4,3,0,0.0
+triazolam,Low,8,3,0,0.0
+triazolam,Low,15,3,0,0.0
+triazolam,Low,29,3,0,0.0
+triazolam,Middle,4,3,0,0.0
+triazolam,Middle,8,3,0,0.0
+triazolam,Middle,15,3,0,0.0
+triazolam,Middle,29,3,0,0.0
+trimethadione,Control,4,3,0,0.0
+trimethadione,Control,8,3,0,0.0
+trimethadione,Control,15,3,0,0.0
+trimethadione,Control,29,3,0,0.0
+trimethadione,High,4,3,0,0.0
+trimethadione,High,8,3,0,0.0
+trimethadione,High,15,3,0,0.0
+trimethadione,High,29,3,2,0.6666666666666666
+trimethadione,Low,4,3,0,0.0
+trimethadione,Low,8,3,0,0.0
+trimethadione,Low,15,3,0,0.0
+trimethadione,Low,29,3,0,0.0
+trimethadione,Middle,4,3,0,0.0
+trimethadione,Middle,8,3,0,0.0
+trimethadione,Middle,15,3,0,0.0
+trimethadione,Middle,29,3,0,0.0
+valproic acid,Control,4,3,0,0.0
+valproic acid,Control,8,3,0,0.0
+valproic acid,Control,15,3,0,0.0
+valproic acid,Control,29,3,0,0.0
+valproic acid,High,4,3,0,0.0
+valproic acid,High,8,3,0,0.0
+valproic acid,High,15,3,0,0.0
+valproic acid,High,29,3,0,0.0
+valproic acid,Low,4,3,0,0.0
+valproic acid,Low,8,3,0,0.0
+valproic acid,Low,15,3,0,0.0
+valproic acid,Low,29,3,0,0.0
+valproic acid,Middle,4,3,0,0.0
+valproic acid,Middle,8,3,0,0.0
+valproic acid,Middle,15,3,0,0.0
+valproic acid,Middle,29,3,0,0.0
+vitamin A,Control,4,3,0,0.0
+vitamin A,Control,8,3,0,0.0
+vitamin A,Control,15,3,0,0.0
+vitamin A,Control,29,3,0,0.0
+vitamin A,High,4,3,0,0.0
+vitamin A,High,8,3,0,0.0
+vitamin A,High,15,3,0,0.0
+vitamin A,High,29,3,0,0.0
+vitamin A,Low,4,3,0,0.0
+vitamin A,Low,8,3,0,0.0
+vitamin A,Low,15,3,0,0.0
+vitamin A,Low,29,3,0,0.0
+vitamin A,Middle,4,3,0,0.0
+vitamin A,Middle,8,3,0,0.0
+vitamin A,Middle,15,3,0,0.0
+vitamin A,Middle,29,3,0,0.0

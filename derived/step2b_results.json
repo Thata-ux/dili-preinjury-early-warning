@@ -1,0 +1,74 @@
+{
+  "per_arm_auc": {
+    "score_transcriptomic": 0.8323754789272031,
+    "score_dose_model": 0.5798611111111112,
+    "dose_level_ordinal": 0.6901041666666665
+  },
+  "per_arm_ap": {
+    "score_transcriptomic": 0.4968074190492098,
+    "score_dose_model": 0.20809738971976227,
+    "dose_level_ordinal": 0.2011734241374
+  },
+  "n_arms": 396,
+  "n_positive": 48,
+  "delong": {
+    "transcriptomic_vs_dose_model": {
+      "auc_a": 0.8323754789272031,
+      "auc_b": 0.579861111111111,
+      "difference": 0.25251436781609204,
+      "se": 0.056161634488551826,
+      "z": 4.496207600004331,
+      "p_value": 6.917619817636833e-06
+    },
+    "transcriptomic_vs_dose_raw": {
+      "auc_a": 0.8323754789272031,
+      "auc_b": 0.6901041666666666,
+      "difference": 0.14227131226053646,
+      "se": 0.049300171391905866,
+      "z": 2.8858178023270455,
+      "p_value": 0.003903980896801329
+    }
+  },
+  "permutation": {
+    "observed_light": 0.8461446360153256,
+    "null_mean": 0.4927741858237548,
+    "null_sd": 0.06623224786684374,
+    "n_permutations": 100,
+    "n_null_ge_observed": 0,
+    "p_value": 0.009900990099009901,
+    "z_vs_null": 5.33532322354516
+  },
+  "fibrate_sensitivity": {
+    "restricted_evaluation": {
+      "n_arms": 389,
+      "n_positive": 42,
+      "auc_transcriptomic": 0.8411554823658571,
+      "auc_dose_raw": 0.7112666392205297,
+      "ap_transcriptomic": 0.49387867346393727,
+      "delong_vs_dose_raw": {
+        "auc_a": 0.8411554823658571,
+        "auc_b": 0.7112666392205297,
+        "difference": 0.12988884314532745,
+        "se": 0.053077671601742336,
+        "z": 2.447146591506921,
+        "p_value": 0.014399226101495355
+      }
+    },
+    "full_exclusion": {
+      "n_arms": 389,
+      "n_positive": 42,
+      "n_compounds": 136,
+      "auc_transcriptomic": 0.8899409908055441,
+      "auc_dose_raw": 0.7112666392205297,
+      "ap_transcriptomic": 0.6178351708707088,
+      "delong_vs_dose_raw": {
+        "auc_a": 0.8899409908055441,
+        "auc_b": 0.7112666392205297,
+        "difference": 0.17867435158501443,
+        "se": 0.04703606334865862,
+        "z": 3.7986672111689357,
+        "p_value": 0.00014547626880712095
+      }
+    }
+  }
+}

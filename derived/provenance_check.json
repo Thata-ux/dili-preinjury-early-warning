@@ -1,0 +1,8 @@
+{
+  "n_shared_barcodes": 189,
+  "n_compared": 30,
+  "r_matched": 0.9990774135458722,
+  "r_shuffled_mean": -0.0023286125679092134,
+  "r_shuffled_sd": 0.13340738726824186,
+  "verdict": "PASS"
+}

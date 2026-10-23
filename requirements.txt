@@ -1,0 +1,12 @@
+# Pinned to what the analysis was run with. Later versions are expected to work;
+# xgboost and scikit-learn affect reproducibility of the fitted models most.
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.3
+xgboost>=2.0
+shap>=0.44
+matplotlib>=3.7
+mygene>=3.2          # Entrez -> gene symbol mapping; optional
+gseapy>=1.1          # GO/KEGG enrichment; optional

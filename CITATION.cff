@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived data, please cite the manuscript below and the underlying data sources."
+title: "Pre-Injury Hepatic Transcriptome Predicts Later-Onset Drug-Induced Liver Injury in Rat: Compound-Held-Out Evidence Beyond Dose"
+abstract: >-
+  Analysis code and derived data for a forward-prediction study of drug-induced liver
+  injury in rat. Compound-dose arms that are histopathologically normal at day 4 are used
+  to predict confirmed injury at day 15 or 29, under leave-one-compound-out validation and
+  against an administered-dose baseline. All confidence intervals resample whole compounds
+  rather than individual arms.
+type: software
+license: MIT
+authors:
+  - family-names: "Andika"
+    given-names: "Tahta Herdian"
+    orcid: "https://orcid.org/0000-0001-7009-6114"
+    affiliation: "Department of Informatics Engineering, Universitas Aisyah Pringsewu, Indonesia"
+  - family-names: "Abdul Karim"
+    given-names: "Dewi Damayanti"
+    affiliation: "Institut Teknologi Sumatera, Indonesia"
+    email: "dewi.abdul@fa.itera.ac.id"
+  - family-names: "Gameiro"
+    given-names: "J. F."
+  - family-names: "Ardhy"
+    given-names: "F."
+keywords:
+  - drug-induced liver injury
+  - toxicogenomics
+  - Open TG-GATEs
+  - early warning
+  - leave-one-compound-out validation
+  - preclinical safety assessment
+references:
+  - type: article
+    title: "Open TG-GATEs: a large-scale toxicogenomics database"
+    authors:
+      - family-names: "Igarashi"
+        given-names: "Y."
+    journal: "Nucleic Acids Research"
+    volume: 43
+    issue: D1
+    start: D921
+    end: D927
+    year: 2015
+    doi: "10.1093/nar/gku955"
+  - type: data
+    title: "Unified rat-liver microarray expression matrix for 446 DILI-relevant drugs"
+    authors:
+      - family-names: "Kumar"
+        given-names: "A."
+    year: 2026
+    doi: "10.5281/zenodo.20437047"

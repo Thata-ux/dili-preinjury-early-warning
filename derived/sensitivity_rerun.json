@@ -1,0 +1,74 @@
+{
+  "union": {
+    "n_arms": 396,
+    "n_pos": 48,
+    "prevalence": 0.12121212121212122,
+    "threshold": 0.36462845156590146,
+    "auc": 0.8323754789272031,
+    "ap": 0.4968074190492098,
+    "bacc": 0.7273706896551724,
+    "mcc": 0.4547413793103448,
+    "auc_ci_compound_clustered": [
+      0.7542155371832305,
+      0.893675529460339
+    ],
+    "n_admitted_by_rule": 396,
+    "n_arms_lost_to_missing_expression": 0,
+    "n_compounds": 139,
+    "runtime_s": 1007
+  },
+  "any_finding": {
+    "n_arms": 345,
+    "n_pos": 81,
+    "prevalence": 0.23478260869565218,
+    "threshold": 0.33556041680276394,
+    "auc": 0.8399270482603817,
+    "ap": 0.6285853545557628,
+    "bacc": 0.7418630751964086,
+    "mcc": 0.4837261503928171,
+    "auc_ci_compound_clustered": [
+      0.785672354527212,
+      0.8881148136503895
+    ],
+    "n_admitted_by_rule": 345,
+    "n_arms_lost_to_missing_expression": 0,
+    "n_compounds": 136,
+    "runtime_s": 2290
+  },
+  "moderate_plus": {
+    "n_arms": 409,
+    "n_pos": 41,
+    "prevalence": 0.10024449877750612,
+    "threshold": 0.3597825715939204,
+    "auc": 0.871288441145281,
+    "ap": 0.5932005265294629,
+    "bacc": 0.7560312831389184,
+    "mcc": 0.5120625662778366,
+    "auc_ci_compound_clustered": [
+      0.8006181028977947,
+      0.9280722367998583
+    ],
+    "n_admitted_by_rule": 409,
+    "n_arms_lost_to_missing_expression": 0,
+    "n_compounds": 140,
+    "runtime_s": 1054
+  },
+  "injury": {
+    "n_arms": 400,
+    "n_pos": 18,
+    "prevalence": 0.045,
+    "threshold": 0.17081740987487137,
+    "auc": 0.7818499127399651,
+    "ap": 0.12013941996233839,
+    "bacc": 0.5055264688772542,
+    "mcc": 0.011052937754508435,
+    "auc_ci_compound_clustered": [
+      0.6654642046697288,
+      0.8809684425522121
+    ],
+    "n_admitted_by_rule": 400,
+    "n_arms_lost_to_missing_expression": 0,
+    "n_compounds": 139,
+    "runtime_s": 823
+  }
+}

@@ -1,0 +1,426 @@
+compound,dose_level,early_rate,n_early,late_rate_max,outcome,status
+1% cholesterol + 0.25% sodium cholate,High,1.0,3,1.0,,already_injured_at_early
+"2,4-dinitrophenol",High,0.0,3,0.0,0.0,admitted
+"2,4-dinitrophenol",Low,0.0,3,0.0,0.0,admitted
+"2,4-dinitrophenol",Middle,0.0,3,0.0,0.0,admitted
+WY-14643,High,1.0,3,1.0,,already_injured_at_early
+WY-14643,Low,1.0,3,1.0,,already_injured_at_early
+WY-14643,Middle,1.0,3,1.0,,already_injured_at_early
+acarbose,High,0.0,3,0.0,0.0,admitted
+acarbose,Low,0.0,3,0.0,0.0,admitted
+acarbose,Middle,0.0,3,0.0,0.0,admitted
+acetamide,High,0.6666666666666666,3,0.6666666666666666,,already_injured_at_early
+acetamide,Low,0.0,3,0.0,0.0,admitted
+acetamide,Middle,0.3333333333333333,3,0.3333333333333333,,already_injured_at_early
+acetamidofluorene,High,0.3333333333333333,3,1.0,,already_injured_at_early
+acetamidofluorene,Low,0.0,3,1.0,1.0,admitted
+acetamidofluorene,Middle,0.0,3,1.0,1.0,admitted
+acetaminophen,High,0.6666666666666666,3,0.3333333333333333,,already_injured_at_early
+acetaminophen,Low,0.0,3,0.0,0.0,admitted
+acetaminophen,Middle,0.0,3,0.0,0.0,admitted
+acetazolamide,High,0.0,3,0.0,0.0,admitted
+acetazolamide,Low,0.0,3,0.0,0.0,admitted
+acetazolamide,Middle,0.0,3,0.0,0.0,admitted
+adapin,High,0.0,3,0.0,0.0,admitted
+adapin,Low,0.0,3,0.0,0.0,admitted
+adapin,Middle,0.0,3,0.0,0.0,admitted
+ajmaline,High,0.0,3,0.0,0.0,admitted
+ajmaline,Low,0.0,3,0.0,0.0,admitted
+ajmaline,Middle,0.0,3,0.0,0.0,admitted
+allopurinol,High,0.0,3,0.0,0.0,admitted
+allopurinol,Low,0.0,3,0.0,0.0,admitted
+allopurinol,Middle,0.0,3,0.0,0.0,admitted
+allyl alcohol,High,0.3333333333333333,3,0.6666666666666666,,already_injured_at_early
+allyl alcohol,Low,0.0,3,0.0,0.0,admitted
+allyl alcohol,Middle,0.0,3,0.0,0.0,admitted
+amiodarone,High,0.0,3,0.0,0.0,admitted
+amiodarone,Low,0.0,3,0.0,0.0,admitted
+amiodarone,Middle,0.0,3,0.0,0.0,admitted
+amitriptyline,High,0.0,3,1.0,1.0,admitted
+amitriptyline,Low,0.0,3,0.0,0.0,admitted
+amitriptyline,Middle,0.0,3,0.0,0.0,admitted
+amphotericin B,High,0.0,3,0.3333333333333333,0.0,admitted
+amphotericin B,Low,0.0,3,0.0,0.0,admitted
+amphotericin B,Middle,0.0,3,0.0,0.0,admitted
+aspirin,High,0.0,3,0.0,0.0,admitted
+aspirin,Low,0.0,3,0.0,0.0,admitted
+aspirin,Middle,0.0,3,0.0,0.0,admitted
+azathioprine,High,0.0,3,0.3333333333333333,0.0,admitted
+azathioprine,Low,0.0,3,0.0,0.0,admitted
+azathioprine,Middle,0.0,3,0.0,0.0,admitted
+bendazac,High,0.0,3,1.0,1.0,admitted
+bendazac,Low,0.0,3,0.0,0.0,admitted
+bendazac,Middle,0.0,3,0.0,0.0,admitted
+benzbromarone,High,0.0,3,1.0,1.0,admitted
+benzbromarone,Low,0.0,3,0.0,0.0,admitted
+benzbromarone,Middle,0.0,3,0.0,0.0,admitted
+benziodarone,High,0.0,3,0.0,0.0,admitted
+benziodarone,Low,0.0,3,0.0,0.0,admitted
+benziodarone,Middle,0.0,3,0.0,0.0,admitted
+bromobenzene,High,0.0,3,0.6666666666666666,1.0,admitted
+bromobenzene,Low,0.0,3,0.0,0.0,admitted
+bromobenzene,Middle,0.0,3,0.0,0.0,admitted
+bromoethylamine,High,0.0,3,0.0,0.0,admitted
+bromoethylamine,Low,0.0,3,0.0,0.0,admitted
+bromoethylamine,Middle,0.0,3,0.0,0.0,admitted
+bucetin,High,0.0,3,0.0,0.0,admitted
+bucetin,Low,0.0,3,0.0,0.0,admitted
+bucetin,Middle,0.0,3,0.0,0.0,admitted
+butylated hydroxyanisole,High,0.0,3,0.0,0.0,admitted
+butylated hydroxyanisole,Low,0.0,3,0.0,0.0,admitted
+butylated hydroxyanisole,Middle,0.0,3,0.0,0.0,admitted
+caffeine,High,0.0,3,0.0,0.0,admitted
+caffeine,Low,0.0,3,0.0,0.0,admitted
+caffeine,Middle,0.0,3,0.0,0.0,admitted
+captopril,High,0.0,3,0.0,0.0,admitted
+captopril,Low,0.0,3,0.0,0.0,admitted
+captopril,Middle,0.0,3,0.0,0.0,admitted
+carbamazepine,High,0.0,3,1.0,1.0,admitted
+carbamazepine,Low,0.0,3,0.6666666666666666,1.0,admitted
+carbamazepine,Middle,0.0,3,1.0,1.0,admitted
+carbon tetrachloride,High,1.0,3,1.0,,already_injured_at_early
+carbon tetrachloride,Low,1.0,3,1.0,,already_injured_at_early
+carbon tetrachloride,Middle,1.0,3,1.0,,already_injured_at_early
+carboplatin,High,0.0,3,0.0,0.0,admitted
+carboplatin,Low,0.0,3,0.0,0.0,admitted
+carboplatin,Middle,0.0,3,0.0,0.0,admitted
+cephalothin,High,0.0,3,0.0,0.0,admitted
+cephalothin,Low,0.0,3,0.0,0.0,admitted
+cephalothin,Middle,0.0,3,0.0,0.0,admitted
+chloramphenicol,High,0.0,3,0.0,0.0,admitted
+chloramphenicol,Low,0.0,3,0.0,0.0,admitted
+chloramphenicol,Middle,0.0,3,0.0,0.0,admitted
+chlormadinone,High,0.0,3,0.0,0.0,admitted
+chlormadinone,Low,0.0,3,0.0,0.0,admitted
+chlormadinone,Middle,0.0,3,0.0,0.0,admitted
+chlormezanone,High,0.0,3,1.0,1.0,admitted
+chlormezanone,Low,0.0,3,0.0,0.0,admitted
+chlormezanone,Middle,0.0,3,0.0,0.0,admitted
+chlorpheniramine,High,0.0,3,0.0,0.0,admitted
+chlorpheniramine,Low,0.0,3,0.0,0.0,admitted
+chlorpheniramine,Middle,0.0,3,0.0,0.0,admitted
+chlorpromazine,High,0.0,3,0.0,0.0,admitted
+chlorpromazine,Low,0.0,3,0.0,0.0,admitted
+chlorpromazine,Middle,0.0,3,0.0,0.0,admitted
+chlorpropamide,High,0.0,3,0.6666666666666666,1.0,admitted
+chlorpropamide,Low,0.0,3,0.0,0.0,admitted
+chlorpropamide,Middle,0.0,3,0.0,0.0,admitted
+cimetidine,High,0.0,3,0.3333333333333333,0.0,admitted
+cimetidine,Low,0.0,3,0.0,0.0,admitted
+cimetidine,Middle,0.0,3,0.0,0.0,admitted
+ciprofloxacin,High,0.0,3,0.0,0.0,admitted
+ciprofloxacin,Low,0.0,3,0.0,0.0,admitted
+ciprofloxacin,Middle,0.0,3,0.0,0.0,admitted
+cisplatin,High,0.0,3,0.0,0.0,admitted
+cisplatin,Low,0.0,3,0.0,0.0,admitted
+cisplatin,Middle,0.0,3,0.0,0.0,admitted
+clofibrate,High,0.0,3,1.0,1.0,admitted
+clofibrate,Low,0.0,3,0.0,0.0,admitted
+clofibrate,Middle,0.0,3,1.0,1.0,admitted
+clomipramine,High,0.0,3,0.3333333333333333,0.0,admitted
+clomipramine,Low,0.0,3,0.0,0.0,admitted
+clomipramine,Middle,0.0,3,0.0,0.0,admitted
+colchicine,High,0.3333333333333333,3,0.0,,already_injured_at_early
+colchicine,Low,0.0,3,0.0,0.0,admitted
+colchicine,Middle,0.0,3,0.0,0.0,admitted
+coumarin,High,0.0,3,1.0,1.0,admitted
+coumarin,Low,0.0,3,0.0,0.0,admitted
+coumarin,Middle,0.0,3,0.0,0.0,admitted
+cyclophosphamide,High,0.0,3,0.0,0.0,admitted
+cyclophosphamide,Low,0.0,3,0.0,0.0,admitted
+cyclophosphamide,Middle,0.0,3,0.0,0.0,admitted
+cyclosporine A,High,0.0,3,0.0,0.0,admitted
+cyclosporine A,Low,0.0,3,0.0,0.0,admitted
+cyclosporine A,Middle,0.0,3,0.0,0.0,admitted
+danazol,High,0.0,3,0.0,0.0,admitted
+danazol,Low,0.0,3,0.0,0.0,admitted
+danazol,Middle,0.0,3,0.0,0.0,admitted
+dantrolene,High,0.0,3,0.0,0.0,admitted
+dantrolene,Low,0.0,3,0.0,0.0,admitted
+dantrolene,Middle,0.0,3,0.0,0.0,admitted
+desmopressin acetate,High,0.0,3,0.0,0.0,admitted
+desmopressin acetate,Low,0.0,3,0.0,0.0,admitted
+desmopressin acetate,Middle,0.0,3,0.0,0.0,admitted
+diazepam,High,0.0,3,0.0,0.0,admitted
+diazepam,Low,0.0,3,0.0,0.0,admitted
+diazepam,Middle,0.0,3,0.0,0.0,admitted
+diclofenac,High,0.0,3,0.0,0.0,admitted
+diclofenac,Low,0.0,3,0.0,0.0,admitted
+diclofenac,Middle,0.0,3,0.0,0.0,admitted
+diltiazem,High,0.0,3,1.0,1.0,admitted
+diltiazem,Low,0.0,3,0.0,0.0,admitted
+diltiazem,Middle,0.0,3,0.0,0.0,admitted
+disopyramide,High,0.0,3,0.0,0.0,admitted
+disopyramide,Low,0.0,3,0.0,0.0,admitted
+disopyramide,Middle,0.0,3,0.0,0.0,admitted
+disulfiram,High,0.0,3,0.0,0.0,admitted
+disulfiram,Low,0.0,3,0.0,0.0,admitted
+disulfiram,Middle,0.0,3,0.0,0.0,admitted
+doxorubicin,High,0.0,3,0.0,0.0,admitted
+doxorubicin,Low,0.0,3,0.0,0.0,admitted
+doxorubicin,Middle,0.0,3,0.0,0.0,admitted
+enalapril,High,0.0,3,0.0,0.0,admitted
+enalapril,Low,0.0,3,0.0,0.0,admitted
+enalapril,Middle,0.0,3,0.0,0.0,admitted
+erythromycin ethylsuccinate,High,0.0,3,0.0,0.0,admitted
+erythromycin ethylsuccinate,Low,0.0,3,0.0,0.0,admitted
+erythromycin ethylsuccinate,Middle,0.0,3,0.0,0.0,admitted
+ethambutol,High,0.0,3,1.0,1.0,admitted
+ethambutol,Low,0.0,3,0.0,0.0,admitted
+ethambutol,Middle,0.0,3,1.0,1.0,admitted
+ethanol,High,0.0,3,0.0,0.0,admitted
+ethanol,Low,0.0,3,0.0,0.0,admitted
+ethanol,Middle,0.0,3,0.0,0.0,admitted
+ethinylestradiol,High,0.0,3,0.0,0.0,admitted
+ethinylestradiol,Low,0.0,3,0.0,0.0,admitted
+ethinylestradiol,Middle,0.0,3,0.0,0.0,admitted
+ethionamide,High,1.0,3,0.3333333333333333,,already_injured_at_early
+ethionamide,Low,0.0,3,0.0,0.0,admitted
+ethionamide,Middle,0.6666666666666666,3,0.0,,already_injured_at_early
+ethionine,High,1.0,3,1.0,,already_injured_at_early
+ethionine,Low,0.0,3,0.0,0.0,admitted
+ethionine,Middle,0.0,3,0.0,0.0,admitted
+etoposide,High,0.0,3,0.0,0.0,admitted
+etoposide,Low,0.0,3,0.0,0.0,admitted
+etoposide,Middle,0.0,3,0.0,0.0,admitted
+famotidine,High,0.0,3,0.0,0.0,admitted
+famotidine,Low,0.0,3,0.0,0.0,admitted
+famotidine,Middle,0.0,3,0.0,0.0,admitted
+fenofibrate,High,1.0,3,1.0,,already_injured_at_early
+fenofibrate,Low,0.0,3,1.0,1.0,admitted
+fenofibrate,Middle,1.0,3,1.0,,already_injured_at_early
+fluoxetine hydrochloride,High,0.0,3,0.0,0.0,admitted
+fluoxetine hydrochloride,Low,0.0,3,0.0,0.0,admitted
+fluoxetine hydrochloride,Middle,0.0,3,0.0,0.0,admitted
+fluphenazine,High,0.0,3,0.0,0.0,admitted
+fluphenazine,Low,0.0,3,0.0,0.0,admitted
+fluphenazine,Middle,0.0,3,0.0,0.0,admitted
+flutamide,High,0.0,3,1.0,1.0,admitted
+flutamide,Low,0.0,3,0.0,0.0,admitted
+flutamide,Middle,0.0,3,0.0,0.0,admitted
+furosemide,High,0.0,3,0.0,0.0,admitted
+furosemide,Low,0.0,3,0.0,0.0,admitted
+furosemide,Middle,0.0,3,0.0,0.0,admitted
+gemfibrozil,High,0.0,3,1.0,1.0,admitted
+gemfibrozil,Low,0.0,3,0.6666666666666666,1.0,admitted
+gemfibrozil,Middle,0.0,3,1.0,1.0,admitted
+gentamicin,High,0.0,3,0.0,0.0,admitted
+gentamicin,Low,0.0,3,0.0,0.0,admitted
+gentamicin,Middle,0.0,3,0.0,0.0,admitted
+glibenclamide,High,0.0,3,0.0,0.0,admitted
+glibenclamide,Low,0.0,3,0.0,0.0,admitted
+glibenclamide,Middle,0.0,3,0.0,0.0,admitted
+griseofulvin,High,0.0,3,0.3333333333333333,0.0,admitted
+griseofulvin,Low,0.0,3,0.3333333333333333,0.0,admitted
+griseofulvin,Middle,0.0,3,0.0,0.0,admitted
+haloperidol,High,0.0,3,0.0,0.0,admitted
+haloperidol,Low,0.0,3,0.0,0.0,admitted
+haloperidol,Middle,0.0,3,0.0,0.0,admitted
+hexachlorobenzene,High,0.0,3,1.0,1.0,admitted
+hexachlorobenzene,Low,0.0,3,1.0,1.0,admitted
+hexachlorobenzene,Middle,0.0,3,1.0,1.0,admitted
+hydroxyzine,High,0.0,3,0.6666666666666666,1.0,admitted
+hydroxyzine,Low,0.0,3,0.0,0.0,admitted
+hydroxyzine,Middle,0.0,3,0.0,0.0,admitted
+ibuprofen,High,0.0,3,0.3333333333333333,0.0,admitted
+ibuprofen,Low,0.0,3,0.0,0.0,admitted
+ibuprofen,Middle,0.0,3,0.0,0.0,admitted
+imipramine,High,0.0,3,0.3333333333333333,0.0,admitted
+imipramine,Low,0.0,3,0.0,0.0,admitted
+imipramine,Middle,0.0,3,0.0,0.0,admitted
+indomethacin,High,0.0,3,0.3333333333333333,0.0,admitted
+indomethacin,Low,0.0,3,0.0,0.0,admitted
+indomethacin,Middle,0.0,3,0.0,0.0,admitted
+iproniazid,High,0.0,3,1.0,1.0,admitted
+iproniazid,Low,0.0,3,0.0,0.0,admitted
+iproniazid,Middle,0.0,3,0.0,0.0,admitted
+isoniazid,High,0.0,3,0.0,0.0,admitted
+isoniazid,Low,0.0,3,0.0,0.0,admitted
+isoniazid,Middle,0.0,3,0.0,0.0,admitted
+ketoconazole,High,0.0,3,1.0,1.0,admitted
+ketoconazole,Low,0.0,3,0.0,0.0,admitted
+ketoconazole,Middle,0.0,3,0.0,0.0,admitted
+labetalol,High,0.0,3,0.0,0.0,admitted
+labetalol,Low,0.0,3,0.0,0.0,admitted
+labetalol,Middle,0.0,3,0.0,0.0,admitted
+lomustine,High,0.0,3,1.0,1.0,admitted
+lomustine,Low,0.0,3,0.0,0.0,admitted
+lomustine,Middle,0.0,3,0.3333333333333333,0.0,admitted
+lornoxicam,High,0.0,3,0.0,0.0,admitted
+lornoxicam,Low,0.0,3,0.0,0.0,admitted
+lornoxicam,Middle,0.0,3,0.0,0.0,admitted
+mefenamic acid,High,0.0,3,0.0,0.0,admitted
+mefenamic acid,Low,0.0,3,0.0,0.0,admitted
+mefenamic acid,Middle,0.0,3,0.0,0.0,admitted
+meloxicam,High,0.0,3,0.0,0.0,admitted
+meloxicam,Low,0.0,3,0.0,0.0,admitted
+meloxicam,Middle,0.0,3,0.0,0.0,admitted
+metformin,High,0.0,3,0.0,0.0,admitted
+metformin,Low,0.0,3,0.0,0.0,admitted
+metformin,Middle,0.0,3,0.0,0.0,admitted
+methapyrilene,High,1.0,3,1.0,,already_injured_at_early
+methapyrilene,Low,0.0,3,0.0,0.0,admitted
+methapyrilene,Middle,0.0,3,1.0,1.0,admitted
+methimazole,High,0.0,3,1.0,1.0,admitted
+methimazole,Low,0.0,3,0.0,0.0,admitted
+methimazole,Middle,0.0,3,0.0,0.0,admitted
+methyldopa,High,0.0,3,0.0,0.0,admitted
+methyldopa,Low,0.0,3,0.0,0.0,admitted
+methyldopa,Middle,0.0,3,0.0,0.0,admitted
+methylene dianiline,High,1.0,3,1.0,,already_injured_at_early
+methylene dianiline,Low,0.0,3,0.0,0.0,admitted
+methylene dianiline,Middle,0.3333333333333333,3,0.3333333333333333,,already_injured_at_early
+methyltestosterone,High,0.0,3,0.0,0.0,admitted
+methyltestosterone,Low,0.0,3,0.0,0.0,admitted
+methyltestosterone,Middle,0.0,3,0.0,0.0,admitted
+mexiletine,High,0.0,3,0.0,0.0,admitted
+mexiletine,Low,0.0,3,0.0,0.0,admitted
+mexiletine,Middle,0.0,3,0.0,0.0,admitted
+monocrotaline,High,0.3333333333333333,3,1.0,,already_injured_at_early
+monocrotaline,Low,0.0,3,0.0,0.0,admitted
+monocrotaline,Middle,0.0,3,0.6666666666666666,1.0,admitted
+moxisylyte,High,0.0,3,0.0,0.0,admitted
+moxisylyte,Low,0.0,3,0.0,0.0,admitted
+moxisylyte,Middle,0.0,3,0.0,0.0,admitted
+naphthyl isothiocyanate,High,0.6666666666666666,3,1.0,,already_injured_at_early
+naphthyl isothiocyanate,Low,0.0,3,0.0,0.0,admitted
+naphthyl isothiocyanate,Middle,0.0,3,0.0,0.0,admitted
+naproxen,High,0.3333333333333333,3,0.0,,already_injured_at_early
+naproxen,Low,0.0,3,0.0,0.0,admitted
+naproxen,Middle,0.0,3,0.0,0.0,admitted
+nicotinic acid,High,0.0,3,0.0,0.0,admitted
+nicotinic acid,Low,0.0,3,0.0,0.0,admitted
+nicotinic acid,Middle,0.0,3,0.0,0.0,admitted
+nifedipine,High,0.0,3,0.0,0.0,admitted
+nifedipine,Low,0.0,3,0.0,0.0,admitted
+nifedipine,Middle,0.0,3,0.0,0.0,admitted
+nimesulide,High,0.0,3,0.6666666666666666,1.0,admitted
+nimesulide,Low,0.0,3,0.0,0.0,admitted
+nimesulide,Middle,0.0,3,0.0,0.0,admitted
+nitrofurantoin,High,0.0,3,0.0,0.0,admitted
+nitrofurantoin,Low,0.0,3,0.0,0.0,admitted
+nitrofurantoin,Middle,0.0,3,0.0,0.0,admitted
+nitrofurazone,High,0.0,3,0.0,0.0,admitted
+nitrofurazone,Low,0.0,3,0.0,0.0,admitted
+nitrofurazone,Middle,0.0,3,0.0,0.0,admitted
+nitrosodiethylamine,High,1.0,3,1.0,,already_injured_at_early
+nitrosodiethylamine,Low,0.0,3,1.0,1.0,admitted
+nitrosodiethylamine,Middle,0.0,3,1.0,1.0,admitted
+omeprazole,High,0.0,3,1.0,1.0,admitted
+omeprazole,Low,0.0,3,0.0,0.0,admitted
+omeprazole,Middle,0.0,3,0.0,0.0,admitted
+papaverine,High,0.3333333333333333,3,1.0,,already_injured_at_early
+papaverine,Low,0.0,3,0.0,0.0,admitted
+papaverine,Middle,0.0,3,0.0,0.0,admitted
+pemoline,High,0.0,3,0.0,0.0,admitted
+pemoline,Low,0.0,3,0.0,0.0,admitted
+pemoline,Middle,0.0,3,0.0,0.0,admitted
+penicillamine,High,0.0,3,0.0,0.0,admitted
+penicillamine,Low,0.0,3,0.0,0.0,admitted
+penicillamine,Middle,0.0,3,0.0,0.0,admitted
+perhexiline,High,0.0,3,0.0,0.0,admitted
+perhexiline,Low,0.0,3,0.0,0.0,admitted
+perhexiline,Middle,0.0,3,0.0,0.0,admitted
+phalloidin,High,1.0,3,,,no_late_timepoint
+phenacetin,High,0.0,3,0.0,0.0,admitted
+phenacetin,Low,0.0,3,0.0,0.0,admitted
+phenacetin,Middle,0.0,3,0.0,0.0,admitted
+phenobarbital,High,0.0,3,1.0,1.0,admitted
+phenobarbital,Low,0.0,3,0.0,0.0,admitted
+phenobarbital,Middle,0.0,3,0.3333333333333333,0.0,admitted
+phenylanthranilic acid,High,0.0,3,0.3333333333333333,0.0,admitted
+phenylanthranilic acid,Low,0.0,3,0.0,0.0,admitted
+phenylanthranilic acid,Middle,0.0,3,0.0,0.0,admitted
+phenylbutazone,High,0.0,3,0.0,0.0,admitted
+phenylbutazone,Low,0.0,3,0.0,0.0,admitted
+phenylbutazone,Middle,0.0,3,0.0,0.0,admitted
+phenytoin,High,0.0,3,0.6666666666666666,1.0,admitted
+phenytoin,Low,0.0,3,0.0,0.0,admitted
+phenytoin,Middle,0.0,3,0.0,0.0,admitted
+promethazine,High,0.0,3,1.0,1.0,admitted
+promethazine,Low,0.0,3,0.0,0.0,admitted
+promethazine,Middle,0.0,3,0.6666666666666666,1.0,admitted
+propranolol,High,0.0,3,0.0,0.0,admitted
+propranolol,Low,0.0,3,0.0,0.0,admitted
+propranolol,Middle,0.0,3,0.0,0.0,admitted
+propylthiouracil,High,0.0,3,0.0,0.0,admitted
+propylthiouracil,Low,0.0,3,0.0,0.0,admitted
+propylthiouracil,Middle,0.0,3,0.0,0.0,admitted
+puromycin aminonucleoside,High,0.0,3,,,no_late_timepoint
+puromycin aminonucleoside,Low,0.0,3,0.0,0.0,admitted
+puromycin aminonucleoside,Middle,0.0,3,0.6666666666666666,1.0,admitted
+quinidine,High,0.0,3,0.3333333333333333,0.0,admitted
+quinidine,Low,0.0,3,0.0,0.0,admitted
+quinidine,Middle,0.0,3,0.0,0.0,admitted
+ranitidine,High,0.0,3,0.0,0.0,admitted
+ranitidine,Low,0.0,3,0.0,0.0,admitted
+ranitidine,Middle,0.0,3,0.0,0.0,admitted
+rifampicin,High,0.0,3,0.0,0.0,admitted
+rifampicin,Low,0.0,3,0.0,0.0,admitted
+rifampicin,Middle,0.0,3,0.0,0.0,admitted
+rosiglitazone maleate,High,0.0,3,0.0,0.0,admitted
+rosiglitazone maleate,Low,0.0,3,0.0,0.0,admitted
+rosiglitazone maleate,Middle,0.0,3,0.0,0.0,admitted
+rotenone,High,0.0,3,0.0,0.0,admitted
+rotenone,Low,0.0,3,0.0,0.0,admitted
+rotenone,Middle,0.0,3,0.0,0.0,admitted
+simvastatin,High,0.0,3,0.0,0.0,admitted
+simvastatin,Low,0.0,3,0.0,0.0,admitted
+simvastatin,Middle,0.0,3,0.0,0.0,admitted
+sulfasalazine,High,0.0,3,1.0,1.0,admitted
+sulfasalazine,Low,0.0,3,0.0,0.0,admitted
+sulfasalazine,Middle,0.0,3,0.0,0.0,admitted
+sulindac,High,0.0,3,0.0,0.0,admitted
+sulindac,Low,0.0,3,0.0,0.0,admitted
+sulindac,Middle,0.0,3,0.0,0.0,admitted
+sulpiride,High,0.0,3,0.0,0.0,admitted
+sulpiride,Low,0.0,3,0.0,0.0,admitted
+sulpiride,Middle,0.0,3,0.0,0.0,admitted
+tacrine,High,0.0,3,0.0,0.0,admitted
+tacrine,Low,0.0,3,0.0,0.0,admitted
+tacrine,Middle,0.0,3,0.0,0.0,admitted
+tamoxifen,High,0.0,3,0.0,0.0,admitted
+tamoxifen,Low,0.0,3,0.0,0.0,admitted
+tamoxifen,Middle,0.0,3,0.0,0.0,admitted
+tannic acid,High,0.0,3,0.0,0.0,admitted
+tannic acid,Low,0.0,3,0.0,0.0,admitted
+tannic acid,Middle,0.0,3,0.0,0.0,admitted
+terbinafine,High,0.0,3,0.3333333333333333,0.0,admitted
+terbinafine,Low,0.0,3,0.0,0.0,admitted
+terbinafine,Middle,0.0,3,0.0,0.0,admitted
+tetracycline,High,0.0,3,0.0,0.0,admitted
+tetracycline,Low,0.0,3,0.0,0.0,admitted
+tetracycline,Middle,0.0,3,0.0,0.0,admitted
+theophylline,High,0.0,3,0.5,1.0,admitted
+theophylline,Low,0.0,3,0.0,0.0,admitted
+theophylline,Middle,0.0,3,0.0,0.0,admitted
+thioacetamide,High,1.0,3,1.0,,already_injured_at_early
+thioacetamide,Low,0.0,3,0.6666666666666666,1.0,admitted
+thioacetamide,Middle,0.0,3,1.0,1.0,admitted
+thioridazine,High,0.0,3,0.0,0.0,admitted
+thioridazine,Low,0.0,3,0.0,0.0,admitted
+thioridazine,Middle,0.0,3,0.0,0.0,admitted
+ticlopidine,High,0.0,3,1.0,1.0,admitted
+ticlopidine,Low,0.0,3,0.0,0.0,admitted
+ticlopidine,Middle,0.0,3,0.0,0.0,admitted
+tiopronin,High,0.0,3,0.0,0.0,admitted
+tiopronin,Low,0.0,3,0.0,0.0,admitted
+tiopronin,Middle,0.0,3,0.0,0.0,admitted
+tolbutamide,High,0.0,3,0.3333333333333333,0.0,admitted
+tolbutamide,Low,0.0,3,0.0,0.0,admitted
+tolbutamide,Middle,0.0,3,0.0,0.0,admitted
+triamterene,High,0.0,3,0.0,0.0,admitted
+triamterene,Low,0.0,3,0.0,0.0,admitted
+triamterene,Middle,0.0,3,0.0,0.0,admitted
+triazolam,High,0.0,3,0.0,0.0,admitted
+triazolam,Low,0.0,3,0.0,0.0,admitted
+triazolam,Middle,0.0,3,0.0,0.0,admitted
+trimethadione,High,0.0,3,0.6666666666666666,1.0,admitted
+trimethadione,Low,0.0,3,0.0,0.0,admitted
+trimethadione,Middle,0.0,3,0.0,0.0,admitted
+valproic acid,High,0.0,3,0.0,0.0,admitted
+valproic acid,Low,0.0,3,0.0,0.0,admitted
+valproic acid,Middle,0.0,3,0.0,0.0,admitted
+vitamin A,High,0.0,3,1.0,1.0,admitted
+vitamin A,Low,0.0,3,0.0,0.0,admitted
+vitamin A,Middle,0.0,3,0.3333333333333333,0.0,admitted

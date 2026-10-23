@@ -1,0 +1,222 @@
+{
+  "B_loco": {
+    "n_arms": 396,
+    "n_pos": 48,
+    "auc": 0.8323754789272031,
+    "ap": 0.4968074190492098,
+    "bacc": 0.7015086206896551,
+    "mcc": 0.26306839575082347,
+    "auc_ci95": [
+      0.7641344785136903,
+      0.8930775812221239
+    ]
+  },
+  "A_random_split": {
+    "n_arms": 224,
+    "n_pos": 28,
+    "auc": 0.9333090379008747,
+    "ap": 0.7192202015886013,
+    "bacc": 0.7857142857142857,
+    "mcc": 0.3779644730092272
+  },
+  "C_dose_loco": {
+    "n_arms": 396,
+    "n_pos": 48,
+    "auc": 0.5798611111111112,
+    "ap": 0.20809738971976227,
+    "bacc": 0.5563936781609196,
+    "mcc": 0.07362539271063015
+  },
+  "C_dose_raw": {
+    "auc": 0.6901041666666665
+  },
+  "per_compound": {
+    "amitriptyline": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "bendazac": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "benzbromarone": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "bromobenzene": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "chlormezanone": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "chlorpropamide": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "clofibrate": {
+      "n_arms": 3,
+      "n_pos": 2,
+      "auc": 0.5
+    },
+    "coumarin": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "diltiazem": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "ethambutol": {
+      "n_arms": 3,
+      "n_pos": 2,
+      "auc": 1.0
+    },
+    "flutamide": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "hydroxyzine": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "iproniazid": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 0.5
+    },
+    "ketoconazole": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "lomustine": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 0.5
+    },
+    "methapyrilene": {
+      "n_arms": 2,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "methimazole": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 0.5
+    },
+    "monocrotaline": {
+      "n_arms": 2,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "nimesulide": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "omeprazole": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "phenobarbital": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 0.5
+    },
+    "phenytoin": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "promethazine": {
+      "n_arms": 3,
+      "n_pos": 2,
+      "auc": 1.0
+    },
+    "puromycin aminonucleoside": {
+      "n_arms": 2,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "sulfasalazine": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "theophylline": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 0.0
+    },
+    "ticlopidine": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "trimethadione": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 1.0
+    },
+    "vitamin A": {
+      "n_arms": 3,
+      "n_pos": 1,
+      "auc": 0.5
+    }
+  },
+  "permutation": {
+    "observed_full_pipeline": 0.8323754789272031,
+    "observed_light_pipeline": 0.8461446360153256,
+    "null_mean": 0.5291247605363985,
+    "null_sd": 0.046105491049978506,
+    "n_permutations": 10,
+    "p": 0.09090909090909091
+  },
+  "sensitivity": {
+    "union": {
+      "n_arms": 396,
+      "n_pos": 48,
+      "auc": 0.8323754789272031,
+      "ap": 0.4968074190492098,
+      "bacc": 0.7015086206896551,
+      "mcc": 0.26306839575082347
+    },
+    "any_finding": {
+      "n_arms": 345,
+      "n_pos": 81,
+      "auc": 0.8461466517022073,
+      "ap": 0.6299628750999968,
+      "bacc": 0.7531565656565656,
+      "mcc": 0.42921648029656184
+    },
+    "moderate_plus": {
+      "n_arms": 396,
+      "n_pos": 36,
+      "auc": 0.8395833333333335,
+      "ap": 0.500562403951916,
+      "bacc": 0.7138888888888888,
+      "mcc": 0.24595492912420727
+    },
+    "injury": {
+      "n_arms": 396,
+      "n_pos": 18,
+      "auc": 0.7912992357436802,
+      "ap": 0.14304543208432335,
+      "bacc": 0.7037037037037037,
+      "mcc": 0.1697250257391052
+    }
+  }
+}

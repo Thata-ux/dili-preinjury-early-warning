@@ -1,0 +1,152 @@
+{
+  "n_arms": 396,
+  "n_positive": 48,
+  "n_compounds": 139,
+  "auc": {
+    "transcriptomic": {
+      "arm_resampled": {
+        "point": 0.8323754789272031,
+        "lo": 0.7641344785136903,
+        "hi": 0.8930775812221239,
+        "width": 0.12894310270843357,
+        "n_resamples": 2000
+      },
+      "compound_clustered": {
+        "point": 0.8323754789272031,
+        "lo": 0.7542155371832305,
+        "hi": 0.893675529460339,
+        "width": 0.13945999227710848,
+        "n_resamples": 2000
+      }
+    },
+    "dose (raw ordinal)": {
+      "arm_resampled": {
+        "point": 0.6901041666666665,
+        "lo": 0.6149111624064353,
+        "hi": 0.7634440186612595,
+        "width": 0.14853285625482426,
+        "n_resamples": 2000
+      },
+      "compound_clustered": {
+        "point": 0.6901041666666665,
+        "lo": 0.6203541576032773,
+        "hi": 0.7674519819406183,
+        "width": 0.14709782433734098,
+        "n_resamples": 2000
+      }
+    },
+    "dose (fitted, LOCO)": {
+      "arm_resampled": {
+        "point": 0.5798611111111112,
+        "lo": 0.488083580420308,
+        "hi": 0.6708039296627674,
+        "width": 0.18272034924245933,
+        "n_resamples": 2000
+      },
+      "compound_clustered": {
+        "point": 0.5798611111111112,
+        "lo": 0.5016893327537172,
+        "hi": 0.6624697018621503,
+        "width": 0.16078036910843307,
+        "n_resamples": 2000
+      }
+    }
+  },
+  "difference": {
+    "vs raw dose": {
+      "arm_resampled": {
+        "difference": 0.14227131226053658,
+        "lo": 0.05017539109909324,
+        "hi": 0.23769962148898904,
+        "width": 0.1875242303898958,
+        "p_bootstrap": 0.004,
+        "excludes_zero": true,
+        "n_resamples": 2000
+      },
+      "compound_clustered": {
+        "difference": 0.14227131226053658,
+        "lo": 0.020127701858377815,
+        "hi": 0.24767016380914425,
+        "width": 0.22754246195076644,
+        "p_bootstrap": 0.027,
+        "excludes_zero": true,
+        "n_resamples": 2000
+      }
+    },
+    "vs fitted dose model": {
+      "arm_resampled": {
+        "difference": 0.25251436781609193,
+        "lo": 0.1471480932536675,
+        "hi": 0.36249143934076844,
+        "width": 0.21534334608710093,
+        "p_bootstrap": 0.0004997501249375312,
+        "excludes_zero": true,
+        "n_resamples": 2000
+      },
+      "compound_clustered": {
+        "difference": 0.25251436781609193,
+        "lo": 0.12093919289708077,
+        "hi": 0.36418217767062283,
+        "width": 0.24324298477354206,
+        "p_bootstrap": 0.0004997501249375312,
+        "excludes_zero": true,
+        "n_resamples": 2000
+      }
+    }
+  },
+  "average_precision": {
+    "transcriptomic": {
+      "point": 0.4968074190492098,
+      "lo": 0.3438131465645152,
+      "hi": 0.6511754798834714,
+      "width": 0.3073623333189561,
+      "n_resamples": 2000
+    },
+    "dose (raw ordinal)": {
+      "point": 0.2011734241374,
+      "lo": 0.14196555547468534,
+      "hi": 0.2686010468745431,
+      "width": 0.12663549139985777,
+      "n_resamples": 2000
+    }
+  },
+  "folds": {
+    "total": 139,
+    "with_both_classes": 29,
+    "positive_only": 7,
+    "negative_only": 103,
+    "arms_per_fold_median": 3.0,
+    "arms_per_fold_range": [
+      1,
+      3
+    ],
+    "auc_median_evaluable_folds": 1.0,
+    "auc_iqr_evaluable_folds": [
+      1.0,
+      1.0
+    ],
+    "auc_distribution_evaluable": {
+      "1.0": 22,
+      "0.5": 6,
+      "0.0": 1
+    }
+  },
+  "no_fibrates": {
+    "auc_compound_clustered": {
+      "point": 0.8899409908055441,
+      "lo": 0.8292414384805424,
+      "hi": 0.941750748150434,
+      "width": 0.11250930966989159,
+      "n_resamples": 2000
+    },
+    "difference_compound_clustered": {
+      "difference": 0.17867435158501443,
+      "lo": 0.0668783928608531,
+      "hi": 0.2747975657291695,
+      "width": 0.2079191728683164,
+      "p_bootstrap": 0.001,
+      "excludes_zero": true,
+      "n_resamples": 2000
+    }
+  }
+}
