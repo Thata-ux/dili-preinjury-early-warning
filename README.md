@@ -329,8 +329,34 @@ derived/
   cluster_inference.json              compound-clustered intervals for every statistic
   fold_composition.csv                arms, classes and AUC per leave-one-compound-out fold
 
-figures/                              Figures 1-4 as published
+figures/                              Figures 1-4 (PNG + vector PDF); figures/springer/ holds
+                                      600 dpi TIFF/EPS submission copies (Fig1-Fig4)
+esm/ESM_{1-9}.xlsx                    Supplementary Data S1-S9 (built by make_esm.py)
+references.json / references.ris      manuscript reference list [1]-[36], CSL-JSON and RIS
+                                      (import into Mendeley/Zotero; built by make_ris.py)
 ```
+
+### Supplementary data
+
+The manuscript cites the supplementary files as **Supplementary Data S1–S9** (Appendix A).
+Each `esm/ESM_n.xlsx` holds an `About` sheet (article, journal, authors, caption, source
+file) and a `Data` sheet. They are rebuilt from `derived/` with:
+
+```
+python3 make_esm.py --derived derived --out esm
+```
+
+| Manuscript | File | Contents |
+|---|---|---|
+| S1 | `esm/ESM_1.xlsx` | compound–dose arm inventory and task labels, all four label rules |
+| S2 | `esm/ESM_2.xlsx` | per-arm scores: transcriptomic model, dose model, ordinal dose |
+| S3 | `esm/ESM_3.xlsx` | cross-fold feature selection frequency |
+| S4 | `esm/ESM_4.xlsx` | SHAP attributions, genes selected in a majority of folds |
+| S5 | `esm/ESM_5.xlsx` | permutation null distribution (100 permutations) |
+| S6 | `esm/ESM_6.xlsx` | per-arm scores with PPARα agonists excluded |
+| S7 | `esm/ESM_7.xlsx` | label-rule sensitivity re-run, each rule on its own cohort |
+| S8 | `esm/ESM_8.xlsx` | operating characteristics across decision thresholds |
+| S9 | `esm/ESM_9.xlsx` | mean absolute SHAP for genes selected in every fold |
 
 ---
 
@@ -381,8 +407,8 @@ Abdul Karim D.D., Andika T.H., Gameiro J.F., Ardhy F.
 *Pre-Injury Hepatic Transcriptome Predicts Later-Onset Drug-Induced Liver Injury in Rat:
 Compound-Held-Out Evidence Beyond Dose.* Manuscript in preparation.
 
-Corresponding author: Tahta Herdian Andika, Universitas Aisyah Pringsewu —
-tahta.herdian.a@gmail.com
+Corresponding author: Tahta Herdian Andika, Department of Informatics Engineering,
+Universitas Aisyah Pringsewu, Indonesia — tahta.herdian.a@aisyahuniversity.ac.id
 
 Please also cite the underlying data:
 

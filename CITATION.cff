@@ -10,18 +10,22 @@ abstract: >-
 type: software
 license: MIT
 authors:
+  - family-names: "Abdul Karim"
+    given-names: "Dewi Damayanti"
+    orcid: "https://orcid.org/0000-0002-1624-3168"
+    affiliation: "Faculty of Pharmacy, Institut Teknologi Sumatera, Indonesia"
   - family-names: "Andika"
     given-names: "Tahta Herdian"
     orcid: "https://orcid.org/0000-0001-7009-6114"
     affiliation: "Department of Informatics Engineering, Universitas Aisyah Pringsewu, Indonesia"
-  - family-names: "Abdul Karim"
-    given-names: "Dewi Damayanti"
-    affiliation: "Institut Teknologi Sumatera, Indonesia"
-    email: "dewi.abdul@fa.itera.ac.id"
+    email: "tahta.herdian.a@aisyahuniversity.ac.id"
   - family-names: "Gameiro"
-    given-names: "J. F."
+    given-names: "Joana Freire"
+    affiliation: "Unidade Local de Saúde Almada-Seixal, Portugal"
   - family-names: "Ardhy"
-    given-names: "F."
+    given-names: "Ferly"
+    orcid: "https://orcid.org/0000-0001-9161-4777"
+    affiliation: "Department of Informatics Engineering, Universitas Aisyah Pringsewu, Indonesia"
 keywords:
   - drug-induced liver injury
   - toxicogenomics

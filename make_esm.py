@@ -1,9 +1,9 @@
-"""Build the Electronic Supplementary Material files for submission.
+"""Build the supplementary data files for submission.
 
-Archives of Toxicology asks that each ESM file carry the article title, journal,
-authors and the corresponding author's affiliation and email. A bare CSV has
-nowhere to put that, so each Online Resource is an .xlsx with an `About` sheet
-holding the metadata and a `Data` sheet holding the table itself.
+Each file is cited in the manuscript as Supplementary Data S1-S9 (Appendix A) and is
+written as esm/ESM_{n}.xlsx. A bare CSV has nowhere to carry the article title,
+journal, authors and corresponding author, so each file is an .xlsx with an `About`
+sheet holding that metadata and a `Data` sheet holding the table itself.
 
     python3 make_esm.py --derived repo_out/derived --out repo_out/esm
 """
@@ -15,26 +15,29 @@ import pandas as pd
 
 TITLE = ("Pre-Injury Hepatic Transcriptome Predicts Later-Onset Drug-Induced Liver "
          "Injury in Rat: Compound-Held-Out Evidence Beyond Dose")
-JOURNAL = "Archives of Toxicology"
-AUTHORS = ("Tahta Herdian Andika; Dewi Damayanti Abdul Karim; "
+JOURNAL = "Computational Toxicology"
+AUTHORS = ("Dewi Damayanti Abdul Karim; Tahta Herdian Andika; "
            "Joana Freire Gameiro; Ferly Ardhy")
-CORRESPONDING = ("Dewi Damayanti Abdul Karim, Institut Teknologi Sumatera, "
-                 "Indonesia — dewi.abdul@fa.itera.ac.id")
+CORRESPONDING = ("Tahta Herdian Andika, Department of Informatics Engineering, "
+                 "Universitas Aisyah Pringsewu, Indonesia — "
+                 "tahta.herdian.a@aisyahuniversity.ac.id")
 REPO = "https://github.com/Thata-ux/dili-preinjury-early-warning"
 RULES = ["union", "any_finding", "moderate_plus", "injury"]
 
 
-def about(caption: str, source: str) -> pd.DataFrame:
+def about(n: int, caption: str, source: str) -> pd.DataFrame:
     return pd.DataFrame({
-        "Field": ["Article title", "Journal", "Authors", "Corresponding author",
-                  "Caption", "Source file in repository", "Repository"],
-        "Value": [TITLE, JOURNAL, AUTHORS, CORRESPONDING, caption, source, REPO]})
+        "Field": ["Supplementary item", "Article title", "Journal", "Authors",
+                  "Corresponding author", "Caption", "Source file in repository",
+                  "Repository"],
+        "Value": [f"Supplementary Data S{n}", TITLE, JOURNAL, AUTHORS, CORRESPONDING,
+                  caption, source, REPO]})
 
 
 def write(out: Path, n: int, caption: str, source: str, data: pd.DataFrame):
     path = out / f"ESM_{n}.xlsx"
     with pd.ExcelWriter(path, engine="openpyxl") as x:
-        about(caption, source).to_excel(x, sheet_name="About", index=False)
+        about(n, caption, source).to_excel(x, sheet_name="About", index=False)
         data.to_excel(x, sheet_name="Data", index=False)
         ws = x.sheets["About"]
         ws.column_dimensions["A"].width = 26
@@ -136,7 +139,7 @@ def main():
                   "in every compound-held-out fold.",
           "derived/feature_stability.csv + shap_stable_genes.csv", g9)
 
-    print(f"\n{len(list(out.glob('ESM_*.xlsx')))} Online Resources in {out}")
+    print(f"\n{len(list(out.glob('ESM_*.xlsx')))} supplementary data files (S1-S9) in {out}")
 
 
 if __name__ == "__main__":
