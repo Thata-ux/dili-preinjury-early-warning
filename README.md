@@ -377,12 +377,12 @@ on load: a score compared with itself must return *p* = 1, and its AUC must matc
 
 ## Citation
 
-Andika T.H., Abdul Karim D.D., Gameiro J.F., Ardhy F.
+Abdul Karim D.D., Andika T.H., Gameiro J.F., Ardhy F.
 *Pre-Injury Hepatic Transcriptome Predicts Later-Onset Drug-Induced Liver Injury in Rat:
 Compound-Held-Out Evidence Beyond Dose.* Manuscript in preparation.
 
-Corresponding author: Dewi Damayanti Abdul Karim, Institut Teknologi Sumatera —
-dewi.abdul@fa.itera.ac.id
+Corresponding author: Tahta Herdian Andika, Universitas Aisyah Pringsewu —
+tahta.herdian.a@gmail.com
 
 Please also cite the underlying data:
 
